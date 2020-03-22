@@ -1,0 +1,1200 @@
+2020-03-22 16:01:12,413 INFO Train - Epoch: 0, LR: 0.0001, train_loss: 6.399027, train_str_accuracy: 0.006872465, train_avg Levenshtein distance: 8.523267, train_avg Jaro distance: 3.622916e-30
+2020-03-22 16:01:14,571 INFO Validation - Epoch: 0, val_loss: 6.883292, val_str_accuracy: 0, val_avg Levenshtein distance: 8.500532, val_avg Jaro distance: 0
+2020-03-22 16:01:14,574 INFO Model saved to '../exp/exp1/model-000-6.399027.pth'
+2020-03-22 16:01:29,537 INFO Train - Epoch: 1, LR: 0.0001, train_loss: 4.791482, train_str_accuracy: 0, train_avg Levenshtein distance: 8.483982, train_avg Jaro distance: 0
+2020-03-22 16:01:32,053 INFO Validation - Epoch: 1, val_loss: 4.743811, val_str_accuracy: 0, val_avg Levenshtein distance: 8.500532, val_avg Jaro distance: 0
+2020-03-22 16:01:32,057 INFO Model saved to '../exp/exp1/model-001-4.791482.pth'
+2020-03-22 16:01:47,602 INFO Train - Epoch: 2, LR: 0.0001, train_loss: 3.684403, train_str_accuracy: 0, train_avg Levenshtein distance: 8.54989, train_avg Jaro distance: 0
+2020-03-22 16:01:50,021 INFO Validation - Epoch: 2, val_loss: 3.398361, val_str_accuracy: 0, val_avg Levenshtein distance: 8.500532, val_avg Jaro distance: 0
+2020-03-22 16:01:50,024 INFO Model saved to '../exp/exp1/model-002-3.684403.pth'
+2020-03-22 16:02:05,944 INFO Train - Epoch: 3, LR: 0.0001, train_loss: 3.263806, train_str_accuracy: 0, train_avg Levenshtein distance: 8.502825, train_avg Jaro distance: 0
+2020-03-22 16:02:08,352 INFO Validation - Epoch: 3, val_loss: 3.199058, val_str_accuracy: 0, val_avg Levenshtein distance: 8.500532, val_avg Jaro distance: 0
+2020-03-22 16:02:08,355 INFO Model saved to '../exp/exp1/model-003-3.263806.pth'
+2020-03-22 16:02:23,760 INFO Train - Epoch: 4, LR: 0.0001, train_loss: 3.166985, train_str_accuracy: 0, train_avg Levenshtein distance: 8.563269, train_avg Jaro distance: 0
+2020-03-22 16:02:26,191 INFO Validation - Epoch: 4, val_loss: 3.136238, val_str_accuracy: 0, val_avg Levenshtein distance: 8.500532, val_avg Jaro distance: 0
+2020-03-22 16:02:26,194 INFO Model saved to '../exp/exp1/model-004-3.166985.pth'
+2020-03-22 16:02:41,710 INFO Train - Epoch: 5, LR: 0.0001, train_loss: 3.113752, train_str_accuracy: 0, train_avg Levenshtein distance: 8.503583, train_avg Jaro distance: 0
+2020-03-22 16:02:44,103 INFO Validation - Epoch: 5, val_loss: 3.094786, val_str_accuracy: 0, val_avg Levenshtein distance: 8.500532, val_avg Jaro distance: 0
+2020-03-22 16:02:44,106 INFO Model saved to '../exp/exp1/model-005-3.113752.pth'
+2020-03-22 16:02:59,243 INFO Train - Epoch: 6, LR: 0.0001, train_loss: 3.077674, train_str_accuracy: 0, train_avg Levenshtein distance: 8.503489, train_avg Jaro distance: 0
+2020-03-22 16:03:01,683 INFO Validation - Epoch: 6, val_loss: 3.061106, val_str_accuracy: 0, val_avg Levenshtein distance: 8.500532, val_avg Jaro distance: 0
+2020-03-22 16:03:01,686 INFO Model saved to '../exp/exp1/model-006-3.077674.pth'
+2020-03-22 16:03:17,099 INFO Train - Epoch: 7, LR: 0.0001, train_loss: 3.042767, train_str_accuracy: 0, train_avg Levenshtein distance: 8.597309, train_avg Jaro distance: 0
+2020-03-22 16:03:19,548 INFO Validation - Epoch: 7, val_loss: 3.030771, val_str_accuracy: 0, val_avg Levenshtein distance: 8.500532, val_avg Jaro distance: 0
+2020-03-22 16:03:19,551 INFO Model saved to '../exp/exp1/model-007-3.042767.pth'
+2020-03-22 16:03:35,032 INFO Train - Epoch: 8, LR: 0.0001, train_loss: 3.005677, train_str_accuracy: 0, train_avg Levenshtein distance: 8.556732, train_avg Jaro distance: 0
+2020-03-22 16:03:37,433 INFO Validation - Epoch: 8, val_loss: 3.000137, val_str_accuracy: 0, val_avg Levenshtein distance: 8.500532, val_avg Jaro distance: 0
+2020-03-22 16:03:37,436 INFO Model saved to '../exp/exp1/model-008-3.005677.pth'
+2020-03-22 16:03:52,819 INFO Train - Epoch: 9, LR: 0.0001, train_loss: 2.968753, train_str_accuracy: 0, train_avg Levenshtein distance: 8.436823, train_avg Jaro distance: 0
+2020-03-22 16:03:55,184 INFO Validation - Epoch: 9, val_loss: 2.959996, val_str_accuracy: 0, val_avg Levenshtein distance: 8.500532, val_avg Jaro distance: 0
+2020-03-22 16:03:55,186 INFO Model saved to '../exp/exp1/model-009-2.968753.pth'
+2020-03-22 16:04:10,761 INFO Train - Epoch: 10, LR: 0.0001, train_loss: 2.932492, train_str_accuracy: 0.0004879697, train_avg Levenshtein distance: 8.496956, train_avg Jaro distance: 0.02355145
+2020-03-22 16:04:13,144 INFO Validation - Epoch: 10, val_loss: 2.924977, val_str_accuracy: 0.002166065, val_avg Levenshtein distance: 8.499755, val_avg Jaro distance: 0.0003417727
+2020-03-22 16:04:13,147 INFO Model saved to '../exp/exp1/model-010-2.932492.pth'
+2020-03-22 16:04:28,561 INFO Train - Epoch: 11, LR: 0.0001, train_loss: 2.896401, train_str_accuracy: 0.004732394, train_avg Levenshtein distance: 8.349483, train_avg Jaro distance: 0.05695129
+2020-03-22 16:04:30,935 INFO Validation - Epoch: 11, val_loss: 2.887734, val_str_accuracy: 0.00866426, val_avg Levenshtein distance: 8.425151, val_avg Jaro distance: 0.0315554
+2020-03-22 16:04:30,938 INFO Model saved to '../exp/exp1/model-011-2.896401.pth'
+2020-03-22 16:04:46,358 INFO Train - Epoch: 12, LR: 0.0001, train_loss: 2.856147, train_str_accuracy: 0.01002252, train_avg Levenshtein distance: 8.127964, train_avg Jaro distance: 0.09030617
+2020-03-22 16:04:48,786 INFO Validation - Epoch: 12, val_loss: 2.855302, val_str_accuracy: 0.01559567, val_avg Levenshtein distance: 8.321368, val_avg Jaro distance: 0.06309157
+2020-03-22 16:04:48,789 INFO Model saved to '../exp/exp1/model-012-2.856147.pth'
+2020-03-22 16:05:04,228 INFO Train - Epoch: 13, LR: 0.0001, train_loss: 2.815647, train_str_accuracy: 0.01411729, train_avg Levenshtein distance: 8.106753, train_avg Jaro distance: 0.1154137
+2020-03-22 16:05:06,590 INFO Validation - Epoch: 13, val_loss: 2.84162, val_str_accuracy: 0.01429603, val_avg Levenshtein distance: 8.321951, val_avg Jaro distance: 0.06263072
+2020-03-22 16:05:06,593 INFO Model saved to '../exp/exp1/model-013-2.815647.pth'
+2020-03-22 16:05:22,008 INFO Train - Epoch: 14, LR: 0.0001, train_loss: 2.773392, train_str_accuracy: 0.01652396, train_avg Levenshtein distance: 8.040135, train_avg Jaro distance: 0.0722795
+2020-03-22 16:05:24,405 INFO Validation - Epoch: 14, val_loss: 2.771626, val_str_accuracy: 0.02064982, val_avg Levenshtein distance: 8.158444, val_avg Jaro distance: 0.07686433
+2020-03-22 16:05:24,407 INFO Model saved to '../exp/exp1/model-014-2.773392.pth'
+2020-03-22 16:05:39,752 INFO Train - Epoch: 15, LR: 0.0001, train_loss: 2.728654, train_str_accuracy: 0.01917376, train_avg Levenshtein distance: 8.005779, train_avg Jaro distance: 0.09510476
+2020-03-22 16:05:42,152 INFO Validation - Epoch: 15, val_loss: 2.738928, val_str_accuracy: 0.01819495, val_avg Levenshtein distance: 8.216812, val_avg Jaro distance: 0.06877893
+2020-03-22 16:05:42,155 INFO Model saved to '../exp/exp1/model-015-2.728654.pth'
+2020-03-22 16:05:57,889 INFO Train - Epoch: 16, LR: 0.0001, train_loss: 2.688321, train_str_accuracy: 0.02069017, train_avg Levenshtein distance: 7.905543, train_avg Jaro distance: 0.1463588
+2020-03-22 16:06:00,721 INFO Validation - Epoch: 16, val_loss: 2.699901, val_str_accuracy: 0.0200722, val_avg Levenshtein distance: 8.143661, val_avg Jaro distance: 0.07908809
+2020-03-22 16:06:00,725 INFO Model saved to '../exp/exp1/model-016-2.688321.pth'
+2020-03-22 16:06:16,880 INFO Train - Epoch: 17, LR: 0.0001, train_loss: 2.646012, train_str_accuracy: 0.02106172, train_avg Levenshtein distance: 7.865768, train_avg Jaro distance: 0.1245121
+2020-03-22 16:06:19,372 INFO Validation - Epoch: 17, val_loss: 2.665213, val_str_accuracy: 0.02122744, val_avg Levenshtein distance: 8.054857, val_avg Jaro distance: 0.08218525
+2020-03-22 16:06:19,375 INFO Model saved to '../exp/exp1/model-017-2.646012.pth'
+2020-03-22 16:06:35,860 INFO Train - Epoch: 18, LR: 0.0001, train_loss: 2.606903, train_str_accuracy: 0.02207373, train_avg Levenshtein distance: 7.771455, train_avg Jaro distance: 0.1070102
+2020-03-22 16:06:38,339 INFO Validation - Epoch: 18, val_loss: 2.66073, val_str_accuracy: 0.02180505, val_avg Levenshtein distance: 7.982585, val_avg Jaro distance: 0.102835
+2020-03-22 16:06:38,342 INFO Model saved to '../exp/exp1/model-018-2.606903.pth'
+2020-03-22 16:06:54,729 INFO Train - Epoch: 19, LR: 0.0001, train_loss: 2.565202, train_str_accuracy: 0.02431702, train_avg Levenshtein distance: 7.757906, train_avg Jaro distance: 0.1021832
+2020-03-22 16:06:57,237 INFO Validation - Epoch: 19, val_loss: 2.597874, val_str_accuracy: 0.02555957, val_avg Levenshtein distance: 7.836102, val_avg Jaro distance: 0.09599157
+2020-03-22 16:06:57,240 INFO Model saved to '../exp/exp1/model-019-2.565202.pth'
+2020-03-22 16:07:14,178 INFO Train - Epoch: 20, LR: 0.0001, train_loss: 2.531868, train_str_accuracy: 0.02452214, train_avg Levenshtein distance: 7.731402, train_avg Jaro distance: 0.1404912
+2020-03-22 16:07:17,422 INFO Validation - Epoch: 20, val_loss: 2.580628, val_str_accuracy: 0.0232491, val_avg Levenshtein distance: 7.997374, val_avg Jaro distance: 0.09303962
+2020-03-22 16:07:17,426 INFO Model saved to '../exp/exp1/model-020-2.531868.pth'
+2020-03-22 16:07:33,934 INFO Train - Epoch: 21, LR: 0.0001, train_loss: 2.497435, train_str_accuracy: 0.02590382, train_avg Levenshtein distance: 7.62443, train_avg Jaro distance: 0.1748126
+2020-03-22 16:07:36,616 INFO Validation - Epoch: 21, val_loss: 2.546281, val_str_accuracy: 0.02296029, val_avg Levenshtein distance: 7.939108, val_avg Jaro distance: 0.09598674
+2020-03-22 16:07:36,619 INFO Model saved to '../exp/exp1/model-021-2.497435.pth'
+2020-03-22 16:07:53,975 INFO Train - Epoch: 22, LR: 0.0001, train_loss: 2.463402, train_str_accuracy: 0.02717922, train_avg Levenshtein distance: 7.650614, train_avg Jaro distance: 0.1399169
+2020-03-22 16:07:57,024 INFO Validation - Epoch: 22, val_loss: 2.514173, val_str_accuracy: 0.02873646, val_avg Levenshtein distance: 7.74623, val_avg Jaro distance: 0.1085017
+2020-03-22 16:07:57,031 INFO Model saved to '../exp/exp1/model-022-2.463402.pth'
+2020-03-22 16:08:13,624 INFO Train - Epoch: 23, LR: 0.0001, train_loss: 2.429996, train_str_accuracy: 0.02961267, train_avg Levenshtein distance: 7.389135, train_avg Jaro distance: 0.2162013
+2020-03-22 16:08:16,061 INFO Validation - Epoch: 23, val_loss: 2.49783, val_str_accuracy: 0.02440433, val_avg Levenshtein distance: 7.807889, val_avg Jaro distance: 0.1155126
+2020-03-22 16:08:16,064 INFO Model saved to '../exp/exp1/model-023-2.429996.pth'
+2020-03-22 16:08:32,937 INFO Train - Epoch: 24, LR: 0.0001, train_loss: 2.394722, train_str_accuracy: 0.03235493, train_avg Levenshtein distance: 7.329169, train_avg Jaro distance: 0.1837775
+2020-03-22 16:08:35,295 INFO Validation - Epoch: 24, val_loss: 2.460452, val_str_accuracy: 0.02859206, val_avg Levenshtein distance: 7.630675, val_avg Jaro distance: 0.1545586
+2020-03-22 16:08:35,298 INFO Model saved to '../exp/exp1/model-024-2.394722.pth'
+2020-03-22 16:08:50,830 INFO Train - Epoch: 25, LR: 0.0001, train_loss: 2.360867, train_str_accuracy: 0.03397275, train_avg Levenshtein distance: 7.302462, train_avg Jaro distance: 0.1864475
+2020-03-22 16:08:53,266 INFO Validation - Epoch: 25, val_loss: 2.441318, val_str_accuracy: 0.03480144, val_avg Levenshtein distance: 7.408234, val_avg Jaro distance: 0.1619018
+2020-03-22 16:08:53,269 INFO Model saved to '../exp/exp1/model-025-2.360867.pth'
+2020-03-22 16:09:08,767 INFO Train - Epoch: 26, LR: 0.0001, train_loss: 2.334029, train_str_accuracy: 0.03646674, train_avg Levenshtein distance: 7.2209, train_avg Jaro distance: 0.2151642
+2020-03-22 16:09:11,191 INFO Validation - Epoch: 26, val_loss: 2.414939, val_str_accuracy: 0.03826715, val_avg Levenshtein distance: 7.306291, val_avg Jaro distance: 0.1752253
+2020-03-22 16:09:11,194 INFO Model saved to '../exp/exp1/model-026-2.334029.pth'
+2020-03-22 16:09:26,575 INFO Train - Epoch: 27, LR: 0.0001, train_loss: 2.300537, train_str_accuracy: 0.03992338, train_avg Levenshtein distance: 7.187881, train_avg Jaro distance: 0.2004543
+2020-03-22 16:09:29,023 INFO Validation - Epoch: 27, val_loss: 2.409664, val_str_accuracy: 0.03898917, val_avg Levenshtein distance: 7.262813, val_avg Jaro distance: 0.1938942
+2020-03-22 16:09:29,026 INFO Model saved to '../exp/exp1/model-027-2.300537.pth'
+2020-03-22 16:09:44,704 INFO Train - Epoch: 28, LR: 0.0001, train_loss: 2.275861, train_str_accuracy: 0.04141479, train_avg Levenshtein distance: 7.113647, train_avg Jaro distance: 0.2283117
+2020-03-22 16:09:47,189 INFO Validation - Epoch: 28, val_loss: 2.39824, val_str_accuracy: 0.03509025, val_avg Levenshtein distance: 7.468244, val_avg Jaro distance: 0.1861479
+2020-03-22 16:09:47,192 INFO Model saved to '../exp/exp1/model-028-2.275861.pth'
+2020-03-22 16:10:02,719 INFO Train - Epoch: 29, LR: 0.0001, train_loss: 2.242069, train_str_accuracy: 0.04394656, train_avg Levenshtein distance: 6.967205, train_avg Jaro distance: 0.2502292
+2020-03-22 16:10:05,124 INFO Validation - Epoch: 29, val_loss: 2.367256, val_str_accuracy: 0.03956679, val_avg Levenshtein distance: 7.17392, val_avg Jaro distance: 0.2463027
+2020-03-22 16:10:05,127 INFO Model saved to '../exp/exp1/model-029-2.242069.pth'
+2020-03-22 16:10:20,586 INFO Train - Epoch: 30, LR: 0.0001, train_loss: 2.209135, train_str_accuracy: 0.0476262, train_avg Levenshtein distance: 6.86031, train_avg Jaro distance: 0.2480348
+2020-03-22 16:10:23,049 INFO Validation - Epoch: 30, val_loss: 2.343921, val_str_accuracy: 0.04202166, val_avg Levenshtein distance: 7.216716, val_avg Jaro distance: 0.2172758
+2020-03-22 16:10:23,052 INFO Model saved to '../exp/exp1/model-030-2.209135.pth'
+2020-03-22 16:10:38,699 INFO Train - Epoch: 31, LR: 0.0001, train_loss: 2.175725, train_str_accuracy: 0.04806248, train_avg Levenshtein distance: 6.885908, train_avg Jaro distance: 0.2268955
+2020-03-22 16:10:41,117 INFO Validation - Epoch: 31, val_loss: 2.308041, val_str_accuracy: 0.04418773, val_avg Levenshtein distance: 7.101744, val_avg Jaro distance: 0.272997
+2020-03-22 16:10:41,121 INFO Model saved to '../exp/exp1/model-031-2.175725.pth'
+2020-03-22 16:10:56,582 INFO Train - Epoch: 32, LR: 0.0001, train_loss: 2.142723, train_str_accuracy: 0.05289833, train_avg Levenshtein distance: 6.932482, train_avg Jaro distance: 0.2713247
+2020-03-22 16:10:58,988 INFO Validation - Epoch: 32, val_loss: 2.308364, val_str_accuracy: 0.04779783, val_avg Levenshtein distance: 7.173621, val_avg Jaro distance: 0.2413936
+2020-03-22 16:10:58,992 INFO Model saved to '../exp/exp1/model-032-2.142723.pth'
+2020-03-22 16:11:14,483 INFO Train - Epoch: 33, LR: 0.0001, train_loss: 2.116109, train_str_accuracy: 0.054865, train_avg Levenshtein distance: 6.732705, train_avg Jaro distance: 0.2751847
+2020-03-22 16:11:16,884 INFO Validation - Epoch: 33, val_loss: 2.284136, val_str_accuracy: 0.04722022, val_avg Levenshtein distance: 7.056326, val_avg Jaro distance: 0.2412392
+2020-03-22 16:11:16,888 INFO Model saved to '../exp/exp1/model-033-2.116109.pth'
+2020-03-22 16:11:32,524 INFO Train - Epoch: 34, LR: 0.0001, train_loss: 2.079671, train_str_accuracy: 0.05845472, train_avg Levenshtein distance: 6.851008, train_avg Jaro distance: 0.2708841
+2020-03-22 16:11:34,945 INFO Validation - Epoch: 34, val_loss: 2.262866, val_str_accuracy: 0.05111913, val_avg Levenshtein distance: 6.997676, val_avg Jaro distance: 0.2595263
+2020-03-22 16:11:34,949 INFO Model saved to '../exp/exp1/model-034-2.079671.pth'
+2020-03-22 16:11:50,572 INFO Train - Epoch: 35, LR: 0.0001, train_loss: 2.048307, train_str_accuracy: 0.06303736, train_avg Levenshtein distance: 6.683896, train_avg Jaro distance: 0.3037844
+2020-03-22 16:11:52,971 INFO Validation - Epoch: 35, val_loss: 2.250662, val_str_accuracy: 0.0532852, val_avg Levenshtein distance: 7.026758, val_avg Jaro distance: 0.2555908
+2020-03-22 16:11:52,974 INFO Model saved to '../exp/exp1/model-035-2.048307.pth'
+2020-03-22 16:12:08,732 INFO Train - Epoch: 36, LR: 0.0001, train_loss: 2.01525, train_str_accuracy: 0.06452218, train_avg Levenshtein distance: 6.722958, train_avg Jaro distance: 0.2773847
+2020-03-22 16:12:11,216 INFO Validation - Epoch: 36, val_loss: 2.224062, val_str_accuracy: 0.05140794, val_avg Levenshtein distance: 7.041052, val_avg Jaro distance: 0.2668457
+2020-03-22 16:12:11,218 INFO Model saved to '../exp/exp1/model-036-2.015250.pth'
+2020-03-22 16:12:26,859 INFO Train - Epoch: 37, LR: 0.0001, train_loss: 1.988336, train_str_accuracy: 0.06612625, train_avg Levenshtein distance: 6.423039, train_avg Jaro distance: 0.3452311
+2020-03-22 16:12:29,368 INFO Validation - Epoch: 37, val_loss: 2.216326, val_str_accuracy: 0.05790614, val_avg Levenshtein distance: 6.821821, val_avg Jaro distance: 0.3299981
+2020-03-22 16:12:29,372 INFO Model saved to '../exp/exp1/model-037-1.988336.pth'
+2020-03-22 16:12:44,928 INFO Train - Epoch: 38, LR: 0.0001, train_loss: 1.951994, train_str_accuracy: 0.07092971, train_avg Levenshtein distance: 6.336516, train_avg Jaro distance: 0.3510121
+2020-03-22 16:12:47,384 INFO Validation - Epoch: 38, val_loss: 2.198515, val_str_accuracy: 0.06281588, val_avg Levenshtein distance: 6.616007, val_avg Jaro distance: 0.3402434
+2020-03-22 16:12:47,388 INFO Model saved to '../exp/exp1/model-038-1.951994.pth'
+2020-03-22 16:13:03,149 INFO Train - Epoch: 39, LR: 0.0001, train_loss: 1.919593, train_str_accuracy: 0.07597644, train_avg Levenshtein distance: 6.429568, train_avg Jaro distance: 0.3540243
+2020-03-22 16:13:05,617 INFO Validation - Epoch: 39, val_loss: 2.211234, val_str_accuracy: 0.06093863, val_avg Levenshtein distance: 6.894767, val_avg Jaro distance: 0.2729165
+2020-03-22 16:13:05,621 INFO Model saved to '../exp/exp1/model-039-1.919593.pth'
+2020-03-22 16:13:21,407 INFO Train - Epoch: 40, LR: 0.0001, train_loss: 1.884815, train_str_accuracy: 0.07917261, train_avg Levenshtein distance: 6.234993, train_avg Jaro distance: 0.3609761
+2020-03-22 16:13:23,859 INFO Validation - Epoch: 40, val_loss: 2.152801, val_str_accuracy: 0.06353791, val_avg Levenshtein distance: 6.63107, val_avg Jaro distance: 0.3229655
+2020-03-22 16:13:23,862 INFO Model saved to '../exp/exp1/model-040-1.884815.pth'
+2020-03-22 16:13:40,814 INFO Train - Epoch: 41, LR: 0.0001, train_loss: 1.853217, train_str_accuracy: 0.08425995, train_avg Levenshtein distance: 6.135841, train_avg Jaro distance: 0.4211002
+2020-03-22 16:13:43,279 INFO Validation - Epoch: 41, val_loss: 2.166821, val_str_accuracy: 0.0700361, val_avg Levenshtein distance: 6.600239, val_avg Jaro distance: 0.3481946
+2020-03-22 16:13:43,282 INFO Model saved to '../exp/exp1/model-041-1.853217.pth'
+2020-03-22 16:13:58,678 INFO Train - Epoch: 42, LR: 0.0001, train_loss: 1.828156, train_str_accuracy: 0.08926358, train_avg Levenshtein distance: 6.288313, train_avg Jaro distance: 0.3989398
+2020-03-22 16:14:01,095 INFO Validation - Epoch: 42, val_loss: 2.119461, val_str_accuracy: 0.06223827, val_avg Levenshtein distance: 6.719091, val_avg Jaro distance: 0.2755578
+2020-03-22 16:14:01,098 INFO Model saved to '../exp/exp1/model-042-1.828156.pth'
+2020-03-22 16:14:16,278 INFO Train - Epoch: 43, LR: 0.0001, train_loss: 1.79458, train_str_accuracy: 0.09308521, train_avg Levenshtein distance: 5.999906, train_avg Jaro distance: 0.4022934
+2020-03-22 16:14:18,728 INFO Validation - Epoch: 43, val_loss: 2.071387, val_str_accuracy: 0.07379061, val_avg Levenshtein distance: 6.410671, val_avg Jaro distance: 0.3473067
+2020-03-22 16:14:18,732 INFO Model saved to '../exp/exp1/model-043-1.794580.pth'
+2020-03-22 16:14:34,275 INFO Train - Epoch: 44, LR: 0.0001, train_loss: 1.753273, train_str_accuracy: 0.09923377, train_avg Levenshtein distance: 5.678794, train_avg Jaro distance: 0.4519812
+2020-03-22 16:14:36,730 INFO Validation - Epoch: 44, val_loss: 2.070268, val_str_accuracy: 0.0733574, val_avg Levenshtein distance: 6.541691, val_avg Jaro distance: 0.3097013
+2020-03-22 16:14:36,733 INFO Model saved to '../exp/exp1/model-044-1.753273.pth'
+2020-03-22 16:14:52,378 INFO Train - Epoch: 45, LR: 0.0001, train_loss: 1.722981, train_str_accuracy: 0.104955, train_avg Levenshtein distance: 5.885812, train_avg Jaro distance: 0.4317314
+2020-03-22 16:14:54,839 INFO Validation - Epoch: 45, val_loss: 2.031013, val_str_accuracy: 0.07927798, val_avg Levenshtein distance: 6.437808, val_avg Jaro distance: 0.3441189
+2020-03-22 16:14:54,842 INFO Model saved to '../exp/exp1/model-045-1.722981.pth'
+2020-03-22 16:15:10,214 INFO Train - Epoch: 46, LR: 0.0001, train_loss: 1.682491, train_str_accuracy: 0.1115657, train_avg Levenshtein distance: 5.403939, train_avg Jaro distance: 0.5132793
+2020-03-22 16:15:12,618 INFO Validation - Epoch: 46, val_loss: 2.016187, val_str_accuracy: 0.08620939, val_avg Levenshtein distance: 6.0715, val_avg Jaro distance: 0.4144855
+2020-03-22 16:15:12,621 INFO Model saved to '../exp/exp1/model-046-1.682491.pth'
+2020-03-22 16:15:28,170 INFO Train - Epoch: 47, LR: 0.0001, train_loss: 1.653923, train_str_accuracy: 0.1168675, train_avg Levenshtein distance: 5.604294, train_avg Jaro distance: 0.4939163
+2020-03-22 16:15:30,656 INFO Validation - Epoch: 47, val_loss: 1.990368, val_str_accuracy: 0.08909747, val_avg Levenshtein distance: 6.100097, val_avg Jaro distance: 0.3934226
+2020-03-22 16:15:30,659 INFO Model saved to '../exp/exp1/model-047-1.653923.pth'
+2020-03-22 16:15:46,266 INFO Train - Epoch: 48, LR: 0.0001, train_loss: 1.620371, train_str_accuracy: 0.1208606, train_avg Levenshtein distance: 5.622817, train_avg Jaro distance: 0.503029
+2020-03-22 16:15:48,673 INFO Validation - Epoch: 48, val_loss: 2.017855, val_str_accuracy: 0.08418773, val_avg Levenshtein distance: 6.292967, val_avg Jaro distance: 0.3943323
+2020-03-22 16:15:48,676 INFO Model saved to '../exp/exp1/model-048-1.620371.pth'
+2020-03-22 16:16:04,406 INFO Train - Epoch: 49, LR: 0.0001, train_loss: 1.592485, train_str_accuracy: 0.1268732, train_avg Levenshtein distance: 5.381842, train_avg Jaro distance: 0.5457088
+2020-03-22 16:16:06,853 INFO Validation - Epoch: 49, val_loss: 1.971214, val_str_accuracy: 0.08924188, val_avg Levenshtein distance: 6.174002, val_avg Jaro distance: 0.3905765
+2020-03-22 16:16:06,856 INFO Model saved to '../exp/exp1/model-049-1.592485.pth'
+2020-03-22 16:16:22,565 INFO Train - Epoch: 50, LR: 0.0001, train_loss: 1.564618, train_str_accuracy: 0.1303336, train_avg Levenshtein distance: 5.241962, train_avg Jaro distance: 0.5699961
+2020-03-22 16:16:25,045 INFO Validation - Epoch: 50, val_loss: 2.001055, val_str_accuracy: 0.0932852, val_avg Levenshtein distance: 5.967808, val_avg Jaro distance: 0.4397685
+2020-03-22 16:16:25,048 INFO Model saved to '../exp/exp1/model-050-1.564618.pth'
+2020-03-22 16:16:40,671 INFO Train - Epoch: 51, LR: 0.0001, train_loss: 1.532689, train_str_accuracy: 0.1379595, train_avg Levenshtein distance: 5.153199, train_avg Jaro distance: 0.5575973
+2020-03-22 16:16:43,124 INFO Validation - Epoch: 51, val_loss: 1.930536, val_str_accuracy: 0.09848375, val_avg Levenshtein distance: 5.950701, val_avg Jaro distance: 0.4311634
+2020-03-22 16:16:43,127 INFO Model saved to '../exp/exp1/model-051-1.532689.pth'
+2020-03-22 16:16:58,846 INFO Train - Epoch: 52, LR: 0.0001, train_loss: 1.495577, train_str_accuracy: 0.1445575, train_avg Levenshtein distance: 4.783727, train_avg Jaro distance: 0.6251881
+2020-03-22 16:17:01,329 INFO Validation - Epoch: 52, val_loss: 1.91182, val_str_accuracy: 0.1002166, val_avg Levenshtein distance: 5.702768, val_avg Jaro distance: 0.4711762
+2020-03-22 16:17:01,332 INFO Model saved to '../exp/exp1/model-052-1.495577.pth'
+2020-03-22 16:17:17,114 INFO Train - Epoch: 53, LR: 0.0001, train_loss: 1.461842, train_str_accuracy: 0.1521388, train_avg Levenshtein distance: 4.6039, train_avg Jaro distance: 0.6575215
+2020-03-22 16:17:19,536 INFO Validation - Epoch: 53, val_loss: 1.926721, val_str_accuracy: 0.1065704, val_avg Levenshtein distance: 5.717839, val_avg Jaro distance: 0.4998214
+2020-03-22 16:17:19,538 INFO Model saved to '../exp/exp1/model-053-1.461842.pth'
+2020-03-22 16:17:35,128 INFO Train - Epoch: 54, LR: 0.0001, train_loss: 1.434263, train_str_accuracy: 0.1552469, train_avg Levenshtein distance: 4.530516, train_avg Jaro distance: 0.6551767
+2020-03-22 16:17:37,595 INFO Validation - Epoch: 54, val_loss: 1.923725, val_str_accuracy: 0.09978339, val_avg Levenshtein distance: 5.938433, val_avg Jaro distance: 0.4943286
+2020-03-22 16:17:37,598 INFO Model saved to '../exp/exp1/model-054-1.434263.pth'
+2020-03-22 16:17:53,029 INFO Train - Epoch: 55, LR: 0.0001, train_loss: 1.404603, train_str_accuracy: 0.1623803, train_avg Levenshtein distance: 4.376208, train_avg Jaro distance: 0.6704001
+2020-03-22 16:17:55,411 INFO Validation - Epoch: 55, val_loss: 1.873653, val_str_accuracy: 0.1244765, val_avg Levenshtein distance: 5.481006, val_avg Jaro distance: 0.5475688
+2020-03-22 16:17:55,414 INFO Model saved to '../exp/exp1/model-055-1.404603.pth'
+2020-03-22 16:18:11,116 INFO Train - Epoch: 56, LR: 0.0001, train_loss: 1.369852, train_str_accuracy: 0.1709973, train_avg Levenshtein distance: 4.247794, train_avg Jaro distance: 0.6945
+2020-03-22 16:18:13,631 INFO Validation - Epoch: 56, val_loss: 1.877702, val_str_accuracy: 0.1223105, val_avg Levenshtein distance: 5.684585, val_avg Jaro distance: 0.5160998
+2020-03-22 16:18:13,634 INFO Model saved to '../exp/exp1/model-056-1.369852.pth'
+2020-03-22 16:18:29,454 INFO Train - Epoch: 57, LR: 0.0001, train_loss: 1.340908, train_str_accuracy: 0.1795969, train_avg Levenshtein distance: 4.294627, train_avg Jaro distance: 0.6835194
+2020-03-22 16:18:31,904 INFO Validation - Epoch: 57, val_loss: 1.846911, val_str_accuracy: 0.1303971, val_avg Levenshtein distance: 5.20253, val_avg Jaro distance: 0.5961189
+2020-03-22 16:18:31,907 INFO Model saved to '../exp/exp1/model-057-1.340908.pth'
+2020-03-22 16:18:47,853 INFO Train - Epoch: 58, LR: 0.0001, train_loss: 1.308817, train_str_accuracy: 0.1901956, train_avg Levenshtein distance: 4.214347, train_avg Jaro distance: 0.6883915
+2020-03-22 16:18:50,251 INFO Validation - Epoch: 58, val_loss: 1.829026, val_str_accuracy: 0.1211552, val_avg Levenshtein distance: 5.495971, val_avg Jaro distance: 0.5398275
+2020-03-22 16:18:50,254 INFO Model saved to '../exp/exp1/model-058-1.308817.pth'
+2020-03-22 16:19:05,861 INFO Train - Epoch: 59, LR: 0.0001, train_loss: 1.280338, train_str_accuracy: 0.2003378, train_avg Levenshtein distance: 3.786185, train_avg Jaro distance: 0.7192519
+2020-03-22 16:19:08,290 INFO Validation - Epoch: 59, val_loss: 1.820016, val_str_accuracy: 0.1298195, val_avg Levenshtein distance: 5.129668, val_avg Jaro distance: 0.5821397
+2020-03-22 16:19:08,293 INFO Model saved to '../exp/exp1/model-059-1.280338.pth'
+2020-03-22 16:19:23,883 INFO Train - Epoch: 60, LR: 0.0001, train_loss: 1.252656, train_str_accuracy: 0.2099057, train_avg Levenshtein distance: 3.852479, train_avg Jaro distance: 0.7336653
+2020-03-22 16:19:26,354 INFO Validation - Epoch: 60, val_loss: 1.802316, val_str_accuracy: 0.1312635, val_avg Levenshtein distance: 5.26184, val_avg Jaro distance: 0.5752046
+2020-03-22 16:19:26,358 INFO Model saved to '../exp/exp1/model-060-1.252656.pth'
+2020-03-22 16:19:42,357 INFO Train - Epoch: 61, LR: 0.0001, train_loss: 1.229121, train_str_accuracy: 0.2219886, train_avg Levenshtein distance: 3.452608, train_avg Jaro distance: 0.7664097
+2020-03-22 16:19:44,806 INFO Validation - Epoch: 61, val_loss: 1.797793, val_str_accuracy: 0.1441155, val_avg Levenshtein distance: 5.11139, val_avg Jaro distance: 0.5921279
+2020-03-22 16:19:44,809 INFO Model saved to '../exp/exp1/model-061-1.229121.pth'
+2020-03-22 16:20:00,582 INFO Train - Epoch: 62, LR: 0.0001, train_loss: 1.195649, train_str_accuracy: 0.2336599, train_avg Levenshtein distance: 3.644241, train_avg Jaro distance: 0.7526862
+2020-03-22 16:20:03,100 INFO Validation - Epoch: 62, val_loss: 1.883818, val_str_accuracy: 0.1312635, val_avg Levenshtein distance: 5.231216, val_avg Jaro distance: 0.5679477
+2020-03-22 16:20:03,104 INFO Model saved to '../exp/exp1/model-062-1.195649.pth'
+2020-03-22 16:20:19,127 INFO Train - Epoch: 63, LR: 0.0001, train_loss: 1.168425, train_str_accuracy: 0.2471198, train_avg Levenshtein distance: 3.744337, train_avg Jaro distance: 0.7451714
+2020-03-22 16:20:21,610 INFO Validation - Epoch: 63, val_loss: 1.783657, val_str_accuracy: 0.153935, val_avg Levenshtein distance: 4.851384, val_avg Jaro distance: 0.6230556
+2020-03-22 16:20:21,613 INFO Model saved to '../exp/exp1/model-063-1.168425.pth'
+2020-03-22 16:20:37,442 INFO Train - Epoch: 64, LR: 0.0001, train_loss: 1.136965, train_str_accuracy: 0.2586375, train_avg Levenshtein distance: 3.616416, train_avg Jaro distance: 0.7649877
+2020-03-22 16:20:39,941 INFO Validation - Epoch: 64, val_loss: 1.789229, val_str_accuracy: 0.1676534, val_avg Levenshtein distance: 4.920276, val_avg Jaro distance: 0.6211195
+2020-03-22 16:20:39,944 INFO Model saved to '../exp/exp1/model-064-1.136965.pth'
+2020-03-22 16:20:55,835 INFO Train - Epoch: 65, LR: 0.0001, train_loss: 1.109565, train_str_accuracy: 0.2701262, train_avg Levenshtein distance: 3.095519, train_avg Jaro distance: 0.8068592
+2020-03-22 16:20:58,276 INFO Validation - Epoch: 65, val_loss: 1.781901, val_str_accuracy: 0.1536462, val_avg Levenshtein distance: 5.039217, val_avg Jaro distance: 0.5915303
+2020-03-22 16:20:58,279 INFO Model saved to '../exp/exp1/model-065-1.109565.pth'
+2020-03-22 16:21:14,998 INFO Train - Epoch: 66, LR: 0.0001, train_loss: 1.081814, train_str_accuracy: 0.2915477, train_avg Levenshtein distance: 3.33463, train_avg Jaro distance: 0.7817525
+2020-03-22 16:21:17,550 INFO Validation - Epoch: 66, val_loss: 1.722988, val_str_accuracy: 0.1588448, val_avg Levenshtein distance: 4.806064, val_avg Jaro distance: 0.6258881
+2020-03-22 16:21:17,553 INFO Model saved to '../exp/exp1/model-066-1.081814.pth'
+2020-03-22 16:21:35,732 INFO Train - Epoch: 67, LR: 0.0001, train_loss: 1.056987, train_str_accuracy: 0.3045942, train_avg Levenshtein distance: 3.092883, train_avg Jaro distance: 0.801343
+2020-03-22 16:21:38,286 INFO Validation - Epoch: 67, val_loss: 1.732944, val_str_accuracy: 0.1820939, val_avg Levenshtein distance: 4.7589, val_avg Jaro distance: 0.6457437
+2020-03-22 16:21:38,289 INFO Model saved to '../exp/exp1/model-067-1.056987.pth'
+2020-03-22 16:21:54,468 INFO Train - Epoch: 68, LR: 0.0001, train_loss: 1.031847, train_str_accuracy: 0.3133096, train_avg Levenshtein distance: 2.847726, train_avg Jaro distance: 0.8338318
+2020-03-22 16:21:56,987 INFO Validation - Epoch: 68, val_loss: 1.717189, val_str_accuracy: 0.1911913, val_avg Levenshtein distance: 4.873964, val_avg Jaro distance: 0.633896
+2020-03-22 16:21:56,990 INFO Model saved to '../exp/exp1/model-068-1.031847.pth'
+2020-03-22 16:22:13,432 INFO Train - Epoch: 69, LR: 0.0001, train_loss: 1.003571, train_str_accuracy: 0.3320945, train_avg Levenshtein distance: 2.811813, train_avg Jaro distance: 0.8276385
+2020-03-22 16:22:16,023 INFO Validation - Epoch: 69, val_loss: 1.73416, val_str_accuracy: 0.1988448, val_avg Levenshtein distance: 4.481291, val_avg Jaro distance: 0.6798999
+2020-03-22 16:22:16,025 INFO Model saved to '../exp/exp1/model-069-1.003571.pth'
+2020-03-22 16:22:33,174 INFO Train - Epoch: 70, LR: 0.0001, train_loss: 0.9830601, train_str_accuracy: 0.3407819, train_avg Levenshtein distance: 2.917904, train_avg Jaro distance: 0.8148275
+2020-03-22 16:22:35,923 INFO Validation - Epoch: 70, val_loss: 1.719884, val_str_accuracy: 0.2043321, val_avg Levenshtein distance: 4.62573, val_avg Jaro distance: 0.6482167
+2020-03-22 16:22:35,925 INFO Model saved to '../exp/exp1/model-070-0.983060.pth'
+2020-03-22 16:22:53,942 INFO Train - Epoch: 71, LR: 0.0001, train_loss: 0.9543566, train_str_accuracy: 0.3624146, train_avg Levenshtein distance: 2.938384, train_avg Jaro distance: 0.824257
+2020-03-22 16:22:56,505 INFO Validation - Epoch: 71, val_loss: 1.691613, val_str_accuracy: 0.2034657, val_avg Levenshtein distance: 4.625734, val_avg Jaro distance: 0.6691805
+2020-03-22 16:22:56,508 INFO Model saved to '../exp/exp1/model-071-0.954357.pth'
+2020-03-22 16:23:15,220 INFO Train - Epoch: 72, LR: 0.0001, train_loss: 0.9315986, train_str_accuracy: 0.3680297, train_avg Levenshtein distance: 2.42399, train_avg Jaro distance: 0.8592003
+2020-03-22 16:23:18,412 INFO Validation - Epoch: 72, val_loss: 1.681673, val_str_accuracy: 0.2148736, val_avg Levenshtein distance: 4.581089, val_avg Jaro distance: 0.662998
+2020-03-22 16:23:18,417 INFO Model saved to '../exp/exp1/model-072-0.931599.pth'
+2020-03-22 16:23:36,967 INFO Train - Epoch: 73, LR: 0.0001, train_loss: 0.9100014, train_str_accuracy: 0.3867418, train_avg Levenshtein distance: 2.436019, train_avg Jaro distance: 0.8491356
+2020-03-22 16:23:39,987 INFO Validation - Epoch: 73, val_loss: 1.715312, val_str_accuracy: 0.2258484, val_avg Levenshtein distance: 4.625051, val_avg Jaro distance: 0.6629389
+2020-03-22 16:23:39,990 INFO Model saved to '../exp/exp1/model-073-0.910001.pth'
+2020-03-22 16:23:57,320 INFO Train - Epoch: 74, LR: 0.0001, train_loss: 0.8909046, train_str_accuracy: 0.3957372, train_avg Levenshtein distance: 2.644919, train_avg Jaro distance: 0.8400859
+2020-03-22 16:24:00,618 INFO Validation - Epoch: 74, val_loss: 1.674709, val_str_accuracy: 0.2064982, val_avg Levenshtein distance: 4.466899, val_avg Jaro distance: 0.6716286
+2020-03-22 16:24:00,624 INFO Model saved to '../exp/exp1/model-074-0.890905.pth'
+2020-03-22 16:24:23,924 INFO Train - Epoch: 75, LR: 0.0001, train_loss: 0.8653002, train_str_accuracy: 0.4118663, train_avg Levenshtein distance: 2.14766, train_avg Jaro distance: 0.8787403
+2020-03-22 16:24:27,188 INFO Validation - Epoch: 75, val_loss: 1.682936, val_str_accuracy: 0.2183394, val_avg Levenshtein distance: 4.611153, val_avg Jaro distance: 0.6553625
+2020-03-22 16:24:27,193 INFO Model saved to '../exp/exp1/model-075-0.865300.pth'
+2020-03-22 16:24:49,762 INFO Train - Epoch: 76, LR: 0.0001, train_loss: 0.8413922, train_str_accuracy: 0.4270157, train_avg Levenshtein distance: 2.253789, train_avg Jaro distance: 0.8554348
+2020-03-22 16:24:52,678 INFO Validation - Epoch: 76, val_loss: 1.653739, val_str_accuracy: 0.2222383, val_avg Levenshtein distance: 4.464852, val_avg Jaro distance: 0.6740192
+2020-03-22 16:24:52,682 INFO Model saved to '../exp/exp1/model-076-0.841392.pth'
+2020-03-22 16:25:14,036 INFO Train - Epoch: 77, LR: 0.0001, train_loss: 0.8188647, train_str_accuracy: 0.4414184, train_avg Levenshtein distance: 1.940447, train_avg Jaro distance: 0.8887159
+2020-03-22 16:25:17,135 INFO Validation - Epoch: 77, val_loss: 1.652508, val_str_accuracy: 0.240722, val_avg Levenshtein distance: 4.260685, val_avg Jaro distance: 0.7008322
+2020-03-22 16:25:17,138 INFO Model saved to '../exp/exp1/model-077-0.818865.pth'
+2020-03-22 16:25:36,023 INFO Train - Epoch: 78, LR: 0.0001, train_loss: 0.7990826, train_str_accuracy: 0.4502384, train_avg Levenshtein distance: 1.860186, train_avg Jaro distance: 0.8933913
+2020-03-22 16:25:38,970 INFO Validation - Epoch: 78, val_loss: 1.636221, val_str_accuracy: 0.2577617, val_avg Levenshtein distance: 4.245509, val_avg Jaro distance: 0.693469
+2020-03-22 16:25:38,974 INFO Model saved to '../exp/exp1/model-078-0.799083.pth'
+2020-03-22 16:25:58,381 INFO Train - Epoch: 79, LR: 0.0001, train_loss: 0.7761144, train_str_accuracy: 0.463152, train_avg Levenshtein distance: 2.006844, train_avg Jaro distance: 0.8868864
+2020-03-22 16:26:00,856 INFO Validation - Epoch: 79, val_loss: 1.670929, val_str_accuracy: 0.2505415, val_avg Levenshtein distance: 4.520497, val_avg Jaro distance: 0.6854299
+2020-03-22 16:26:00,859 INFO Model saved to '../exp/exp1/model-079-0.776114.pth'
+2020-03-22 16:26:19,858 INFO Train - Epoch: 80, LR: 0.0001, train_loss: 0.7573576, train_str_accuracy: 0.4765373, train_avg Levenshtein distance: 2.166318, train_avg Jaro distance: 0.8830766
+2020-03-22 16:26:22,731 INFO Validation - Epoch: 80, val_loss: 1.666478, val_str_accuracy: 0.2433213, val_avg Levenshtein distance: 4.404076, val_avg Jaro distance: 0.6891911
+2020-03-22 16:26:22,736 INFO Model saved to '../exp/exp1/model-080-0.757358.pth'
+2020-03-22 16:26:41,571 INFO Train - Epoch: 81, LR: 0.0001, train_loss: 0.7386007, train_str_accuracy: 0.4871237, train_avg Levenshtein distance: 1.913686, train_avg Jaro distance: 0.8879811
+2020-03-22 16:26:44,215 INFO Validation - Epoch: 81, val_loss: 1.669106, val_str_accuracy: 0.233935, val_avg Levenshtein distance: 4.217207, val_avg Jaro distance: 0.6997675
+2020-03-22 16:26:44,218 INFO Model saved to '../exp/exp1/model-081-0.738601.pth'
+2020-03-22 16:27:05,845 INFO Train - Epoch: 82, LR: 0.0001, train_loss: 0.7130207, train_str_accuracy: 0.5084835, train_avg Levenshtein distance: 1.752391, train_avg Jaro distance: 0.9055569
+2020-03-22 16:27:09,995 INFO Validation - Epoch: 82, val_loss: 1.638556, val_str_accuracy: 0.2567509, val_avg Levenshtein distance: 4.156041, val_avg Jaro distance: 0.7036499
+2020-03-22 16:27:10,001 INFO Model saved to '../exp/exp1/model-082-0.713021.pth'
+2020-03-22 16:27:30,789 INFO Train - Epoch: 83, LR: 0.0001, train_loss: 0.6900476, train_str_accuracy: 0.5228817, train_avg Levenshtein distance: 1.825102, train_avg Jaro distance: 0.8987604
+2020-03-22 16:27:34,343 INFO Validation - Epoch: 83, val_loss: 1.637949, val_str_accuracy: 0.2433213, val_avg Levenshtein distance: 4.289375, val_avg Jaro distance: 0.6798511
+2020-03-22 16:27:34,347 INFO Model saved to '../exp/exp1/model-083-0.690048.pth'
+2020-03-22 16:27:57,718 INFO Train - Epoch: 84, LR: 0.0001, train_loss: 0.6715992, train_str_accuracy: 0.5316665, train_avg Levenshtein distance: 1.892336, train_avg Jaro distance: 0.8901921
+2020-03-22 16:28:01,050 INFO Validation - Epoch: 84, val_loss: 1.621746, val_str_accuracy: 0.2688809, val_avg Levenshtein distance: 4.226757, val_avg Jaro distance: 0.6887787
+2020-03-22 16:28:01,054 INFO Model saved to '../exp/exp1/model-084-0.671599.pth'
+2020-03-22 16:28:24,017 INFO Train - Epoch: 85, LR: 0.0001, train_loss: 0.6543687, train_str_accuracy: 0.5433387, train_avg Levenshtein distance: 1.464387, train_avg Jaro distance: 0.9259056
+2020-03-22 16:28:26,805 INFO Validation - Epoch: 85, val_loss: 1.64813, val_str_accuracy: 0.2812996, val_avg Levenshtein distance: 4.227815, val_avg Jaro distance: 0.6961863
+2020-03-22 16:28:26,808 INFO Model saved to '../exp/exp1/model-085-0.654369.pth'
+2020-03-22 16:28:49,783 INFO Train - Epoch: 86, LR: 0.0001, train_loss: 0.6421961, train_str_accuracy: 0.545475, train_avg Levenshtein distance: 1.637366, train_avg Jaro distance: 0.9049722
+2020-03-22 16:28:54,271 INFO Validation - Epoch: 86, val_loss: 1.626945, val_str_accuracy: 0.2642599, val_avg Levenshtein distance: 4.098352, val_avg Jaro distance: 0.7004109
+2020-03-22 16:28:54,275 INFO Model saved to '../exp/exp1/model-086-0.642196.pth'
+2020-03-22 16:29:16,899 INFO Train - Epoch: 87, LR: 0.0001, train_loss: 0.6262228, train_str_accuracy: 0.5630044, train_avg Levenshtein distance: 1.456745, train_avg Jaro distance: 0.923761
+2020-03-22 16:29:20,883 INFO Validation - Epoch: 87, val_loss: 1.635187, val_str_accuracy: 0.2967509, val_avg Levenshtein distance: 4.139696, val_avg Jaro distance: 0.7121594
+2020-03-22 16:29:20,891 INFO Model saved to '../exp/exp1/model-087-0.626223.pth'
+2020-03-22 16:29:45,400 INFO Train - Epoch: 88, LR: 0.0001, train_loss: 0.6071359, train_str_accuracy: 0.574635, train_avg Levenshtein distance: 1.424022, train_avg Jaro distance: 0.9160657
+2020-03-22 16:29:48,162 INFO Validation - Epoch: 88, val_loss: 1.609626, val_str_accuracy: 0.2840433, val_avg Levenshtein distance: 4.139608, val_avg Jaro distance: 0.7078338
+2020-03-22 16:29:48,165 INFO Model saved to '../exp/exp1/model-088-0.607136.pth'
+2020-03-22 16:30:10,955 INFO Train - Epoch: 89, LR: 0.0001, train_loss: 0.591732, train_str_accuracy: 0.587606, train_avg Levenshtein distance: 1.321405, train_avg Jaro distance: 0.9298911
+2020-03-22 16:30:13,578 INFO Validation - Epoch: 89, val_loss: 1.656187, val_str_accuracy: 0.3035379, val_avg Levenshtein distance: 4.064904, val_avg Jaro distance: 0.7067491
+2020-03-22 16:30:13,582 INFO Model saved to '../exp/exp1/model-089-0.591732.pth'
+2020-03-22 16:30:40,632 INFO Train - Epoch: 90, LR: 0.0001, train_loss: 0.5777433, train_str_accuracy: 0.5907743, train_avg Levenshtein distance: 1.217705, train_avg Jaro distance: 0.940344
+2020-03-22 16:30:44,748 INFO Validation - Epoch: 90, val_loss: 1.629472, val_str_accuracy: 0.286787, val_avg Levenshtein distance: 4.212356, val_avg Jaro distance: 0.6950802
+2020-03-22 16:30:44,752 INFO Model saved to '../exp/exp1/model-090-0.577743.pth'
+2020-03-22 16:31:05,892 INFO Train - Epoch: 91, LR: 0.0001, train_loss: 0.5588192, train_str_accuracy: 0.6068277, train_avg Levenshtein distance: 1.135485, train_avg Jaro distance: 0.9404999
+2020-03-22 16:31:08,963 INFO Validation - Epoch: 91, val_loss: 1.616711, val_str_accuracy: 0.3012274, val_avg Levenshtein distance: 3.906065, val_avg Jaro distance: 0.721681
+2020-03-22 16:31:08,966 INFO Model saved to '../exp/exp1/model-091-0.558819.pth'
+2020-03-22 16:31:26,003 INFO Train - Epoch: 92, LR: 0.0001, train_loss: 0.5412744, train_str_accuracy: 0.6225026, train_avg Levenshtein distance: 1.440725, train_avg Jaro distance: 0.9193621
+2020-03-22 16:31:28,679 INFO Validation - Epoch: 92, val_loss: 1.615645, val_str_accuracy: 0.3015162, val_avg Levenshtein distance: 4.096008, val_avg Jaro distance: 0.7054558
+2020-03-22 16:31:28,682 INFO Model saved to '../exp/exp1/model-092-0.541274.pth'
+2020-03-22 16:31:49,124 INFO Train - Epoch: 93, LR: 0.0001, train_loss: 0.5263897, train_str_accuracy: 0.630589, train_avg Levenshtein distance: 1.08077, train_avg Jaro distance: 0.9435418
+2020-03-22 16:31:51,837 INFO Validation - Epoch: 93, val_loss: 1.611085, val_str_accuracy: 0.3202888, val_avg Levenshtein distance: 4.064411, val_avg Jaro distance: 0.714731
+2020-03-22 16:31:51,841 INFO Model saved to '../exp/exp1/model-093-0.526390.pth'
+2020-03-22 16:32:10,886 INFO Train - Epoch: 94, LR: 0.0001, train_loss: 0.5107405, train_str_accuracy: 0.6442752, train_avg Levenshtein distance: 1.127922, train_avg Jaro distance: 0.9364982
+2020-03-22 16:32:14,369 INFO Validation - Epoch: 94, val_loss: 1.60234, val_str_accuracy: 0.3150903, val_avg Levenshtein distance: 3.889638, val_avg Jaro distance: 0.7200644
+2020-03-22 16:32:14,373 INFO Model saved to '../exp/exp1/model-094-0.510741.pth'
+2020-03-22 16:32:33,524 INFO Train - Epoch: 95, LR: 0.0001, train_loss: 0.4948942, train_str_accuracy: 0.6493224, train_avg Levenshtein distance: 1.180447, train_avg Jaro distance: 0.9386583
+2020-03-22 16:32:38,143 INFO Validation - Epoch: 95, val_loss: 1.619719, val_str_accuracy: 0.320722, val_avg Levenshtein distance: 3.890502, val_avg Jaro distance: 0.7232971
+2020-03-22 16:32:38,149 INFO Model saved to '../exp/exp1/model-095-0.494894.pth'
+2020-03-22 16:32:57,056 INFO Train - Epoch: 96, LR: 0.0001, train_loss: 0.4847507, train_str_accuracy: 0.6610832, train_avg Levenshtein distance: 1.20049, train_avg Jaro distance: 0.9325767
+2020-03-22 16:33:00,390 INFO Validation - Epoch: 96, val_loss: 1.63765, val_str_accuracy: 0.3218773, val_avg Levenshtein distance: 3.934565, val_avg Jaro distance: 0.7217555
+2020-03-22 16:33:00,394 INFO Model saved to '../exp/exp1/model-096-0.484751.pth'
+2020-03-22 16:33:22,215 INFO Train - Epoch: 97, LR: 0.0001, train_loss: 0.4717421, train_str_accuracy: 0.668131, train_avg Levenshtein distance: 0.9668907, train_avg Jaro distance: 0.9484897
+2020-03-22 16:33:25,782 INFO Validation - Epoch: 97, val_loss: 1.630438, val_str_accuracy: 0.3416606, val_avg Levenshtein distance: 3.687205, val_avg Jaro distance: 0.7345199
+2020-03-22 16:33:25,786 INFO Model saved to '../exp/exp1/model-097-0.471742.pth'
+2020-03-22 16:33:47,537 INFO Train - Epoch: 98, LR: 0.0001, train_loss: 0.4558739, train_str_accuracy: 0.682641, train_avg Levenshtein distance: 0.9465306, train_avg Jaro distance: 0.9563534
+2020-03-22 16:33:50,698 INFO Validation - Epoch: 98, val_loss: 1.6131, val_str_accuracy: 0.3087365, val_avg Levenshtein distance: 3.891086, val_avg Jaro distance: 0.723344
+2020-03-22 16:33:50,702 INFO Model saved to '../exp/exp1/model-098-0.455874.pth'
+2020-03-22 16:34:11,372 INFO Train - Epoch: 99, LR: 0.0001, train_loss: 0.440329, train_str_accuracy: 0.6887412, train_avg Levenshtein distance: 1.039158, train_avg Jaro distance: 0.947798
+2020-03-22 16:34:14,093 INFO Validation - Epoch: 99, val_loss: 1.612037, val_str_accuracy: 0.3165343, val_avg Levenshtein distance: 4.006919, val_avg Jaro distance: 0.7232575
+2020-03-22 16:34:14,097 INFO Model saved to '../exp/exp1/model-099-0.440329.pth'
+2020-03-22 16:34:32,566 INFO Train - Epoch: 100, LR: 0.0001, train_loss: 0.4315614, train_str_accuracy: 0.6941963, train_avg Levenshtein distance: 0.8391976, train_avg Jaro distance: 0.9613633
+2020-03-22 16:34:38,258 INFO Validation - Epoch: 100, val_loss: 1.630813, val_str_accuracy: 0.3285199, val_avg Levenshtein distance: 3.890888, val_avg Jaro distance: 0.7201743
+2020-03-22 16:34:38,265 INFO Model saved to '../exp/exp1/model-100-0.431561.pth'
+2020-03-22 16:34:57,900 INFO Train - Epoch: 101, LR: 0.0001, train_loss: 0.4221065, train_str_accuracy: 0.7063924, train_avg Levenshtein distance: 0.832618, train_avg Jaro distance: 0.9617809
+2020-03-22 16:35:01,122 INFO Validation - Epoch: 101, val_loss: 1.631489, val_str_accuracy: 0.3280866, val_avg Levenshtein distance: 3.904117, val_avg Jaro distance: 0.7184853
+2020-03-22 16:35:01,126 INFO Model saved to '../exp/exp1/model-101-0.422107.pth'
+2020-03-22 16:35:24,181 INFO Train - Epoch: 102, LR: 0.0001, train_loss: 0.4127171, train_str_accuracy: 0.7050959, train_avg Levenshtein distance: 0.9116427, train_avg Jaro distance: 0.9526829
+2020-03-22 16:35:27,239 INFO Validation - Epoch: 102, val_loss: 1.641737, val_str_accuracy: 0.339639, val_avg Levenshtein distance: 3.846145, val_avg Jaro distance: 0.7295502
+2020-03-22 16:35:27,244 INFO Model saved to '../exp/exp1/model-102-0.412717.pth'
+2020-03-22 16:35:54,677 INFO Train - Epoch: 103, LR: 0.0001, train_loss: 0.3987956, train_str_accuracy: 0.7217904, train_avg Levenshtein distance: 0.9258562, train_avg Jaro distance: 0.9540865
+2020-03-22 16:35:57,904 INFO Validation - Epoch: 103, val_loss: 1.617834, val_str_accuracy: 0.340361, val_avg Levenshtein distance: 3.845566, val_avg Jaro distance: 0.7204791
+2020-03-22 16:35:57,909 INFO Model saved to '../exp/exp1/model-103-0.398796.pth'
+2020-03-22 16:36:21,223 INFO Train - Epoch: 104, LR: 0.0001, train_loss: 0.3877292, train_str_accuracy: 0.7229707, train_avg Levenshtein distance: 0.8127881, train_avg Jaro distance: 0.9605228
+2020-03-22 16:36:25,675 INFO Validation - Epoch: 104, val_loss: 1.628038, val_str_accuracy: 0.3578339, val_avg Levenshtein distance: 3.815217, val_avg Jaro distance: 0.7174587
+2020-03-22 16:36:25,679 INFO Model saved to '../exp/exp1/model-104-0.387729.pth'
+2020-03-22 16:36:47,969 INFO Train - Epoch: 105, LR: 0.0001, train_loss: 0.3760842, train_str_accuracy: 0.7404279, train_avg Levenshtein distance: 0.9189217, train_avg Jaro distance: 0.9563063
+2020-03-22 16:36:51,986 INFO Validation - Epoch: 105, val_loss: 1.628146, val_str_accuracy: 0.3644765, val_avg Levenshtein distance: 3.872601, val_avg Jaro distance: 0.7218576
+2020-03-22 16:36:51,990 INFO Model saved to '../exp/exp1/model-105-0.376084.pth'
+2020-03-22 16:37:14,259 INFO Train - Epoch: 106, LR: 0.0001, train_loss: 0.3659257, train_str_accuracy: 0.7444219, train_avg Levenshtein distance: 0.7974052, train_avg Jaro distance: 0.9617
+2020-03-22 16:37:16,950 INFO Validation - Epoch: 106, val_loss: 1.629068, val_str_accuracy: 0.3407942, val_avg Levenshtein distance: 3.759862, val_avg Jaro distance: 0.7429113
+2020-03-22 16:37:16,953 INFO Model saved to '../exp/exp1/model-106-0.365926.pth'
+2020-03-22 16:37:35,103 INFO Train - Epoch: 107, LR: 0.0001, train_loss: 0.3562039, train_str_accuracy: 0.7451849, train_avg Levenshtein distance: 0.8844775, train_avg Jaro distance: 0.9523099
+2020-03-22 16:37:38,024 INFO Validation - Epoch: 107, val_loss: 1.631662, val_str_accuracy: 0.3315523, val_avg Levenshtein distance: 3.773688, val_avg Jaro distance: 0.7171429
+2020-03-22 16:37:38,028 INFO Model saved to '../exp/exp1/model-107-0.356204.pth'
+2020-03-22 16:37:58,078 INFO Train - Epoch: 108, LR: 0.0001, train_loss: 0.3516727, train_str_accuracy: 0.7505821, train_avg Levenshtein distance: 0.7985217, train_avg Jaro distance: 0.9616515
+2020-03-22 16:38:00,846 INFO Validation - Epoch: 108, val_loss: 1.628787, val_str_accuracy: 0.3598556, val_avg Levenshtein distance: 3.815311, val_avg Jaro distance: 0.7282165
+2020-03-22 16:38:00,849 INFO Model saved to '../exp/exp1/model-108-0.351673.pth'
+2020-03-22 16:38:19,146 INFO Train - Epoch: 109, LR: 0.0001, train_loss: 0.3365718, train_str_accuracy: 0.7696958, train_avg Levenshtein distance: 0.6581673, train_avg Jaro distance: 0.9714646
+2020-03-22 16:38:22,528 INFO Validation - Epoch: 109, val_loss: 1.610991, val_str_accuracy: 0.3722744, val_avg Levenshtein distance: 3.699845, val_avg Jaro distance: 0.7479946
+2020-03-22 16:38:22,531 INFO Model saved to '../exp/exp1/model-109-0.336572.pth'
+2020-03-22 16:38:41,017 INFO Train - Epoch: 110, LR: 0.0001, train_loss: 0.3307539, train_str_accuracy: 0.7653839, train_avg Levenshtein distance: 0.5910544, train_avg Jaro distance: 0.9738869
+2020-03-22 16:38:44,056 INFO Validation - Epoch: 110, val_loss: 1.629845, val_str_accuracy: 0.3663538, val_avg Levenshtein distance: 3.74362, val_avg Jaro distance: 0.7314652
+2020-03-22 16:38:44,064 INFO Model saved to '../exp/exp1/model-110-0.330754.pth'
+2020-03-22 16:39:04,878 INFO Train - Epoch: 111, LR: 0.0001, train_loss: 0.3191875, train_str_accuracy: 0.7847412, train_avg Levenshtein distance: 0.6174085, train_avg Jaro distance: 0.9711624
+2020-03-22 16:39:08,105 INFO Validation - Epoch: 111, val_loss: 1.629199, val_str_accuracy: 0.3877256, val_avg Levenshtein distance: 3.785843, val_avg Jaro distance: 0.7296305
+2020-03-22 16:39:08,109 INFO Model saved to '../exp/exp1/model-111-0.319188.pth'
+2020-03-22 16:39:27,426 INFO Train - Epoch: 112, LR: 0.0001, train_loss: 0.3096116, train_str_accuracy: 0.7828747, train_avg Levenshtein distance: 0.6235809, train_avg Jaro distance: 0.9737126
+2020-03-22 16:39:30,110 INFO Validation - Epoch: 112, val_loss: 1.641005, val_str_accuracy: 0.3680866, val_avg Levenshtein distance: 3.669999, val_avg Jaro distance: 0.7302406
+2020-03-22 16:39:30,113 INFO Model saved to '../exp/exp1/model-112-0.309612.pth'
+2020-03-22 16:39:47,466 INFO Train - Epoch: 113, LR: 0.0001, train_loss: 0.2993838, train_str_accuracy: 0.7958249, train_avg Levenshtein distance: 0.6307338, train_avg Jaro distance: 0.9723225
+2020-03-22 16:39:50,243 INFO Validation - Epoch: 113, val_loss: 1.639798, val_str_accuracy: 0.3562455, val_avg Levenshtein distance: 3.758024, val_avg Jaro distance: 0.7286765
+2020-03-22 16:39:50,247 INFO Model saved to '../exp/exp1/model-113-0.299384.pth'
+2020-03-22 16:40:10,867 INFO Train - Epoch: 114, LR: 0.0001, train_loss: 0.291276, train_str_accuracy: 0.7974845, train_avg Levenshtein distance: 0.5042497, train_avg Jaro distance: 0.9769591
+2020-03-22 16:40:14,381 INFO Validation - Epoch: 114, val_loss: 1.618795, val_str_accuracy: 0.3636101, val_avg Levenshtein distance: 3.656568, val_avg Jaro distance: 0.7275558
+2020-03-22 16:40:14,385 INFO Model saved to '../exp/exp1/model-114-0.291276.pth'
+2020-03-22 16:40:36,221 INFO Train - Epoch: 115, LR: 0.0001, train_loss: 0.2824408, train_str_accuracy: 0.8085138, train_avg Levenshtein distance: 0.5833557, train_avg Jaro distance: 0.9742572
+2020-03-22 16:40:39,656 INFO Validation - Epoch: 115, val_loss: 1.664047, val_str_accuracy: 0.3988448, val_avg Levenshtein distance: 3.742161, val_avg Jaro distance: 0.7254912
+2020-03-22 16:40:39,659 INFO Model saved to '../exp/exp1/model-115-0.282441.pth'
+2020-03-22 16:41:01,486 INFO Train - Epoch: 116, LR: 0.0001, train_loss: 0.2762984, train_str_accuracy: 0.8117515, train_avg Levenshtein distance: 0.3709563, train_avg Jaro distance: 0.9883148
+2020-03-22 16:41:05,224 INFO Validation - Epoch: 116, val_loss: 1.630849, val_str_accuracy: 0.3738628, val_avg Levenshtein distance: 3.757041, val_avg Jaro distance: 0.7200468
+2020-03-22 16:41:05,229 INFO Model saved to '../exp/exp1/model-116-0.276298.pth'
+2020-03-22 16:41:24,580 INFO Train - Epoch: 117, LR: 0.0001, train_loss: 0.2695882, train_str_accuracy: 0.8179156, train_avg Levenshtein distance: 0.4624689, train_avg Jaro distance: 0.9796353
+2020-03-22 16:41:27,317 INFO Validation - Epoch: 117, val_loss: 1.65798, val_str_accuracy: 0.3896029, val_avg Levenshtein distance: 3.697335, val_avg Jaro distance: 0.7370694
+2020-03-22 16:41:27,320 INFO Model saved to '../exp/exp1/model-117-0.269588.pth'
+2020-03-22 16:41:45,577 INFO Train - Epoch: 118, LR: 0.0001, train_loss: 0.2622747, train_str_accuracy: 0.8214286, train_avg Levenshtein distance: 0.556687, train_avg Jaro distance: 0.9747727
+2020-03-22 16:41:48,153 INFO Validation - Epoch: 118, val_loss: 1.654397, val_str_accuracy: 0.3978339, val_avg Levenshtein distance: 3.624965, val_avg Jaro distance: 0.7458272
+2020-03-22 16:41:48,156 INFO Model saved to '../exp/exp1/model-118-0.262275.pth'
+2020-03-22 16:42:07,497 INFO Train - Epoch: 119, LR: 0.0001, train_loss: 0.2518438, train_str_accuracy: 0.8341407, train_avg Levenshtein distance: 0.46926, train_avg Jaro distance: 0.9807855
+2020-03-22 16:42:11,369 INFO Validation - Epoch: 119, val_loss: 1.620399, val_str_accuracy: 0.3910469, val_avg Levenshtein distance: 3.539741, val_avg Jaro distance: 0.7438003
+2020-03-22 16:42:11,372 INFO Model saved to '../exp/exp1/model-119-0.251844.pth'
+2020-03-22 16:42:30,950 INFO Train - Epoch: 120, LR: 0.0001, train_loss: 0.245688, train_str_accuracy: 0.8355984, train_avg Levenshtein distance: 0.3627323, train_avg Jaro distance: 0.9867149
+2020-03-22 16:42:33,592 INFO Validation - Epoch: 120, val_loss: 1.66463, val_str_accuracy: 0.4001444, val_avg Levenshtein distance: 3.552601, val_avg Jaro distance: 0.7533716
+2020-03-22 16:42:33,596 INFO Model saved to '../exp/exp1/model-120-0.245688.pth'
+2020-03-22 16:42:54,182 INFO Train - Epoch: 121, LR: 0.0001, train_loss: 0.2352494, train_str_accuracy: 0.8466219, train_avg Levenshtein distance: 0.4626413, train_avg Jaro distance: 0.9823965
+2020-03-22 16:42:56,833 INFO Validation - Epoch: 121, val_loss: 1.659503, val_str_accuracy: 0.3748736, val_avg Levenshtein distance: 3.743434, val_avg Jaro distance: 0.7300639
+2020-03-22 16:42:56,843 INFO Model saved to '../exp/exp1/model-121-0.235249.pth'
+2020-03-22 16:43:17,134 INFO Train - Epoch: 122, LR: 0.0001, train_loss: 0.2292956, train_str_accuracy: 0.8499906, train_avg Levenshtein distance: 0.5290013, train_avg Jaro distance: 0.9758419
+2020-03-22 16:43:20,483 INFO Validation - Epoch: 122, val_loss: 1.642516, val_str_accuracy: 0.3861372, val_avg Levenshtein distance: 3.656174, val_avg Jaro distance: 0.7327983
+2020-03-22 16:43:20,487 INFO Model saved to '../exp/exp1/model-122-0.229296.pth'
+2020-03-22 16:43:41,699 INFO Train - Epoch: 123, LR: 0.0001, train_loss: 0.223091, train_str_accuracy: 0.8572233, train_avg Levenshtein distance: 0.3690321, train_avg Jaro distance: 0.9836431
+2020-03-22 16:43:44,873 INFO Validation - Epoch: 123, val_loss: 1.687778, val_str_accuracy: 0.3909025, val_avg Levenshtein distance: 3.553473, val_avg Jaro distance: 0.738954
+2020-03-22 16:43:44,877 INFO Model saved to '../exp/exp1/model-123-0.223091.pth'
+2020-03-22 16:44:06,048 INFO Train - Epoch: 124, LR: 0.0001, train_loss: 0.2221334, train_str_accuracy: 0.8578562, train_avg Levenshtein distance: 0.302638, train_avg Jaro distance: 0.9915344
+2020-03-22 16:44:09,399 INFO Validation - Epoch: 124, val_loss: 1.668993, val_str_accuracy: 0.4073646, val_avg Levenshtein distance: 3.639844, val_avg Jaro distance: 0.7383748
+2020-03-22 16:44:09,403 INFO Model saved to '../exp/exp1/model-124-0.222133.pth'
+2020-03-22 16:44:30,414 INFO Train - Epoch: 125, LR: 0.0001, train_loss: 0.2191102, train_str_accuracy: 0.862315, train_avg Levenshtein distance: 0.3631722, train_avg Jaro distance: 0.988437
+2020-03-22 16:44:33,724 INFO Validation - Epoch: 125, val_loss: 1.670741, val_str_accuracy: 0.3783394, val_avg Levenshtein distance: 3.684589, val_avg Jaro distance: 0.7247915
+2020-03-22 16:44:33,728 INFO Model saved to '../exp/exp1/model-125-0.219110.pth'
+2020-03-22 16:44:54,379 INFO Train - Epoch: 126, LR: 0.0001, train_loss: 0.2135038, train_str_accuracy: 0.8578187, train_avg Levenshtein distance: 0.3089983, train_avg Jaro distance: 0.9892212
+2020-03-22 16:44:57,685 INFO Validation - Epoch: 126, val_loss: 1.695433, val_str_accuracy: 0.3984116, val_avg Levenshtein distance: 3.685449, val_avg Jaro distance: 0.7374631
+2020-03-22 16:44:57,688 INFO Model saved to '../exp/exp1/model-126-0.213504.pth'
+2020-03-22 16:45:21,502 INFO Train - Epoch: 127, LR: 0.0001, train_loss: 0.2092724, train_str_accuracy: 0.8678275, train_avg Levenshtein distance: 0.3028134, train_avg Jaro distance: 0.9901837
+2020-03-22 16:45:25,683 INFO Validation - Epoch: 127, val_loss: 1.678508, val_str_accuracy: 0.4076534, val_avg Levenshtein distance: 3.452495, val_avg Jaro distance: 0.7398622
+2020-03-22 16:45:25,687 INFO Model saved to '../exp/exp1/model-127-0.209272.pth'
+2020-03-22 16:45:50,732 INFO Train - Epoch: 128, LR: 0.0001, train_loss: 0.206188, train_str_accuracy: 0.8678905, train_avg Levenshtein distance: 0.282236, train_avg Jaro distance: 0.9918743
+2020-03-22 16:45:54,277 INFO Validation - Epoch: 128, val_loss: 1.74088, val_str_accuracy: 0.4132852, val_avg Levenshtein distance: 3.654915, val_avg Jaro distance: 0.7473894
+2020-03-22 16:45:54,280 INFO Model saved to '../exp/exp1/model-128-0.206188.pth'
+2020-03-22 16:46:18,491 INFO Train - Epoch: 129, LR: 0.0001, train_loss: 0.1985525, train_str_accuracy: 0.8738174, train_avg Levenshtein distance: 0.2821927, train_avg Jaro distance: 0.9929303
+2020-03-22 16:46:22,007 INFO Validation - Epoch: 129, val_loss: 1.66313, val_str_accuracy: 0.3969675, val_avg Levenshtein distance: 3.524483, val_avg Jaro distance: 0.7524059
+2020-03-22 16:46:22,013 INFO Model saved to '../exp/exp1/model-129-0.198552.pth'
+2020-03-22 16:46:46,963 INFO Train - Epoch: 130, LR: 0.0001, train_loss: 0.189823, train_str_accuracy: 0.886095, train_avg Levenshtein distance: 0.2486372, train_avg Jaro distance: 0.9928542
+2020-03-22 16:46:50,661 INFO Validation - Epoch: 130, val_loss: 1.700886, val_str_accuracy: 0.4023105, val_avg Levenshtein distance: 3.670089, val_avg Jaro distance: 0.7263162
+2020-03-22 16:46:50,665 INFO Model saved to '../exp/exp1/model-130-0.189823.pth'
+2020-03-22 16:47:13,676 INFO Train - Epoch: 131, LR: 0.0001, train_loss: 0.1785639, train_str_accuracy: 0.891146, train_avg Levenshtein distance: 0.3360137, train_avg Jaro distance: 0.989228
+2020-03-22 16:47:16,905 INFO Validation - Epoch: 131, val_loss: 1.689055, val_str_accuracy: 0.4291697, val_avg Levenshtein distance: 3.409104, val_avg Jaro distance: 0.7562483
+2020-03-22 16:47:16,908 INFO Model saved to '../exp/exp1/model-131-0.178564.pth'
+2020-03-22 16:47:42,148 INFO Train - Epoch: 132, LR: 0.0001, train_loss: 0.1731089, train_str_accuracy: 0.8971731, train_avg Levenshtein distance: 0.2621885, train_avg Jaro distance: 0.9909148
+2020-03-22 16:47:45,356 INFO Validation - Epoch: 132, val_loss: 1.680172, val_str_accuracy: 0.4079422, val_avg Levenshtein distance: 3.509503, val_avg Jaro distance: 0.7399334
+2020-03-22 16:47:45,361 INFO Model saved to '../exp/exp1/model-132-0.173109.pth'
+2020-03-22 16:48:10,080 INFO Train - Epoch: 133, LR: 0.0001, train_loss: 0.1764995, train_str_accuracy: 0.8963666, train_avg Levenshtein distance: 0.3550795, train_avg Jaro distance: 0.9883202
+2020-03-22 16:48:14,121 INFO Validation - Epoch: 133, val_loss: 1.68742, val_str_accuracy: 0.431769, val_avg Levenshtein distance: 3.493842, val_avg Jaro distance: 0.741
+2020-03-22 16:48:14,126 INFO Model saved to '../exp/exp1/model-133-0.176499.pth'
+2020-03-22 16:48:38,359 INFO Train - Epoch: 134, LR: 0.0001, train_loss: 0.167653, train_str_accuracy: 0.9024024, train_avg Levenshtein distance: 0.2680149, train_avg Jaro distance: 0.9914288
+2020-03-22 16:48:42,487 INFO Validation - Epoch: 134, val_loss: 1.697804, val_str_accuracy: 0.4070758, val_avg Levenshtein distance: 3.640225, val_avg Jaro distance: 0.729984
+2020-03-22 16:48:42,493 INFO Model saved to '../exp/exp1/model-134-0.167653.pth'
+2020-03-22 16:49:03,548 INFO Train - Epoch: 135, LR: 0.0001, train_loss: 0.1634045, train_str_accuracy: 0.9097668, train_avg Levenshtein distance: 0.2481933, train_avg Jaro distance: 0.9917125
+2020-03-22 16:49:07,682 INFO Validation - Epoch: 135, val_loss: 1.688669, val_str_accuracy: 0.4098195, val_avg Levenshtein distance: 3.495678, val_avg Jaro distance: 0.7406111
+2020-03-22 16:49:07,685 INFO Model saved to '../exp/exp1/model-135-0.163404.pth'
+2020-03-22 16:49:27,595 INFO Train - Epoch: 136, LR: 0.0001, train_loss: 0.1620978, train_str_accuracy: 0.9064354, train_avg Levenshtein distance: 0.2149468, train_avg Jaro distance: 0.9939601
+2020-03-22 16:49:30,395 INFO Validation - Epoch: 136, val_loss: 1.689063, val_str_accuracy: 0.4017329, val_avg Levenshtein distance: 3.584084, val_avg Jaro distance: 0.7278239
+2020-03-22 16:49:30,401 INFO Model saved to '../exp/exp1/model-136-0.162098.pth'
+2020-03-22 16:49:49,173 INFO Train - Epoch: 137, LR: 0.0001, train_loss: 0.1561486, train_str_accuracy: 0.9136753, train_avg Levenshtein distance: 0.2148978, train_avg Jaro distance: 0.9963467
+2020-03-22 16:49:52,090 INFO Validation - Epoch: 137, val_loss: 1.69326, val_str_accuracy: 0.4174729, val_avg Levenshtein distance: 3.481866, val_avg Jaro distance: 0.7386101
+2020-03-22 16:49:52,094 INFO Model saved to '../exp/exp1/model-137-0.156149.pth'
+2020-03-22 16:50:10,515 INFO Train - Epoch: 138, LR: 0.0001, train_loss: 0.1503872, train_str_accuracy: 0.9192355, train_avg Levenshtein distance: 0.2480098, train_avg Jaro distance: 0.993587
+2020-03-22 16:50:13,471 INFO Validation - Epoch: 138, val_loss: 1.692374, val_str_accuracy: 0.4197834, val_avg Levenshtein distance: 3.568147, val_avg Jaro distance: 0.7232127
+2020-03-22 16:50:13,474 INFO Model saved to '../exp/exp1/model-138-0.150387.pth'
+2020-03-22 16:50:31,025 INFO Train - Epoch: 139, LR: 0.0001, train_loss: 0.1440437, train_str_accuracy: 0.925627, train_avg Levenshtein distance: 0.1546729, train_avg Jaro distance: 0.998272
+2020-03-22 16:50:33,809 INFO Validation - Epoch: 139, val_loss: 1.697215, val_str_accuracy: 0.4363899, val_avg Levenshtein distance: 3.364661, val_avg Jaro distance: 0.759221
+2020-03-22 16:50:33,812 INFO Model saved to '../exp/exp1/model-139-0.144044.pth'
+2020-03-22 16:50:52,001 INFO Train - Epoch: 140, LR: 0.0001, train_loss: 0.1408387, train_str_accuracy: 0.9306213, train_avg Levenshtein distance: 0.154766, train_avg Jaro distance: 0.997773
+2020-03-22 16:50:54,851 INFO Validation - Epoch: 140, val_loss: 1.714149, val_str_accuracy: 0.432491, val_avg Levenshtein distance: 3.406983, val_avg Jaro distance: 0.7564767
+2020-03-22 16:50:54,854 INFO Model saved to '../exp/exp1/model-140-0.140839.pth'
+2020-03-22 16:51:13,459 INFO Train - Epoch: 141, LR: 0.0001, train_loss: 0.1382501, train_str_accuracy: 0.9316612, train_avg Levenshtein distance: 0.2011186, train_avg Jaro distance: 0.9959667
+2020-03-22 16:51:16,094 INFO Validation - Epoch: 141, val_loss: 1.701434, val_str_accuracy: 0.4073646, val_avg Levenshtein distance: 3.467662, val_avg Jaro distance: 0.7316516
+2020-03-22 16:51:16,097 INFO Model saved to '../exp/exp1/model-141-0.138250.pth'
+2020-03-22 16:51:33,951 INFO Train - Epoch: 142, LR: 0.0001, train_loss: 0.13487, train_str_accuracy: 0.9329628, train_avg Levenshtein distance: 0.1346759, train_avg Jaro distance: 0.9990119
+2020-03-22 16:51:37,393 INFO Validation - Epoch: 142, val_loss: 1.74265, val_str_accuracy: 0.4405776, val_avg Levenshtein distance: 3.363499, val_avg Jaro distance: 0.7546167
+2020-03-22 16:51:37,397 INFO Model saved to '../exp/exp1/model-142-0.134870.pth'
+2020-03-22 16:51:55,488 INFO Train - Epoch: 143, LR: 0.0001, train_loss: 0.1303584, train_str_accuracy: 0.936986, train_avg Levenshtein distance: 0.2210294, train_avg Jaro distance: 0.9942631
+2020-03-22 16:51:58,251 INFO Validation - Epoch: 143, val_loss: 1.72477, val_str_accuracy: 0.4428881, val_avg Levenshtein distance: 3.465146, val_avg Jaro distance: 0.7457448
+2020-03-22 16:51:58,254 INFO Model saved to '../exp/exp1/model-143-0.130358.pth'
+2020-03-22 16:52:15,525 INFO Train - Epoch: 144, LR: 0.0001, train_loss: 0.1289664, train_str_accuracy: 0.934883, train_avg Levenshtein distance: 0.1609847, train_avg Jaro distance: 0.9957342
+2020-03-22 16:52:18,458 INFO Validation - Epoch: 144, val_loss: 1.719486, val_str_accuracy: 0.4333574, val_avg Levenshtein distance: 3.508717, val_avg Jaro distance: 0.7422712
+2020-03-22 16:52:18,461 INFO Model saved to '../exp/exp1/model-144-0.128966.pth'
+2020-03-22 16:52:35,405 INFO Train - Epoch: 145, LR: 0.0001, train_loss: 0.1229096, train_str_accuracy: 0.9396908, train_avg Levenshtein distance: 0.1010285, train_avg Jaro distance: 1.000514
+2020-03-22 16:52:37,927 INFO Validation - Epoch: 145, val_loss: 1.716778, val_str_accuracy: 0.4197834, val_avg Levenshtein distance: 3.423505, val_avg Jaro distance: 0.7418784
+2020-03-22 16:52:37,930 INFO Model saved to '../exp/exp1/model-145-0.122910.pth'
+2020-03-22 16:52:54,824 INFO Train - Epoch: 146, LR: 0.0001, train_loss: 0.1179179, train_str_accuracy: 0.9478071, train_avg Levenshtein distance: 0.1138252, train_avg Jaro distance: 1.000837
+2020-03-22 16:52:57,483 INFO Validation - Epoch: 146, val_loss: 1.728774, val_str_accuracy: 0.4437545, val_avg Levenshtein distance: 3.46495, val_avg Jaro distance: 0.752879
+2020-03-22 16:52:57,486 INFO Model saved to '../exp/exp1/model-146-0.117918.pth'
+2020-03-22 16:53:14,514 INFO Train - Epoch: 147, LR: 0.0001, train_loss: 0.1165934, train_str_accuracy: 0.9476589, train_avg Levenshtein distance: 0.1874258, train_avg Jaro distance: 0.9972701
+2020-03-22 16:53:17,304 INFO Validation - Epoch: 147, val_loss: 1.714154, val_str_accuracy: 0.4352347, val_avg Levenshtein distance: 3.378958, val_avg Jaro distance: 0.7386315
+2020-03-22 16:53:17,308 INFO Model saved to '../exp/exp1/model-147-0.116593.pth'
+2020-03-22 16:53:34,211 INFO Train - Epoch: 148, LR: 0.0001, train_loss: 0.1145171, train_str_accuracy: 0.9495215, train_avg Levenshtein distance: 0.1274282, train_avg Jaro distance: 0.9995131
+2020-03-22 16:53:36,741 INFO Validation - Epoch: 148, val_loss: 1.735921, val_str_accuracy: 0.4291697, val_avg Levenshtein distance: 3.494423, val_avg Jaro distance: 0.7456807
+2020-03-22 16:53:36,744 INFO Model saved to '../exp/exp1/model-148-0.114517.pth'
+2020-03-22 16:53:53,804 INFO Train - Epoch: 149, LR: 0.0001, train_loss: 0.1146723, train_str_accuracy: 0.9445341, train_avg Levenshtein distance: 0.1143606, train_avg Jaro distance: 0.999846
+2020-03-22 16:53:56,583 INFO Validation - Epoch: 149, val_loss: 1.760548, val_str_accuracy: 0.4410108, val_avg Levenshtein distance: 3.465919, val_avg Jaro distance: 0.7513426
+2020-03-22 16:53:56,586 INFO Model saved to '../exp/exp1/model-149-0.114672.pth'
+2020-03-22 16:54:13,530 INFO Train - Epoch: 150, LR: 0.0001, train_loss: 0.1106253, train_str_accuracy: 0.9538901, train_avg Levenshtein distance: 0.08765013, train_avg Jaro distance: 1.002644
+2020-03-22 16:54:16,314 INFO Validation - Epoch: 150, val_loss: 1.741616, val_str_accuracy: 0.4479422, val_avg Levenshtein distance: 3.378185, val_avg Jaro distance: 0.763993
+2020-03-22 16:54:16,317 INFO Model saved to '../exp/exp1/model-150-0.110625.pth'
+2020-03-22 16:54:33,875 INFO Train - Epoch: 151, LR: 0.0001, train_loss: 0.1087951, train_str_accuracy: 0.9561512, train_avg Levenshtein distance: 0.08733841, train_avg Jaro distance: 1.00221
+2020-03-22 16:54:36,402 INFO Validation - Epoch: 151, val_loss: 1.745008, val_str_accuracy: 0.4359567, val_avg Levenshtein distance: 3.408231, val_avg Jaro distance: 0.7571769
+2020-03-22 16:54:36,405 INFO Model saved to '../exp/exp1/model-151-0.108795.pth'
+2020-03-22 16:54:53,082 INFO Train - Epoch: 152, LR: 0.0001, train_loss: 0.1021628, train_str_accuracy: 0.9598063, train_avg Levenshtein distance: 0.08062698, train_avg Jaro distance: 1.002281
+2020-03-22 16:54:55,895 INFO Validation - Epoch: 152, val_loss: 1.746433, val_str_accuracy: 0.4469314, val_avg Levenshtein distance: 3.364845, val_avg Jaro distance: 0.7554041
+2020-03-22 16:54:55,898 INFO Model saved to '../exp/exp1/model-152-0.102163.pth'
+2020-03-22 16:55:12,678 INFO Train - Epoch: 153, LR: 0.0001, train_loss: 0.09798008, train_str_accuracy: 0.9647311, train_avg Levenshtein distance: 0.04098046, train_avg Jaro distance: 1.004535
+2020-03-22 16:55:15,447 INFO Validation - Epoch: 153, val_loss: 1.781881, val_str_accuracy: 0.4450542, val_avg Levenshtein distance: 3.392387, val_avg Jaro distance: 0.7550774
+2020-03-22 16:55:15,450 INFO Model saved to '../exp/exp1/model-153-0.097980.pth'
+2020-03-22 16:55:33,680 INFO Train - Epoch: 154, LR: 0.0001, train_loss: 0.09805161, train_str_accuracy: 0.9641436, train_avg Levenshtein distance: 0.04049514, train_avg Jaro distance: 1.003698
+2020-03-22 16:55:36,664 INFO Validation - Epoch: 154, val_loss: 1.766296, val_str_accuracy: 0.4412996, val_avg Levenshtein distance: 3.537608, val_avg Jaro distance: 0.7484937
+2020-03-22 16:55:36,667 INFO Model saved to '../exp/exp1/model-154-0.098052.pth'
+2020-03-22 16:55:56,453 INFO Train - Epoch: 155, LR: 0.0001, train_loss: 0.09824537, train_str_accuracy: 0.9625516, train_avg Levenshtein distance: 0.08080328, train_avg Jaro distance: 1.002915
+2020-03-22 16:55:59,025 INFO Validation - Epoch: 155, val_loss: 1.745007, val_str_accuracy: 0.4358123, val_avg Levenshtein distance: 3.40766, val_avg Jaro distance: 0.7406383
+2020-03-22 16:55:59,028 INFO Model saved to '../exp/exp1/model-155-0.098245.pth'
+2020-03-22 16:56:21,164 INFO Train - Epoch: 156, LR: 0.0001, train_loss: 0.09538322, train_str_accuracy: 0.9630575, train_avg Levenshtein distance: 0.1005378, train_avg Jaro distance: 1.001859
+2020-03-22 16:56:24,834 INFO Validation - Epoch: 156, val_loss: 1.765029, val_str_accuracy: 0.4457762, val_avg Levenshtein distance: 3.407364, val_avg Jaro distance: 0.7679826
+2020-03-22 16:56:24,838 INFO Model saved to '../exp/exp1/model-156-0.095383.pth'
+2020-03-22 16:56:47,616 INFO Train - Epoch: 157, LR: 0.0001, train_loss: 0.09888932, train_str_accuracy: 0.9626182, train_avg Levenshtein distance: 0.1139153, train_avg Jaro distance: 0.9989007
+2020-03-22 16:56:50,948 INFO Validation - Epoch: 157, val_loss: 1.78747, val_str_accuracy: 0.4498195, val_avg Levenshtein distance: 3.493159, val_avg Jaro distance: 0.7533543
+2020-03-22 16:56:50,952 INFO Model saved to '../exp/exp1/model-157-0.098889.pth'
+2020-03-22 16:57:10,255 INFO Train - Epoch: 158, LR: 0.0001, train_loss: 0.09336763, train_str_accuracy: 0.9652608, train_avg Levenshtein distance: 0.08724744, train_avg Jaro distance: 1.003009
+2020-03-22 16:57:13,469 INFO Validation - Epoch: 158, val_loss: 1.773506, val_str_accuracy: 0.4479422, val_avg Levenshtein distance: 3.406976, val_avg Jaro distance: 0.7492995
+2020-03-22 16:57:13,472 INFO Model saved to '../exp/exp1/model-158-0.093368.pth'
+2020-03-22 16:57:31,482 INFO Train - Epoch: 159, LR: 0.0001, train_loss: 0.09458108, train_str_accuracy: 0.9605347, train_avg Levenshtein distance: 0.1535595, train_avg Jaro distance: 0.9981074
+2020-03-22 16:57:34,852 INFO Validation - Epoch: 159, val_loss: 1.78198, val_str_accuracy: 0.4423105, val_avg Levenshtein distance: 3.320503, val_avg Jaro distance: 0.7484381
+2020-03-22 16:57:34,856 INFO Model saved to '../exp/exp1/model-159-0.094581.pth'
+2020-03-22 16:57:52,373 INFO Train - Epoch: 160, LR: 0.0001, train_loss: 0.09157982, train_str_accuracy: 0.9598933, train_avg Levenshtein distance: 0.08729396, train_avg Jaro distance: 1.001939
+2020-03-22 16:57:55,150 INFO Validation - Epoch: 160, val_loss: 1.802308, val_str_accuracy: 0.4687365, val_avg Levenshtein distance: 3.362428, val_avg Jaro distance: 0.7531933
+2020-03-22 16:57:55,153 INFO Model saved to '../exp/exp1/model-160-0.091580.pth'
+2020-03-22 16:58:14,467 INFO Train - Epoch: 161, LR: 0.0001, train_loss: 0.08876367, train_str_accuracy: 0.9669406, train_avg Levenshtein distance: 0.1006711, train_avg Jaro distance: 1.0016
+2020-03-22 16:58:17,240 INFO Validation - Epoch: 161, val_loss: 1.779347, val_str_accuracy: 0.4389892, val_avg Levenshtein distance: 3.364274, val_avg Jaro distance: 0.7519496
+2020-03-22 16:58:17,244 INFO Model saved to '../exp/exp1/model-161-0.088764.pth'
+2020-03-22 16:58:36,917 INFO Train - Epoch: 162, LR: 0.0001, train_loss: 0.08459794, train_str_accuracy: 0.9729679, train_avg Levenshtein distance: 0.08022727, train_avg Jaro distance: 1.003144
+2020-03-22 16:58:39,613 INFO Validation - Epoch: 162, val_loss: 1.789618, val_str_accuracy: 0.452852, val_avg Levenshtein distance: 3.378283, val_avg Jaro distance: 0.758043
+2020-03-22 16:58:39,616 INFO Model saved to '../exp/exp1/model-162-0.084598.pth'
+2020-03-22 16:58:59,350 INFO Train - Epoch: 163, LR: 0.0001, train_loss: 0.08115995, train_str_accuracy: 0.9717934, train_avg Levenshtein distance: 0.04711469, train_avg Jaro distance: 1.004237
+2020-03-22 16:59:02,509 INFO Validation - Epoch: 163, val_loss: 1.79144, val_str_accuracy: 0.4472202, val_avg Levenshtein distance: 3.363301, val_avg Jaro distance: 0.7579025
+2020-03-22 16:59:02,513 INFO Model saved to '../exp/exp1/model-163-0.081160.pth'
+2020-03-22 16:59:22,404 INFO Train - Epoch: 164, LR: 0.0001, train_loss: 0.07967805, train_str_accuracy: 0.974801, train_avg Levenshtein distance: 0.06044595, train_avg Jaro distance: 1.00378
+2020-03-22 16:59:25,604 INFO Validation - Epoch: 164, val_loss: 1.785433, val_str_accuracy: 0.4561733, val_avg Levenshtein distance: 3.550932, val_avg Jaro distance: 0.7525726
+2020-03-22 16:59:25,608 INFO Model saved to '../exp/exp1/model-164-0.079678.pth'
+2020-03-22 16:59:43,443 INFO Train - Epoch: 165, LR: 0.0001, train_loss: 0.07656877, train_str_accuracy: 0.9785548, train_avg Levenshtein distance: 0.02689068, train_avg Jaro distance: 1.005406
+2020-03-22 16:59:45,918 INFO Validation - Epoch: 165, val_loss: 1.789253, val_str_accuracy: 0.4544404, val_avg Levenshtein distance: 3.378086, val_avg Jaro distance: 0.7521074
+2020-03-22 16:59:45,921 INFO Model saved to '../exp/exp1/model-165-0.076569.pth'
+2020-03-22 17:00:03,082 INFO Train - Epoch: 166, LR: 0.0001, train_loss: 0.07155033, train_str_accuracy: 0.9825391, train_avg Levenshtein distance: 0.0269366, train_avg Jaro distance: 1.004898
+2020-03-22 17:00:05,864 INFO Validation - Epoch: 166, val_loss: 1.810253, val_str_accuracy: 0.4632491, val_avg Levenshtein distance: 3.450545, val_avg Jaro distance: 0.7672069
+2020-03-22 17:00:05,867 INFO Model saved to '../exp/exp1/model-166-0.071550.pth'
+2020-03-22 17:00:25,382 INFO Train - Epoch: 167, LR: 0.0001, train_loss: 0.07727611, train_str_accuracy: 0.9760796, train_avg Levenshtein distance: 0.04702551, train_avg Jaro distance: 1.004526
+2020-03-22 17:00:28,544 INFO Validation - Epoch: 167, val_loss: 1.844798, val_str_accuracy: 0.4313357, val_avg Levenshtein distance: 3.452393, val_avg Jaro distance: 0.7516751
+2020-03-22 17:00:28,548 INFO Model saved to '../exp/exp1/model-167-0.077276.pth'
+2020-03-22 17:00:47,917 INFO Train - Epoch: 168, LR: 0.0001, train_loss: 0.07772069, train_str_accuracy: 0.974204, train_avg Levenshtein distance: 0.04013543, train_avg Jaro distance: 1.004191
+2020-03-22 17:00:50,914 INFO Validation - Epoch: 168, val_loss: 1.841359, val_str_accuracy: 0.4391336, val_avg Levenshtein distance: 3.307358, val_avg Jaro distance: 0.7638166
+2020-03-22 17:00:50,918 INFO Model saved to '../exp/exp1/model-168-0.077721.pth'
+2020-03-22 17:01:11,484 INFO Train - Epoch: 169, LR: 0.0001, train_loss: 0.07692029, train_str_accuracy: 0.9757159, train_avg Levenshtein distance: 0.08715853, train_avg Jaro distance: 1.001717
+2020-03-22 17:01:15,186 INFO Validation - Epoch: 169, val_loss: 1.838831, val_str_accuracy: 0.4555957, val_avg Levenshtein distance: 3.39152, val_avg Jaro distance: 0.7477103
+2020-03-22 17:01:15,189 INFO Model saved to '../exp/exp1/model-169-0.076920.pth'
+2020-03-22 17:01:34,182 INFO Train - Epoch: 170, LR: 0.0001, train_loss: 0.07374534, train_str_accuracy: 0.9767555, train_avg Levenshtein distance: 0.03418045, train_avg Jaro distance: 1.004584
+2020-03-22 17:01:36,661 INFO Validation - Epoch: 170, val_loss: 1.820309, val_str_accuracy: 0.4560289, val_avg Levenshtein distance: 3.348606, val_avg Jaro distance: 0.7701427
+2020-03-22 17:01:36,664 INFO Model saved to '../exp/exp1/model-170-0.073745.pth'
+2020-03-22 17:01:55,202 INFO Train - Epoch: 171, LR: 0.0001, train_loss: 0.07107817, train_str_accuracy: 0.9783408, train_avg Levenshtein distance: 0.02693454, train_avg Jaro distance: 1.005261
+2020-03-22 17:01:57,923 INFO Validation - Epoch: 171, val_loss: 1.80418, val_str_accuracy: 0.4605054, val_avg Levenshtein distance: 3.435955, val_avg Jaro distance: 0.769065
+2020-03-22 17:01:57,926 INFO Model saved to '../exp/exp1/model-171-0.071078.pth'
+2020-03-22 17:02:15,576 INFO Train - Epoch: 172, LR: 0.0001, train_loss: 0.06663105, train_str_accuracy: 0.9825082, train_avg Levenshtein distance: 0.006980466, train_avg Jaro distance: 1.00645
+2020-03-22 17:02:18,628 INFO Validation - Epoch: 172, val_loss: 1.870579, val_str_accuracy: 0.4693141, val_avg Levenshtein distance: 3.318758, val_avg Jaro distance: 0.7551378
+2020-03-22 17:02:18,632 INFO Model saved to '../exp/exp1/model-172-0.066631.pth'
+2020-03-22 17:02:35,872 INFO Train - Epoch: 173, LR: 0.0001, train_loss: 0.06412546, train_str_accuracy: 0.9840012, train_avg Levenshtein distance: 0.02022579, train_avg Jaro distance: 1.005893
+2020-03-22 17:02:39,092 INFO Validation - Epoch: 173, val_loss: 1.826444, val_str_accuracy: 0.4658484, val_avg Levenshtein distance: 3.362335, val_avg Jaro distance: 0.7627034
+2020-03-22 17:02:39,095 INFO Model saved to '../exp/exp1/model-173-0.064125.pth'
+2020-03-22 17:02:55,434 INFO Train - Epoch: 174, LR: 0.0001, train_loss: 0.06092655, train_str_accuracy: 0.986071, train_avg Levenshtein distance: 0.0602249, train_avg Jaro distance: 1.003749
+2020-03-22 17:02:58,016 INFO Validation - Epoch: 174, val_loss: 1.811886, val_str_accuracy: 0.4687365, val_avg Levenshtein distance: 3.304552, val_avg Jaro distance: 0.7692492
+2020-03-22 17:02:58,020 INFO Model saved to '../exp/exp1/model-174-0.060927.pth'
+2020-03-22 17:03:15,743 INFO Train - Epoch: 175, LR: 0.0001, train_loss: 0.05722265, train_str_accuracy: 0.9875695, train_avg Levenshtein distance: 0.0200895, train_avg Jaro distance: 1.005936
+2020-03-22 17:03:18,604 INFO Validation - Epoch: 175, val_loss: 1.820961, val_str_accuracy: 0.4665704, val_avg Levenshtein distance: 3.391989, val_avg Jaro distance: 0.7473951
+2020-03-22 17:03:18,607 INFO Model saved to '../exp/exp1/model-175-0.057223.pth'
+2020-03-22 17:03:38,559 INFO Train - Epoch: 176, LR: 0.0001, train_loss: 0.05775589, train_str_accuracy: 0.9865926, train_avg Levenshtein distance: 0.01377867, train_avg Jaro distance: 1.005934
+2020-03-22 17:03:41,309 INFO Validation - Epoch: 176, val_loss: 1.83111, val_str_accuracy: 0.4737906, val_avg Levenshtein distance: 3.42049, val_avg Jaro distance: 0.7532339
+2020-03-22 17:03:41,312 INFO Model saved to '../exp/exp1/model-176-0.057756.pth'
+2020-03-22 17:03:58,244 INFO Train - Epoch: 177, LR: 0.0001, train_loss: 0.05558349, train_str_accuracy: 0.9877202, train_avg Levenshtein distance: 0.02675675, train_avg Jaro distance: 1.005439
+2020-03-22 17:04:00,938 INFO Validation - Epoch: 177, val_loss: 1.819658, val_str_accuracy: 0.4729242, val_avg Levenshtein distance: 3.347836, val_avg Jaro distance: 0.7684214
+2020-03-22 17:04:00,942 INFO Model saved to '../exp/exp1/model-177-0.055583.pth'
+2020-03-22 17:04:18,857 INFO Train - Epoch: 178, LR: 0.0001, train_loss: 0.05299062, train_str_accuracy: 0.9907254, train_avg Levenshtein distance: 0.02026668, train_avg Jaro distance: 1.005405
+2020-03-22 17:04:21,506 INFO Validation - Epoch: 178, val_loss: 1.861415, val_str_accuracy: 0.4519856, val_avg Levenshtein distance: 3.392683, val_avg Jaro distance: 0.7653931
+2020-03-22 17:04:21,510 INFO Model saved to '../exp/exp1/model-178-0.052991.pth'
+2020-03-22 17:04:39,129 INFO Train - Epoch: 179, LR: 0.0001, train_loss: 0.05403077, train_str_accuracy: 0.9873855, train_avg Levenshtein distance: 0.06680209, train_avg Jaro distance: 1.002978
+2020-03-22 17:04:41,975 INFO Validation - Epoch: 179, val_loss: 1.845882, val_str_accuracy: 0.467148, val_avg Levenshtein distance: 3.49402, val_avg Jaro distance: 0.7489801
+2020-03-22 17:04:41,979 INFO Model saved to '../exp/exp1/model-179-0.054031.pth'
+2020-03-22 17:04:59,566 INFO Train - Epoch: 180, LR: 0.0001, train_loss: 0.05628218, train_str_accuracy: 0.9898266, train_avg Levenshtein distance: 0.02680119, train_avg Jaro distance: 1.005718
+2020-03-22 17:05:02,290 INFO Validation - Epoch: 180, val_loss: 1.840745, val_str_accuracy: 0.4659928, val_avg Levenshtein distance: 3.405998, val_avg Jaro distance: 0.7733736
+2020-03-22 17:05:02,294 INFO Model saved to '../exp/exp1/model-180-0.056282.pth'
+2020-03-22 17:05:19,987 INFO Train - Epoch: 181, LR: 0.0001, train_loss: 0.05399708, train_str_accuracy: 0.9897906, train_avg Levenshtein distance: 0.01364534, train_avg Jaro distance: 1.006132
+2020-03-22 17:05:23,004 INFO Validation - Epoch: 181, val_loss: 1.863101, val_str_accuracy: 0.4631047, val_avg Levenshtein distance: 3.493735, val_avg Jaro distance: 0.7471737
+2020-03-22 17:05:23,008 INFO Model saved to '../exp/exp1/model-181-0.053997.pth'
+2020-03-22 17:05:40,894 INFO Train - Epoch: 182, LR: 0.0001, train_loss: 0.0531327, train_str_accuracy: 0.9897883, train_avg Levenshtein distance: 0.007024304, train_avg Jaro distance: 1.006446
+2020-03-22 17:05:44,151 INFO Validation - Epoch: 182, val_loss: 1.863829, val_str_accuracy: 0.4711913, val_avg Levenshtein distance: 3.33402, val_avg Jaro distance: 0.7576664
+2020-03-22 17:05:44,154 INFO Model saved to '../exp/exp1/model-182-0.053133.pth'
+2020-03-22 17:06:03,308 INFO Train - Epoch: 183, LR: 0.0001, train_loss: 0.05173885, train_str_accuracy: 0.9896334, train_avg Levenshtein distance: 0.02017867, train_avg Jaro distance: 1.005963
+2020-03-22 17:06:06,173 INFO Validation - Epoch: 183, val_loss: 1.885152, val_str_accuracy: 0.4706137, val_avg Levenshtein distance: 3.406487, val_avg Jaro distance: 0.7644447
+2020-03-22 17:06:06,176 INFO Model saved to '../exp/exp1/model-183-0.051739.pth'
+2020-03-22 17:06:26,795 INFO Train - Epoch: 184, LR: 0.0001, train_loss: 0.04827484, train_str_accuracy: 0.9927229, train_avg Levenshtein distance: 0.02688889, train_avg Jaro distance: 1.005391
+2020-03-22 17:06:29,512 INFO Validation - Epoch: 184, val_loss: 1.862633, val_str_accuracy: 0.466426, val_avg Levenshtein distance: 3.361749, val_avg Jaro distance: 0.7630154
+2020-03-22 17:06:29,515 INFO Model saved to '../exp/exp1/model-184-0.048275.pth'
+2020-03-22 17:06:48,565 INFO Train - Epoch: 185, LR: 0.0001, train_loss: 0.04736555, train_str_accuracy: 0.993506, train_avg Levenshtein distance: 0.006802372, train_avg Jaro distance: 1.006459
+2020-03-22 17:06:51,432 INFO Validation - Epoch: 185, val_loss: 1.859193, val_str_accuracy: 0.4753791, val_avg Levenshtein distance: 3.392087, val_avg Jaro distance: 0.764335
+2020-03-22 17:06:51,436 INFO Model saved to '../exp/exp1/model-185-0.047366.pth'
+2020-03-22 17:07:11,277 INFO Train - Epoch: 186, LR: 0.0001, train_loss: 0.04426704, train_str_accuracy: 0.9939558, train_avg Levenshtein distance: 0.03346697, train_avg Jaro distance: 1.005407
+2020-03-22 17:07:14,086 INFO Validation - Epoch: 186, val_loss: 1.862721, val_str_accuracy: 0.4681588, val_avg Levenshtein distance: 3.319138, val_avg Jaro distance: 0.7675546
+2020-03-22 17:07:14,089 INFO Model saved to '../exp/exp1/model-186-0.044267.pth'
+2020-03-22 17:07:31,185 INFO Train - Epoch: 187, LR: 0.0001, train_loss: 0.0422395, train_str_accuracy: 0.9957953, train_avg Levenshtein distance: 0.01333334, train_avg Jaro distance: 1.005724
+2020-03-22 17:07:33,789 INFO Validation - Epoch: 187, val_loss: 1.861405, val_str_accuracy: 0.4722022, val_avg Levenshtein distance: 3.421169, val_avg Jaro distance: 0.7616934
+2020-03-22 17:07:33,792 INFO Model saved to '../exp/exp1/model-187-0.042239.pth'
+2020-03-22 17:07:50,486 INFO Train - Epoch: 188, LR: 0.0001, train_loss: 0.04121023, train_str_accuracy: 0.9944803, train_avg Levenshtein distance: 0.04680059, train_avg Jaro distance: 1.003879
+2020-03-22 17:07:53,265 INFO Validation - Epoch: 188, val_loss: 1.868958, val_str_accuracy: 0.4820217, val_avg Levenshtein distance: 3.362711, val_avg Jaro distance: 0.7726486
+2020-03-22 17:07:53,268 INFO Model saved to '../exp/exp1/model-188-0.041210.pth'
+2020-03-22 17:08:12,315 INFO Train - Epoch: 189, LR: 0.0001, train_loss: 0.04127244, train_str_accuracy: 0.9928268, train_avg Levenshtein distance: 0.006801185, train_avg Jaro distance: 1.006459
+2020-03-22 17:08:15,165 INFO Validation - Epoch: 189, val_loss: 1.854424, val_str_accuracy: 0.4753791, val_avg Levenshtein distance: 3.362226, val_avg Jaro distance: 0.7623365
+2020-03-22 17:08:15,168 INFO Model saved to '../exp/exp1/model-189-0.041272.pth'
+2020-03-22 17:08:32,295 INFO Train - Epoch: 190, LR: 0.0001, train_loss: 0.03944783, train_str_accuracy: 0.9946673, train_avg Levenshtein distance: 0.006757341, train_avg Jaro distance: 1.006461
+2020-03-22 17:08:34,866 INFO Validation - Epoch: 190, val_loss: 1.886951, val_str_accuracy: 0.4709025, val_avg Levenshtein distance: 3.348707, val_avg Jaro distance: 0.7661145
+2020-03-22 17:08:34,869 INFO Model saved to '../exp/exp1/model-190-0.039448.pth'
+2020-03-22 17:08:51,361 INFO Train - Epoch: 191, LR: 0.0001, train_loss: 0.04198647, train_str_accuracy: 0.9948577, train_avg Levenshtein distance: 0.03346727, train_avg Jaro distance: 1.004899
+2020-03-22 17:08:54,094 INFO Validation - Epoch: 191, val_loss: 1.875659, val_str_accuracy: 0.4752347, val_avg Levenshtein distance: 3.305223, val_avg Jaro distance: 0.772747
+2020-03-22 17:08:54,098 INFO Model saved to '../exp/exp1/model-191-0.041986.pth'
+2020-03-22 17:09:12,151 INFO Train - Epoch: 192, LR: 0.0001, train_loss: 0.04391049, train_str_accuracy: 0.9921922, train_avg Levenshtein distance: 0.01346756, train_avg Jaro distance: 1.006208
+2020-03-22 17:09:14,960 INFO Validation - Epoch: 192, val_loss: 1.909716, val_str_accuracy: 0.4765343, val_avg Levenshtein distance: 3.348318, val_avg Jaro distance: 0.7561131
+2020-03-22 17:09:14,963 INFO Model saved to '../exp/exp1/model-192-0.043910.pth'
+2020-03-22 17:09:32,856 INFO Train - Epoch: 193, LR: 0.0001, train_loss: 0.04345056, train_str_accuracy: 0.993956, train_avg Levenshtein distance: 0.01337897, train_avg Jaro distance: 1.006216
+2020-03-22 17:09:35,657 INFO Validation - Epoch: 193, val_loss: 1.888742, val_str_accuracy: 0.4729242, val_avg Levenshtein distance: 3.305615, val_avg Jaro distance: 0.7758412
+2020-03-22 17:09:35,661 INFO Model saved to '../exp/exp1/model-193-0.043451.pth'
+2020-03-22 17:09:54,687 INFO Train - Epoch: 194, LR: 0.0001, train_loss: 0.04306742, train_str_accuracy: 0.9941073, train_avg Levenshtein distance: 0.006800889, train_avg Jaro distance: 1.00646
+2020-03-22 17:09:57,740 INFO Validation - Epoch: 194, val_loss: 1.895199, val_str_accuracy: 0.4704693, val_avg Levenshtein distance: 3.52214, val_avg Jaro distance: 0.7559863
+2020-03-22 17:09:57,744 INFO Model saved to '../exp/exp1/model-194-0.043067.pth'
+2020-03-22 17:10:16,484 INFO Train - Epoch: 195, LR: 0.0001, train_loss: 0.04527891, train_str_accuracy: 0.9925309, train_avg Levenshtein distance: 0.02680033, train_avg Jaro distance: 1.005063
+2020-03-22 17:10:19,236 INFO Validation - Epoch: 195, val_loss: 1.913764, val_str_accuracy: 0.4618051, val_avg Levenshtein distance: 3.260501, val_avg Jaro distance: 0.7681921
+2020-03-22 17:10:19,239 INFO Model saved to '../exp/exp1/model-195-0.045279.pth'
+2020-03-22 17:10:41,241 INFO Train - Epoch: 196, LR: 0.0001, train_loss: 0.05244984, train_str_accuracy: 0.9892231, train_avg Levenshtein distance: 0.0468012, train_avg Jaro distance: 1.004206
+2020-03-22 17:10:44,028 INFO Validation - Epoch: 196, val_loss: 1.999185, val_str_accuracy: 0.4722022, val_avg Levenshtein distance: 3.362432, val_avg Jaro distance: 0.7624395
+2020-03-22 17:10:44,032 INFO Model saved to '../exp/exp1/model-196-0.052450.pth'
+2020-03-22 17:11:01,772 INFO Train - Epoch: 197, LR: 0.0001, train_loss: 0.04991838, train_str_accuracy: 0.9878699, train_avg Levenshtein distance: 0.02008978, train_avg Jaro distance: 1.005967
+2020-03-22 17:11:04,381 INFO Validation - Epoch: 197, val_loss: 1.943973, val_str_accuracy: 0.4680144, val_avg Levenshtein distance: 3.420782, val_avg Jaro distance: 0.7563304
+2020-03-22 17:11:04,384 INFO Model saved to '../exp/exp1/model-197-0.049918.pth'
+2020-03-22 17:11:27,321 INFO Train - Epoch: 198, LR: 0.0001, train_loss: 0.04537316, train_str_accuracy: 0.9901276, train_avg Levenshtein distance: 0.01360149, train_avg Jaro distance: 1.0062
+2020-03-22 17:11:31,194 INFO Validation - Epoch: 198, val_loss: 1.905591, val_str_accuracy: 0.4716245, val_avg Levenshtein distance: 3.377303, val_avg Jaro distance: 0.7601256
+2020-03-22 17:11:31,201 INFO Model saved to '../exp/exp1/model-198-0.045373.pth'
+2020-03-22 17:11:52,504 INFO Train - Epoch: 199, LR: 0.0001, train_loss: 0.03946037, train_str_accuracy: 0.9950084, train_avg Levenshtein distance: 0.006756448, train_avg Jaro distance: 1.00643
+2020-03-22 17:11:55,369 INFO Validation - Epoch: 199, val_loss: 1.920893, val_str_accuracy: 0.485343, val_avg Levenshtein distance: 3.333922, val_avg Jaro distance: 0.7675189
+2020-03-22 17:11:55,373 INFO Model saved to '../exp/exp1/model-199-0.039460.pth'
+2020-03-22 17:12:13,117 INFO Train - Epoch: 200, LR: 0.0001, train_loss: 0.03602889, train_str_accuracy: 0.9953066, train_avg Levenshtein distance: 0.01333364, train_avg Jaro distance: 1.006187
+2020-03-22 17:12:15,913 INFO Validation - Epoch: 200, val_loss: 1.929155, val_str_accuracy: 0.4830325, val_avg Levenshtein distance: 3.522326, val_avg Jaro distance: 0.7533079
+2020-03-22 17:12:15,916 INFO Model saved to '../exp/exp1/model-200-0.036029.pth'
+2020-03-22 17:12:34,762 INFO Train - Epoch: 201, LR: 0.0001, train_loss: 0.03557493, train_str_accuracy: 0.9950071, train_avg Levenshtein distance: 0.0001339279, train_avg Jaro distance: 1.006698
+2020-03-22 17:12:37,383 INFO Validation - Epoch: 201, val_loss: 1.933052, val_str_accuracy: 0.4675812, val_avg Levenshtein distance: 3.435377, val_avg Jaro distance: 0.7664423
+2020-03-22 17:12:37,386 INFO Model saved to '../exp/exp1/model-201-0.035575.pth'
+2020-03-22 17:12:55,455 INFO Train - Epoch: 202, LR: 0.0001, train_loss: 0.03313535, train_str_accuracy: 0.9958332, train_avg Levenshtein distance: 0.01337778, train_avg Jaro distance: 1.006153
+2020-03-22 17:12:58,451 INFO Validation - Epoch: 202, val_loss: 1.907497, val_str_accuracy: 0.4918412, val_avg Levenshtein distance: 3.347643, val_avg Jaro distance: 0.772515
+2020-03-22 17:12:58,456 INFO Model saved to '../exp/exp1/model-202-0.033135.pth'
+2020-03-22 17:13:16,081 INFO Train - Epoch: 203, LR: 0.0001, train_loss: 0.03243905, train_str_accuracy: 0.997109, train_avg Levenshtein distance: 4.503901e-05, train_avg Jaro distance: 1.00671
+2020-03-22 17:13:19,425 INFO Validation - Epoch: 203, val_loss: 1.917386, val_str_accuracy: 0.4791336, val_avg Levenshtein distance: 3.391889, val_avg Jaro distance: 0.7597018
+2020-03-22 17:13:19,428 INFO Model saved to '../exp/exp1/model-203-0.032439.pth'
+2020-03-22 17:13:36,548 INFO Train - Epoch: 204, LR: 0.0001, train_loss: 0.03182247, train_str_accuracy: 0.9969215, train_avg Levenshtein distance: 0.02013482, train_avg Jaro distance: 1.005871
+2020-03-22 17:13:39,122 INFO Validation - Epoch: 204, val_loss: 1.936471, val_str_accuracy: 0.4840433, val_avg Levenshtein distance: 3.46513, val_avg Jaro distance: 0.74291
+2020-03-22 17:13:39,126 INFO Model saved to '../exp/exp1/model-204-0.031822.pth'
+2020-03-22 17:13:56,245 INFO Train - Epoch: 205, LR: 0.0001, train_loss: 0.03307637, train_str_accuracy: 0.9964339, train_avg Levenshtein distance: 0.02680031, train_avg Jaro distance: 1.00522
+2020-03-22 17:13:58,808 INFO Validation - Epoch: 205, val_loss: 1.912288, val_str_accuracy: 0.4765343, val_avg Levenshtein distance: 3.37788, val_avg Jaro distance: 0.7673682
+2020-03-22 17:13:58,812 INFO Model saved to '../exp/exp1/model-205-0.033076.pth'
+2020-03-22 17:14:15,752 INFO Train - Epoch: 206, LR: 0.0001, train_loss: 0.03375785, train_str_accuracy: 0.9957579, train_avg Levenshtein distance: 0.006757337, train_avg Jaro distance: 1.00643
+2020-03-22 17:14:18,274 INFO Validation - Epoch: 206, val_loss: 1.91629, val_str_accuracy: 0.4752347, val_avg Levenshtein distance: 3.363389, val_avg Jaro distance: 0.7519327
+2020-03-22 17:14:18,277 INFO Model saved to '../exp/exp1/model-206-0.033758.pth'
+2020-03-22 17:14:38,847 INFO Train - Epoch: 207, LR: 0.0001, train_loss: 0.0385274, train_str_accuracy: 0.9929818, train_avg Levenshtein distance: 0.03368979, train_avg Jaro distance: 1.00432
+2020-03-22 17:14:41,599 INFO Validation - Epoch: 207, val_loss: 1.989693, val_str_accuracy: 0.4613718, val_avg Levenshtein distance: 3.451023, val_avg Jaro distance: 0.7508363
+2020-03-22 17:14:41,604 INFO Model saved to '../exp/exp1/model-207-0.038527.pth'
+2020-03-22 17:14:58,531 INFO Train - Epoch: 208, LR: 0.0001, train_loss: 0.04079807, train_str_accuracy: 0.9935811, train_avg Levenshtein distance: 0.01360001, train_avg Jaro distance: 1.005922
+2020-03-22 17:15:01,101 INFO Validation - Epoch: 208, val_loss: 1.956401, val_str_accuracy: 0.4886643, val_avg Levenshtein distance: 3.435381, val_avg Jaro distance: 0.7676443
+2020-03-22 17:15:01,104 INFO Model saved to '../exp/exp1/model-208-0.040798.pth'
+2020-03-22 17:15:21,823 INFO Train - Epoch: 209, LR: 0.0001, train_loss: 0.03144415, train_str_accuracy: 0.9957214, train_avg Levenshtein distance: 0.01351171, train_avg Jaro distance: 1.005929
+2020-03-22 17:15:24,881 INFO Validation - Epoch: 209, val_loss: 1.969094, val_str_accuracy: 0.481444, val_avg Levenshtein distance: 3.303587, val_avg Jaro distance: 0.7680243
+2020-03-22 17:15:24,885 INFO Model saved to '../exp/exp1/model-209-0.031444.pth'
+2020-03-22 17:15:43,669 INFO Train - Epoch: 210, LR: 0.0001, train_loss: 0.03346325, train_str_accuracy: 0.9932432, train_avg Levenshtein distance: 4.741926e-05, train_avg Jaro distance: 1.00671
+2020-03-22 17:15:46,511 INFO Validation - Epoch: 210, val_loss: 1.963301, val_str_accuracy: 0.4981949, val_avg Levenshtein distance: 3.317973, val_avg Jaro distance: 0.7648553
+2020-03-22 17:15:46,515 INFO Model saved to '../exp/exp1/model-210-0.033463.pth'
+2020-03-22 17:16:03,184 INFO Train - Epoch: 211, LR: 0.0001, train_loss: 0.03466479, train_str_accuracy: 0.9941428, train_avg Levenshtein distance: 0.01342371, train_avg Jaro distance: 1.005412
+2020-03-22 17:16:05,865 INFO Validation - Epoch: 211, val_loss: 1.96955, val_str_accuracy: 0.4703249, val_avg Levenshtein distance: 3.333338, val_avg Jaro distance: 0.7595937
+2020-03-22 17:16:05,868 INFO Model saved to '../exp/exp1/model-211-0.034665.pth'
+2020-03-22 17:16:22,101 INFO Train - Epoch: 212, LR: 0.0001, train_loss: 0.03058823, train_str_accuracy: 0.9961697, train_avg Levenshtein distance: 0.006935111, train_avg Jaro distance: 1.0062
+2020-03-22 17:16:24,613 INFO Validation - Epoch: 212, val_loss: 1.941981, val_str_accuracy: 0.4753791, val_avg Levenshtein distance: 3.277589, val_avg Jaro distance: 0.7655892
+2020-03-22 17:16:24,616 INFO Model saved to '../exp/exp1/model-212-0.030588.pth'
+2020-03-22 17:16:41,132 INFO Train - Epoch: 213, LR: 0.0001, train_loss: 0.02740417, train_str_accuracy: 0.9965833, train_avg Levenshtein distance: 4.444446e-05, train_avg Jaro distance: 1.006708
+2020-03-22 17:16:44,104 INFO Validation - Epoch: 213, val_loss: 1.942568, val_str_accuracy: 0.4849097, val_avg Levenshtein distance: 3.405803, val_avg Jaro distance: 0.7598902
+2020-03-22 17:16:44,107 INFO Model saved to '../exp/exp1/model-213-0.027404.pth'
+2020-03-22 17:17:01,252 INFO Train - Epoch: 214, LR: 0.0001, train_loss: 0.0259756, train_str_accuracy: 0.9980857, train_avg Levenshtein distance: 1.988565e-09, train_avg Jaro distance: 1.006711
+2020-03-22 17:17:04,326 INFO Validation - Epoch: 214, val_loss: 1.962086, val_str_accuracy: 0.4932852, val_avg Levenshtein distance: 3.362612, val_avg Jaro distance: 0.759703
+2020-03-22 17:17:04,329 INFO Model saved to '../exp/exp1/model-214-0.025976.pth'
+2020-03-22 17:17:23,196 INFO Train - Epoch: 215, LR: 0.0001, train_loss: 0.02322636, train_str_accuracy: 0.9987231, train_avg Levenshtein distance: 0.0400003, train_avg Jaro distance: 1.004131
+2020-03-22 17:17:25,959 INFO Validation - Epoch: 215, val_loss: 1.957165, val_str_accuracy: 0.4857762, val_avg Levenshtein distance: 3.333435, val_avg Jaro distance: 0.7590195
+2020-03-22 17:17:25,963 INFO Model saved to '../exp/exp1/model-215-0.023226.pth'
+2020-03-22 17:17:44,116 INFO Train - Epoch: 216, LR: 0.0001, train_loss: 0.02284807, train_str_accuracy: 0.9987609, train_avg Levenshtein distance: 1.975309e-09, train_avg Jaro distance: 1.006711
+2020-03-22 17:17:46,832 INFO Validation - Epoch: 216, val_loss: 1.962344, val_str_accuracy: 0.4922744, val_avg Levenshtein distance: 3.290348, val_avg Jaro distance: 0.7699515
+2020-03-22 17:17:46,835 INFO Model saved to '../exp/exp1/model-216-0.022848.pth'
+2020-03-22 17:18:06,422 INFO Train - Epoch: 217, LR: 0.0001, train_loss: 0.02203892, train_str_accuracy: 0.9987234, train_avg Levenshtein distance: 2.962963e-07, train_avg Jaro distance: 1.006711
+2020-03-22 17:18:08,990 INFO Validation - Epoch: 217, val_loss: 1.972478, val_str_accuracy: 0.4999278, val_avg Levenshtein distance: 3.188796, val_avg Jaro distance: 0.7826098
+2020-03-22 17:18:08,993 INFO Model saved to '../exp/exp1/model-217-0.022039.pth'
+2020-03-22 17:18:26,355 INFO Train - Epoch: 218, LR: 0.0001, train_loss: 0.02151422, train_str_accuracy: 0.9986486, train_avg Levenshtein distance: 1.481508e-06, train_avg Jaro distance: 1.006711
+2020-03-22 17:18:29,072 INFO Validation - Epoch: 218, val_loss: 1.965185, val_str_accuracy: 0.4902527, val_avg Levenshtein distance: 3.34715, val_avg Jaro distance: 0.7568925
+2020-03-22 17:18:29,075 INFO Model saved to '../exp/exp1/model-218-0.021514.pth'
+2020-03-22 17:18:47,121 INFO Train - Epoch: 219, LR: 0.0001, train_loss: 0.02046318, train_str_accuracy: 0.9983858, train_avg Levenshtein distance: 0.01333335, train_avg Jaro distance: 1.006187
+2020-03-22 17:18:49,940 INFO Validation - Epoch: 219, val_loss: 1.968016, val_str_accuracy: 0.493574, val_avg Levenshtein distance: 3.304545, val_avg Jaro distance: 0.7740082
+2020-03-22 17:18:49,943 INFO Model saved to '../exp/exp1/model-219-0.020463.pth'
+2020-03-22 17:19:09,237 INFO Train - Epoch: 220, LR: 0.0001, train_loss: 0.0209477, train_str_accuracy: 0.9996246, train_avg Levenshtein distance: 4.389575e-13, train_avg Jaro distance: 1.006711
+2020-03-22 17:19:11,893 INFO Validation - Epoch: 220, val_loss: 1.967064, val_str_accuracy: 0.4922744, val_avg Levenshtein distance: 3.377202, val_avg Jaro distance: 0.7646192
+2020-03-22 17:19:11,896 INFO Model saved to '../exp/exp1/model-220-0.020948.pth'
+2020-03-22 17:19:30,508 INFO Train - Epoch: 221, LR: 0.0001, train_loss: 0.02002123, train_str_accuracy: 0.9987987, train_avg Levenshtein distance: 2.962963e-07, train_avg Jaro distance: 1.006711
+2020-03-22 17:19:33,134 INFO Validation - Epoch: 221, val_loss: 1.978047, val_str_accuracy: 0.494296, val_avg Levenshtein distance: 3.390727, val_avg Jaro distance: 0.7614128
+2020-03-22 17:19:33,138 INFO Model saved to '../exp/exp1/model-221-0.020021.pth'
+2020-03-22 17:19:50,961 INFO Train - Epoch: 222, LR: 0.0001, train_loss: 0.01891488, train_str_accuracy: 0.9992867, train_avg Levenshtein distance: 0.04, train_avg Jaro distance: 1.0041
+2020-03-22 17:19:53,454 INFO Validation - Epoch: 222, val_loss: 1.978733, val_str_accuracy: 0.4879422, val_avg Levenshtein distance: 3.304154, val_avg Jaro distance: 0.7629936
+2020-03-22 17:19:53,458 INFO Model saved to '../exp/exp1/model-222-0.018915.pth'
+2020-03-22 17:20:09,373 INFO Train - Epoch: 223, LR: 0.0001, train_loss: 0.02011586, train_str_accuracy: 0.9988362, train_avg Levenshtein distance: 4.444444e-05, train_avg Jaro distance: 1.00671
+2020-03-22 17:20:11,909 INFO Validation - Epoch: 223, val_loss: 1.98358, val_str_accuracy: 0.4870758, val_avg Levenshtein distance: 3.333633, val_avg Jaro distance: 0.7649164
+2020-03-22 17:20:11,912 INFO Model saved to '../exp/exp1/model-223-0.020116.pth'
+2020-03-22 17:20:28,990 INFO Train - Epoch: 224, LR: 0.0001, train_loss: 0.01935181, train_str_accuracy: 0.9998123, train_avg Levenshtein distance: 3.901844e-18, train_avg Jaro distance: 1.006711
+2020-03-22 17:20:31,569 INFO Validation - Epoch: 224, val_loss: 1.97299, val_str_accuracy: 0.4929964, val_avg Levenshtein distance: 3.362418, val_avg Jaro distance: 0.7664988
+2020-03-22 17:20:31,572 INFO Model saved to '../exp/exp1/model-224-0.019352.pth'
+2020-03-22 17:20:48,897 INFO Train - Epoch: 225, LR: 0.0001, train_loss: 0.01874286, train_str_accuracy: 0.998799, train_avg Levenshtein distance: 2.642524e-11, train_avg Jaro distance: 1.006711
+2020-03-22 17:20:51,637 INFO Validation - Epoch: 225, val_loss: 1.988954, val_str_accuracy: 0.4901083, val_avg Levenshtein distance: 3.275461, val_avg Jaro distance: 0.7657219
+2020-03-22 17:20:51,640 INFO Model saved to '../exp/exp1/model-225-0.018743.pth'
+2020-03-22 17:21:10,902 INFO Train - Epoch: 226, LR: 0.0001, train_loss: 0.01856188, train_str_accuracy: 0.9994371, train_avg Levenshtein distance: 4.444451e-05, train_avg Jaro distance: 1.00671
+2020-03-22 17:21:13,821 INFO Validation - Epoch: 226, val_loss: 1.982772, val_str_accuracy: 0.5055596, val_avg Levenshtein distance: 3.289279, val_avg Jaro distance: 0.7585661
+2020-03-22 17:21:13,824 INFO Model saved to '../exp/exp1/model-226-0.018562.pth'
+2020-03-22 17:21:31,212 INFO Train - Epoch: 227, LR: 0.0001, train_loss: 0.01824584, train_str_accuracy: 0.9986112, train_avg Levenshtein distance: 0.006667259, train_avg Jaro distance: 1.006434
+2020-03-22 17:21:34,012 INFO Validation - Epoch: 227, val_loss: 1.994019, val_str_accuracy: 0.4821661, val_avg Levenshtein distance: 3.334112, val_avg Jaro distance: 0.7673851
+2020-03-22 17:21:34,016 INFO Model saved to '../exp/exp1/model-227-0.018246.pth'
+2020-03-22 17:21:52,331 INFO Train - Epoch: 228, LR: 0.0001, train_loss: 0.01814516, train_str_accuracy: 0.9993996, train_avg Levenshtein distance: 1.755831e-13, train_avg Jaro distance: 1.006711
+2020-03-22 17:21:55,444 INFO Validation - Epoch: 228, val_loss: 2.011336, val_str_accuracy: 0.4898195, val_avg Levenshtein distance: 3.376043, val_avg Jaro distance: 0.7649718
+2020-03-22 17:21:55,449 INFO Model saved to '../exp/exp1/model-228-0.018145.pth'
+2020-03-22 17:22:15,342 INFO Train - Epoch: 229, LR: 0.0001, train_loss: 0.01912434, train_str_accuracy: 0.9987983, train_avg Levenshtein distance: 0.006666669, train_avg Jaro distance: 1.006156
+2020-03-22 17:22:19,505 INFO Validation - Epoch: 229, val_loss: 1.996621, val_str_accuracy: 0.4899639, val_avg Levenshtein distance: 3.304838, val_avg Jaro distance: 0.7615081
+2020-03-22 17:22:19,515 INFO Model saved to '../exp/exp1/model-229-0.019124.pth'
+2020-03-22 17:22:41,767 INFO Train - Epoch: 230, LR: 0.0001, train_loss: 0.02215236, train_str_accuracy: 0.9974478, train_avg Levenshtein distance: 4.503909e-05, train_avg Jaro distance: 1.00671
+2020-03-22 17:22:44,625 INFO Validation - Epoch: 230, val_loss: 2.014779, val_str_accuracy: 0.474657, val_avg Levenshtein distance: 3.537406, val_avg Jaro distance: 0.7504226
+2020-03-22 17:22:44,628 INFO Model saved to '../exp/exp1/model-230-0.022152.pth'
+2020-03-22 17:23:04,009 INFO Train - Epoch: 231, LR: 0.0001, train_loss: 0.02213147, train_str_accuracy: 0.997822, train_avg Levenshtein distance: 0.006711111, train_avg Jaro distance: 1.006432
+2020-03-22 17:23:07,645 INFO Validation - Epoch: 231, val_loss: 2.008878, val_str_accuracy: 0.480722, val_avg Levenshtein distance: 3.434987, val_avg Jaro distance: 0.7584556
+2020-03-22 17:23:07,651 INFO Model saved to '../exp/exp1/model-231-0.022131.pth'
+2020-03-22 17:23:27,962 INFO Train - Epoch: 232, LR: 0.0001, train_loss: 0.02017367, train_str_accuracy: 0.9982355, train_avg Levenshtein distance: 0.04666726, train_avg Jaro distance: 1.00339
+2020-03-22 17:23:30,541 INFO Validation - Epoch: 232, val_loss: 1.985214, val_str_accuracy: 0.4856318, val_avg Levenshtein distance: 3.304548, val_avg Jaro distance: 0.7754792
+2020-03-22 17:23:30,544 INFO Model saved to '../exp/exp1/model-232-0.020174.pth'
+2020-03-22 17:23:47,413 INFO Train - Epoch: 233, LR: 0.0001, train_loss: 0.0184134, train_str_accuracy: 0.9988366, train_avg Levenshtein distance: 0.006668148, train_avg Jaro distance: 1.006464
+2020-03-22 17:23:50,165 INFO Validation - Epoch: 233, val_loss: 2.011803, val_str_accuracy: 0.4898195, val_avg Levenshtein distance: 3.333818, val_avg Jaro distance: 0.7540678
+2020-03-22 17:23:50,168 INFO Model saved to '../exp/exp1/model-233-0.018413.pth'
+2020-03-22 17:24:11,915 INFO Train - Epoch: 234, LR: 0.0001, train_loss: 0.01723179, train_str_accuracy: 0.9989118, train_avg Levenshtein distance: 0.03337778, train_avg Jaro distance: 1.004376
+2020-03-22 17:24:14,770 INFO Validation - Epoch: 234, val_loss: 2.017631, val_str_accuracy: 0.49213, val_avg Levenshtein distance: 3.348318, val_avg Jaro distance: 0.7509422
+2020-03-22 17:24:14,773 INFO Model saved to '../exp/exp1/model-234-0.017232.pth'
+2020-03-22 17:24:38,067 INFO Train - Epoch: 235, LR: 0.0001, train_loss: 0.0175759, train_str_accuracy: 0.9986483, train_avg Levenshtein distance: 4.474074e-05, train_avg Jaro distance: 1.00671
+2020-03-22 17:24:43,174 INFO Validation - Epoch: 235, val_loss: 2.020506, val_str_accuracy: 0.4886643, val_avg Levenshtein distance: 3.304736, val_avg Jaro distance: 0.7678653
+2020-03-22 17:24:43,178 INFO Model saved to '../exp/exp1/model-235-0.017576.pth'
+2020-03-22 17:25:06,040 INFO Train - Epoch: 236, LR: 0.0001, train_loss: 0.02053439, train_str_accuracy: 0.9973736, train_avg Levenshtein distance: 0.01337779, train_avg Jaro distance: 1.005489
+2020-03-22 17:25:09,065 INFO Validation - Epoch: 236, val_loss: 2.029207, val_str_accuracy: 0.4795668, val_avg Levenshtein distance: 3.492862, val_avg Jaro distance: 0.7525762
+2020-03-22 17:25:09,068 INFO Model saved to '../exp/exp1/model-236-0.020534.pth'
+2020-03-22 17:25:32,045 INFO Train - Epoch: 237, LR: 0.0001, train_loss: 0.0501983, train_str_accuracy: 0.9871949, train_avg Levenshtein distance: 0.0816063, train_avg Jaro distance: 1.001084
+2020-03-22 17:25:35,335 INFO Validation - Epoch: 237, val_loss: 2.205737, val_str_accuracy: 0.4337906, val_avg Levenshtein distance: 3.843032, val_avg Jaro distance: 0.7380222
+2020-03-22 17:25:35,344 INFO Model saved to '../exp/exp1/model-237-0.050198.pth'
+2020-03-22 17:25:56,141 INFO Train - Epoch: 238, LR: 0.0001, train_loss: 0.1389332, train_str_accuracy: 0.9161504, train_avg Levenshtein distance: 0.3557566, train_avg Jaro distance: 0.9847951
+2020-03-22 17:25:59,484 INFO Validation - Epoch: 238, val_loss: 2.322992, val_str_accuracy: 0.3748736, val_avg Levenshtein distance: 3.978516, val_avg Jaro distance: 0.7079914
+2020-03-22 17:25:59,487 INFO Model saved to '../exp/exp1/model-238-0.138933.pth'
+2020-03-22 17:26:17,074 INFO Train - Epoch: 239, LR: 0.0001, train_loss: 0.1966574, train_str_accuracy: 0.8693596, train_avg Levenshtein distance: 0.4896662, train_avg Jaro distance: 0.9714433
+2020-03-22 17:26:19,756 INFO Validation - Epoch: 239, val_loss: 2.233547, val_str_accuracy: 0.4375451, val_avg Levenshtein distance: 3.859839, val_avg Jaro distance: 0.7276922
+2020-03-22 17:26:19,759 INFO Model saved to '../exp/exp1/model-239-0.196657.pth'
+2020-03-22 17:26:39,586 INFO Train - Epoch: 240, LR: 0.0001, train_loss: 0.1406717, train_str_accuracy: 0.9032936, train_avg Levenshtein distance: 0.2346338, train_avg Jaro distance: 0.9932853
+2020-03-22 17:26:43,538 INFO Validation - Epoch: 240, val_loss: 2.155346, val_str_accuracy: 0.4322022, val_avg Levenshtein distance: 3.742084, val_avg Jaro distance: 0.7127833
+2020-03-22 17:26:43,543 INFO Model saved to '../exp/exp1/model-240-0.140672.pth'
+2020-03-22 17:27:00,688 INFO Train - Epoch: 241, LR: 0.0001, train_loss: 0.08118622, train_str_accuracy: 0.9528011, train_avg Levenshtein distance: 0.113739, train_avg Jaro distance: 1.000409
+2020-03-22 17:27:03,433 INFO Validation - Epoch: 241, val_loss: 2.048642, val_str_accuracy: 0.4782671, val_avg Levenshtein distance: 3.478463, val_avg Jaro distance: 0.7520066
+2020-03-22 17:27:03,438 INFO Model saved to '../exp/exp1/model-241-0.081186.pth'
+2020-03-22 17:27:26,752 INFO Train - Epoch: 242, LR: 0.0001, train_loss: 0.04907746, train_str_accuracy: 0.9821643, train_avg Levenshtein distance: 0.06702431, train_avg Jaro distance: 1.003082
+2020-03-22 17:27:29,548 INFO Validation - Epoch: 242, val_loss: 2.043853, val_str_accuracy: 0.4830325, val_avg Levenshtein distance: 3.46485, val_avg Jaro distance: 0.7533099
+2020-03-22 17:27:29,551 INFO Model saved to '../exp/exp1/model-242-0.049077.pth'
+2020-03-22 17:27:53,897 INFO Train - Epoch: 243, LR: 0.0001, train_loss: 0.03193443, train_str_accuracy: 0.9938441, train_avg Levenshtein distance: 4.504307e-05, train_avg Jaro distance: 1.00671
+2020-03-22 17:27:57,163 INFO Validation - Epoch: 243, val_loss: 1.978814, val_str_accuracy: 0.4704693, val_avg Levenshtein distance: 3.536235, val_avg Jaro distance: 0.75841
+2020-03-22 17:27:57,166 INFO Model saved to '../exp/exp1/model-243-0.031934.pth'
+2020-03-22 17:28:18,093 INFO Train - Epoch: 244, LR: 0.0001, train_loss: 0.02325446, train_str_accuracy: 0.9979362, train_avg Levenshtein distance: 0.006711113, train_avg Jaro distance: 1.006463
+2020-03-22 17:28:20,933 INFO Validation - Epoch: 244, val_loss: 2.015412, val_str_accuracy: 0.5061372, val_avg Levenshtein distance: 3.40532, val_avg Jaro distance: 0.7563553
+2020-03-22 17:28:20,936 INFO Model saved to '../exp/exp1/model-244-0.023254.pth'
+2020-03-22 17:28:38,186 INFO Train - Epoch: 245, LR: 0.0001, train_loss: 0.01915069, train_str_accuracy: 0.9994742, train_avg Levenshtein distance: 4.444446e-05, train_avg Jaro distance: 1.00671
+2020-03-22 17:28:40,734 INFO Validation - Epoch: 245, val_loss: 1.984063, val_str_accuracy: 0.5022383, val_avg Levenshtein distance: 3.231114, val_avg Jaro distance: 0.7771357
+2020-03-22 17:28:40,737 INFO Model saved to '../exp/exp1/model-245-0.019151.pth'
+2020-03-22 17:28:56,685 INFO Train - Epoch: 246, LR: 0.0001, train_loss: 0.01590702, train_str_accuracy: 0.9992492, train_avg Levenshtein distance: 5.852766e-16, train_avg Jaro distance: 1.006711
+2020-03-22 17:28:59,197 INFO Validation - Epoch: 246, val_loss: 1.976156, val_str_accuracy: 0.5080144, val_avg Levenshtein distance: 3.318065, val_avg Jaro distance: 0.7618883
+2020-03-22 17:28:59,200 INFO Model saved to '../exp/exp1/model-246-0.015907.pth'
+2020-03-22 17:29:16,093 INFO Train - Epoch: 247, LR: 0.0001, train_loss: 0.01538088, train_str_accuracy: 0.9993618, train_avg Levenshtein distance: 1.156359e-24, train_avg Jaro distance: 1.006711
+2020-03-22 17:29:19,611 INFO Validation - Epoch: 247, val_loss: 1.984152, val_str_accuracy: 0.5039711, val_avg Levenshtein distance: 3.3028, val_avg Jaro distance: 0.7625021
+2020-03-22 17:29:19,615 INFO Model saved to '../exp/exp1/model-247-0.015381.pth'
+2020-03-22 17:29:38,162 INFO Train - Epoch: 248, LR: 0.0001, train_loss: 0.01450927, train_str_accuracy: 0.9993993, train_avg Levenshtein distance: 1.481481e-06, train_avg Jaro distance: 1.006711
+2020-03-22 17:29:41,747 INFO Validation - Epoch: 248, val_loss: 1.990594, val_str_accuracy: 0.5019495, val_avg Levenshtein distance: 3.362224, val_avg Jaro distance: 0.7617128
+2020-03-22 17:29:41,751 INFO Model saved to '../exp/exp1/model-248-0.014509.pth'
+2020-03-22 17:30:06,263 INFO Train - Epoch: 249, LR: 0.0001, train_loss: 0.01351449, train_str_accuracy: 0.9993243, train_avg Levenshtein distance: 6.047859e-16, train_avg Jaro distance: 1.006711
+2020-03-22 17:30:09,560 INFO Validation - Epoch: 249, val_loss: 1.988047, val_str_accuracy: 0.5020939, val_avg Levenshtein distance: 3.260295, val_avg Jaro distance: 0.7650656
+2020-03-22 17:30:09,564 INFO Model saved to '../exp/exp1/model-249-0.013514.pth'
+2020-03-22 17:30:30,785 INFO Train - Epoch: 250, LR: 0.0001, train_loss: 0.01341611, train_str_accuracy: 0.9994367, train_avg Levenshtein distance: 5.78051e-24, train_avg Jaro distance: 1.006711
+2020-03-22 17:30:34,020 INFO Validation - Epoch: 250, val_loss: 1.994555, val_str_accuracy: 0.5019495, val_avg Levenshtein distance: 3.318354, val_avg Jaro distance: 0.7671475
+2020-03-22 17:30:34,027 INFO Model saved to '../exp/exp1/model-250-0.013416.pth'
+2020-03-22 17:30:57,503 INFO Train - Epoch: 251, LR: 0.0001, train_loss: 0.01298502, train_str_accuracy: 0.9994744, train_avg Levenshtein distance: 1.300615e-19, train_avg Jaro distance: 1.006711
+2020-03-22 17:31:01,277 INFO Validation - Epoch: 251, val_loss: 1.999931, val_str_accuracy: 0.5062816, val_avg Levenshtein distance: 3.217201, val_avg Jaro distance: 0.7670321
+2020-03-22 17:31:01,281 INFO Model saved to '../exp/exp1/model-251-0.012985.pth'
+2020-03-22 17:31:27,517 INFO Train - Epoch: 252, LR: 0.0001, train_loss: 0.01345098, train_str_accuracy: 0.9995495, train_avg Levenshtein distance: 5.852766e-16, train_avg Jaro distance: 1.006711
+2020-03-22 17:31:32,673 INFO Validation - Epoch: 252, val_loss: 2.00554, val_str_accuracy: 0.5041155, val_avg Levenshtein distance: 3.202414, val_avg Jaro distance: 0.7768236
+2020-03-22 17:31:32,681 INFO Model saved to '../exp/exp1/model-252-0.013451.pth'
+2020-03-22 17:31:59,455 INFO Train - Epoch: 253, LR: 0.0001, train_loss: 0.01316805, train_str_accuracy: 0.9993242, train_avg Levenshtein distance: 1.481481e-06, train_avg Jaro distance: 1.006711
+2020-03-22 17:32:05,281 INFO Validation - Epoch: 253, val_loss: 2.013223, val_str_accuracy: 0.4981949, val_avg Levenshtein distance: 3.332463, val_avg Jaro distance: 0.7598491
+2020-03-22 17:32:05,285 INFO Model saved to '../exp/exp1/model-253-0.013168.pth'
+2020-03-22 17:32:29,700 INFO Train - Epoch: 254, LR: 0.0001, train_loss: 0.01232894, train_str_accuracy: 0.9994369, train_avg Levenshtein distance: 1.481481e-06, train_avg Jaro distance: 1.006711
+2020-03-22 17:32:33,855 INFO Validation - Epoch: 254, val_loss: 2.001607, val_str_accuracy: 0.5025271, val_avg Levenshtein distance: 3.346763, val_avg Jaro distance: 0.7620642
+2020-03-22 17:32:33,862 INFO Model saved to '../exp/exp1/model-254-0.012329.pth'
+2020-03-22 17:32:59,961 INFO Train - Epoch: 255, LR: 0.0001, train_loss: 0.01187809, train_str_accuracy: 0.9994741, train_avg Levenshtein distance: 0.0002225185, train_avg Jaro distance: 1.006696
+2020-03-22 17:33:05,780 INFO Validation - Epoch: 255, val_loss: 2.007505, val_str_accuracy: 0.5042599, val_avg Levenshtein distance: 3.260001, val_avg Jaro distance: 0.7647296
+2020-03-22 17:33:05,783 INFO Model saved to '../exp/exp1/model-255-0.011878.pth'
+2020-03-22 17:33:28,569 INFO Train - Epoch: 256, LR: 0.0001, train_loss: 0.01134701, train_str_accuracy: 0.9994366, train_avg Levenshtein distance: 9.876543e-09, train_avg Jaro distance: 1.006711
+2020-03-22 17:33:33,496 INFO Validation - Epoch: 256, val_loss: 2.023702, val_str_accuracy: 0.5018051, val_avg Levenshtein distance: 3.318261, val_avg Jaro distance: 0.7615398
+2020-03-22 17:33:33,501 INFO Model saved to '../exp/exp1/model-256-0.011347.pth'
+2020-03-22 17:33:57,997 INFO Train - Epoch: 257, LR: 0.0001, train_loss: 0.01150289, train_str_accuracy: 0.9995871, train_avg Levenshtein distance: 0.0002222222, train_avg Jaro distance: 1.006696
+2020-03-22 17:34:00,770 INFO Validation - Epoch: 257, val_loss: 2.031115, val_str_accuracy: 0.5028159, val_avg Levenshtein distance: 3.245608, val_avg Jaro distance: 0.7678663
+2020-03-22 17:34:00,773 INFO Model saved to '../exp/exp1/model-257-0.011503.pth'
+2020-03-22 17:34:24,968 INFO Train - Epoch: 258, LR: 0.0001, train_loss: 0.01103255, train_str_accuracy: 0.9996997, train_avg Levenshtein distance: 3.071943e-37, train_avg Jaro distance: 1.006711
+2020-03-22 17:34:28,612 INFO Validation - Epoch: 258, val_loss: 2.021658, val_str_accuracy: 0.5085921, val_avg Levenshtein distance: 3.346765, val_avg Jaro distance: 0.7660669
+2020-03-22 17:34:28,617 INFO Model saved to '../exp/exp1/model-258-0.011033.pth'
+2020-03-22 17:34:54,721 INFO Train - Epoch: 259, LR: 0.0001, train_loss: 0.01047811, train_str_accuracy: 0.999662, train_avg Levenshtein distance: 9.135039e-33, train_avg Jaro distance: 1.006711
+2020-03-22 17:34:58,598 INFO Validation - Epoch: 259, val_loss: 2.028437, val_str_accuracy: 0.5018051, val_avg Levenshtein distance: 3.201933, val_avg Jaro distance: 0.768618
+2020-03-22 17:34:58,602 INFO Model saved to '../exp/exp1/model-259-0.010478.pth'
+2020-03-22 17:35:27,635 INFO Train - Epoch: 260, LR: 0.0001, train_loss: 0.0102724, train_str_accuracy: 0.9996621, train_avg Levenshtein distance: 9.876543e-09, train_avg Jaro distance: 1.006711
+2020-03-22 17:35:33,725 INFO Validation - Epoch: 260, val_loss: 2.031219, val_str_accuracy: 0.5101805, val_avg Levenshtein distance: 3.288595, val_avg Jaro distance: 0.763919
+2020-03-22 17:35:33,730 INFO Model saved to '../exp/exp1/model-260-0.010272.pth'
+2020-03-22 17:36:00,689 INFO Train - Epoch: 261, LR: 0.0001, train_loss: 0.01067581, train_str_accuracy: 0.9994745, train_avg Levenshtein distance: 0.0001333333, train_avg Jaro distance: 1.006706
+2020-03-22 17:36:05,809 INFO Validation - Epoch: 261, val_loss: 2.038795, val_str_accuracy: 0.5061372, val_avg Levenshtein distance: 3.288791, val_avg Jaro distance: 0.7626167
+2020-03-22 17:36:05,812 INFO Model saved to '../exp/exp1/model-261-0.010676.pth'
+2020-03-22 17:36:34,437 INFO Train - Epoch: 262, LR: 0.0001, train_loss: 0.01043378, train_str_accuracy: 0.9995121, train_avg Levenshtein distance: 9.876544e-09, train_avg Jaro distance: 1.006711
+2020-03-22 17:36:39,511 INFO Validation - Epoch: 262, val_loss: 2.044718, val_str_accuracy: 0.4997834, val_avg Levenshtein distance: 3.361258, val_avg Jaro distance: 0.7556708
+2020-03-22 17:36:39,515 INFO Model saved to '../exp/exp1/model-262-0.010434.pth'
+2020-03-22 17:37:06,377 INFO Train - Epoch: 263, LR: 0.0001, train_loss: 0.01047913, train_str_accuracy: 0.9993616, train_avg Levenshtein distance: 4.474074e-05, train_avg Jaro distance: 1.006708
+2020-03-22 17:37:09,662 INFO Validation - Epoch: 263, val_loss: 2.053964, val_str_accuracy: 0.4931408, val_avg Levenshtein distance: 3.303769, val_avg Jaro distance: 0.7608334
+2020-03-22 17:37:09,667 INFO Model saved to '../exp/exp1/model-263-0.010479.pth'
+2020-03-22 17:37:27,455 INFO Train - Epoch: 264, LR: 0.0001, train_loss: 0.01030092, train_str_accuracy: 0.9991743, train_avg Levenshtein distance: 6.584362e-11, train_avg Jaro distance: 1.006711
+2020-03-22 17:37:32,084 INFO Validation - Epoch: 264, val_loss: 2.05019, val_str_accuracy: 0.4983394, val_avg Levenshtein distance: 3.173136, val_avg Jaro distance: 0.7687832
+2020-03-22 17:37:32,088 INFO Model saved to '../exp/exp1/model-264-0.010301.pth'
+2020-03-22 17:37:54,725 INFO Train - Epoch: 265, LR: 0.0001, train_loss: 0.01021245, train_str_accuracy: 0.9994745, train_avg Levenshtein distance: 2.962963e-07, train_avg Jaro distance: 1.006711
+2020-03-22 17:37:58,498 INFO Validation - Epoch: 265, val_loss: 2.044901, val_str_accuracy: 0.5015162, val_avg Levenshtein distance: 3.289464, val_avg Jaro distance: 0.7635948
+2020-03-22 17:37:58,506 INFO Model saved to '../exp/exp1/model-265-0.010212.pth'
+2020-03-22 17:38:20,646 INFO Train - Epoch: 266, LR: 0.0001, train_loss: 0.01040738, train_str_accuracy: 0.9995871, train_avg Levenshtein distance: 0.03342222, train_avg Jaro distance: 1.004371
+2020-03-22 17:38:23,992 INFO Validation - Epoch: 266, val_loss: 2.066005, val_str_accuracy: 0.4929964, val_avg Levenshtein distance: 3.288499, val_avg Jaro distance: 0.7623412
+2020-03-22 17:38:23,995 INFO Model saved to '../exp/exp1/model-266-0.010407.pth'
+2020-03-22 17:38:45,297 INFO Train - Epoch: 267, LR: 0.0001, train_loss: 0.01152291, train_str_accuracy: 0.9994368, train_avg Levenshtein distance: 0.006666667, train_avg Jaro distance: 1.006464
+2020-03-22 17:38:48,574 INFO Validation - Epoch: 267, val_loss: 2.059834, val_str_accuracy: 0.5101805, val_avg Levenshtein distance: 3.230239, val_avg Jaro distance: 0.7760374
+2020-03-22 17:38:48,578 INFO Model saved to '../exp/exp1/model-267-0.011523.pth'
+2020-03-22 17:39:09,683 INFO Train - Epoch: 268, LR: 0.0001, train_loss: 0.01650122, train_str_accuracy: 0.9969968, train_avg Levenshtein distance: 0.007111708, train_avg Jaro distance: 1.006409
+2020-03-22 17:39:13,046 INFO Validation - Epoch: 268, val_loss: 2.114531, val_str_accuracy: 0.486065, val_avg Levenshtein distance: 3.507451, val_avg Jaro distance: 0.7612995
+2020-03-22 17:39:13,050 INFO Model saved to '../exp/exp1/model-268-0.016501.pth'
+2020-03-22 17:39:34,284 INFO Train - Epoch: 269, LR: 0.0001, train_loss: 0.01855642, train_str_accuracy: 0.9974842, train_avg Levenshtein distance: 0.03333334, train_avg Jaro distance: 1.003779
+2020-03-22 17:39:37,652 INFO Validation - Epoch: 269, val_loss: 2.07465, val_str_accuracy: 0.5009386, val_avg Levenshtein distance: 3.318841, val_avg Jaro distance: 0.7662788
+2020-03-22 17:39:37,655 INFO Model saved to '../exp/exp1/model-269-0.018556.pth'
+2020-03-22 17:39:58,923 INFO Train - Epoch: 270, LR: 0.0001, train_loss: 0.01724599, train_str_accuracy: 0.9981232, train_avg Levenshtein distance: 0.01342252, train_avg Jaro distance: 1.006152
+2020-03-22 17:40:02,229 INFO Validation - Epoch: 270, val_loss: 2.134161, val_str_accuracy: 0.501083, val_avg Levenshtein distance: 3.332666, val_avg Jaro distance: 0.7642101
+2020-03-22 17:40:02,233 INFO Model saved to '../exp/exp1/model-270-0.017246.pth'
+2020-03-22 17:40:23,326 INFO Train - Epoch: 271, LR: 0.0001, train_loss: 0.01560312, train_str_accuracy: 0.9978981, train_avg Levenshtein distance: 0.0400003, train_avg Jaro distance: 1.003822
+2020-03-22 17:40:26,699 INFO Validation - Epoch: 271, val_loss: 2.094143, val_str_accuracy: 0.4983394, val_avg Levenshtein distance: 3.391205, val_avg Jaro distance: 0.7523788
+2020-03-22 17:40:26,704 INFO Model saved to '../exp/exp1/model-271-0.015603.pth'
+2020-03-22 17:40:47,825 INFO Train - Epoch: 272, LR: 0.0001, train_loss: 0.01493618, train_str_accuracy: 0.998574, train_avg Levenshtein distance: 0.01337778, train_avg Jaro distance: 1.005967
+2020-03-22 17:40:51,351 INFO Validation - Epoch: 272, val_loss: 2.088206, val_str_accuracy: 0.4947292, val_avg Levenshtein distance: 3.303389, val_avg Jaro distance: 0.7743442
+2020-03-22 17:40:51,356 INFO Model saved to '../exp/exp1/model-272-0.014936.pth'
+2020-03-22 17:41:15,983 INFO Train - Epoch: 273, LR: 0.0001, train_loss: 0.01168911, train_str_accuracy: 0.999174, train_avg Levenshtein distance: 2.731291e-17, train_avg Jaro distance: 1.006711
+2020-03-22 17:41:19,265 INFO Validation - Epoch: 273, val_loss: 2.079716, val_str_accuracy: 0.5022383, val_avg Levenshtein distance: 3.31778, val_avg Jaro distance: 0.7533931
+2020-03-22 17:41:19,270 INFO Model saved to '../exp/exp1/model-273-0.011689.pth'
+2020-03-22 17:41:47,270 INFO Train - Epoch: 274, LR: 0.0001, train_loss: 0.009903243, train_str_accuracy: 0.9996999, train_avg Levenshtein distance: 1.950922e-17, train_avg Jaro distance: 1.006711
+2020-03-22 17:41:51,983 INFO Validation - Epoch: 274, val_loss: 2.07075, val_str_accuracy: 0.5049819, val_avg Levenshtein distance: 3.303001, val_avg Jaro distance: 0.7636146
+2020-03-22 17:41:51,994 INFO Model saved to '../exp/exp1/model-274-0.009903.pth'
+2020-03-22 17:42:12,844 INFO Train - Epoch: 275, LR: 0.0001, train_loss: 0.008924157, train_str_accuracy: 0.9996245, train_avg Levenshtein distance: 9.134633e-35, train_avg Jaro distance: 1.006711
+2020-03-22 17:42:15,733 INFO Validation - Epoch: 275, val_loss: 2.077851, val_str_accuracy: 0.5012274, val_avg Levenshtein distance: 3.289276, val_avg Jaro distance: 0.755719
+2020-03-22 17:42:15,737 INFO Model saved to '../exp/exp1/model-275-0.008924.pth'
+2020-03-22 17:42:38,967 INFO Train - Epoch: 276, LR: 0.0001, train_loss: 0.008742211, train_str_accuracy: 0.9994367, train_avg Levenshtein distance: 5.854067e-16, train_avg Jaro distance: 1.006711
+2020-03-22 17:42:44,233 INFO Validation - Epoch: 276, val_loss: 2.082085, val_str_accuracy: 0.4974729, val_avg Levenshtein distance: 3.347152, val_avg Jaro distance: 0.7580002
+2020-03-22 17:42:44,241 INFO Model saved to '../exp/exp1/model-276-0.008742.pth'
+2020-03-22 17:43:10,881 INFO Train - Epoch: 277, LR: 0.0001, train_loss: 0.007857914, train_str_accuracy: 1, train_avg Levenshtein distance: 0, train_avg Jaro distance: 1.006711
+2020-03-22 17:43:17,165 INFO Validation - Epoch: 277, val_loss: 2.078378, val_str_accuracy: 0.4997834, val_avg Levenshtein distance: 3.289661, val_avg Jaro distance: 0.7618401
+2020-03-22 17:43:17,169 INFO Model saved to '../exp/exp1/model-277-0.007858.pth'
+2020-03-22 17:43:43,187 INFO Train - Epoch: 278, LR: 0.0001, train_loss: 0.007987656, train_str_accuracy: 0.9997372, train_avg Levenshtein distance: 2.926383e-15, train_avg Jaro distance: 1.006711
+2020-03-22 17:43:45,793 INFO Validation - Epoch: 278, val_loss: 2.078295, val_str_accuracy: 0.4961733, val_avg Levenshtein distance: 3.33266, val_avg Jaro distance: 0.7593892
+2020-03-22 17:43:45,796 INFO Model saved to '../exp/exp1/model-278-0.007988.pth'
+2020-03-22 17:44:09,298 INFO Train - Epoch: 279, LR: 0.0001, train_loss: 0.007747957, train_str_accuracy: 0.999587, train_avg Levenshtein distance: 6.584362e-11, train_avg Jaro distance: 1.006711
+2020-03-22 17:44:11,969 INFO Validation - Epoch: 279, val_loss: 2.085975, val_str_accuracy: 0.5074368, val_avg Levenshtein distance: 3.230918, val_avg Jaro distance: 0.7654302
+2020-03-22 17:44:11,972 INFO Model saved to '../exp/exp1/model-279-0.007748.pth'
+2020-03-22 17:44:37,955 INFO Train - Epoch: 280, LR: 0.0001, train_loss: 0.007640812, train_str_accuracy: 0.9996996, train_avg Levenshtein distance: 2.569116e-28, train_avg Jaro distance: 1.006711
+2020-03-22 17:44:41,520 INFO Validation - Epoch: 280, val_loss: 2.089835, val_str_accuracy: 0.499639, val_avg Levenshtein distance: 3.332368, val_avg Jaro distance: 0.7612299
+2020-03-22 17:44:41,525 INFO Model saved to '../exp/exp1/model-280-0.007641.pth'
+2020-03-22 17:45:03,902 INFO Train - Epoch: 281, LR: 0.0001, train_loss: 0.007716316, train_str_accuracy: 0.9995118, train_avg Levenshtein distance: 2.569116e-28, train_avg Jaro distance: 1.006711
+2020-03-22 17:45:07,510 INFO Validation - Epoch: 281, val_loss: 2.100425, val_str_accuracy: 0.5031047, val_avg Levenshtein distance: 3.274592, val_avg Jaro distance: 0.7613034
+2020-03-22 17:45:07,515 INFO Model saved to '../exp/exp1/model-281-0.007716.pth'
+2020-03-22 17:45:29,998 INFO Train - Epoch: 282, LR: 0.0001, train_loss: 0.007216064, train_str_accuracy: 0.9995495, train_avg Levenshtein distance: 9.876543e-09, train_avg Jaro distance: 1.006711
+2020-03-22 17:45:33,529 INFO Validation - Epoch: 282, val_loss: 2.093331, val_str_accuracy: 0.4980505, val_avg Levenshtein distance: 3.289185, val_avg Jaro distance: 0.7557816
+2020-03-22 17:45:33,533 INFO Model saved to '../exp/exp1/model-282-0.007216.pth'
+2020-03-22 17:45:55,710 INFO Train - Epoch: 283, LR: 0.0001, train_loss: 0.00766523, train_str_accuracy: 0.9995869, train_avg Levenshtein distance: 0.0002222222, train_avg Jaro distance: 1.006696
+2020-03-22 17:45:59,196 INFO Validation - Epoch: 283, val_loss: 2.096078, val_str_accuracy: 0.5055596, val_avg Levenshtein distance: 3.317971, val_avg Jaro distance: 0.7651158
+2020-03-22 17:45:59,201 INFO Model saved to '../exp/exp1/model-283-0.007665.pth'
+2020-03-22 17:46:22,462 INFO Train - Epoch: 284, LR: 0.0001, train_loss: 0.007600994, train_str_accuracy: 0.9995494, train_avg Levenshtein distance: 4.389575e-13, train_avg Jaro distance: 1.006711
+2020-03-22 17:46:25,354 INFO Validation - Epoch: 284, val_loss: 2.101449, val_str_accuracy: 0.5031047, val_avg Levenshtein distance: 3.332848, val_avg Jaro distance: 0.7545966
+2020-03-22 17:46:25,358 INFO Model saved to '../exp/exp1/model-284-0.007601.pth'
+2020-03-22 17:46:47,025 INFO Train - Epoch: 285, LR: 0.0001, train_loss: 0.007095141, train_str_accuracy: 0.9996623, train_avg Levenshtein distance: 4.389575e-13, train_avg Jaro distance: 1.006711
+2020-03-22 17:46:50,724 INFO Validation - Epoch: 285, val_loss: 2.102494, val_str_accuracy: 0.5016606, val_avg Levenshtein distance: 3.274591, val_avg Jaro distance: 0.7588987
+2020-03-22 17:46:50,727 INFO Model saved to '../exp/exp1/model-285-0.007095.pth'
+2020-03-22 17:47:14,733 INFO Train - Epoch: 286, LR: 0.0001, train_loss: 0.007058056, train_str_accuracy: 0.9995121, train_avg Levenshtein distance: 2.926383e-15, train_avg Jaro distance: 1.006711
+2020-03-22 17:47:19,838 INFO Validation - Epoch: 286, val_loss: 2.106204, val_str_accuracy: 0.5007942, val_avg Levenshtein distance: 3.34763, val_avg Jaro distance: 0.7569717
+2020-03-22 17:47:19,841 INFO Model saved to '../exp/exp1/model-286-0.007058.pth'
+2020-03-22 17:47:47,266 INFO Train - Epoch: 287, LR: 0.0001, train_loss: 0.007210289, train_str_accuracy: 0.9996621, train_avg Levenshtein distance: 0.0002222222, train_avg Jaro distance: 1.006696
+2020-03-22 17:47:51,323 INFO Validation - Epoch: 287, val_loss: 2.113166, val_str_accuracy: 0.5026715, val_avg Levenshtein distance: 3.390725, val_avg Jaro distance: 0.7615871
+2020-03-22 17:47:51,330 INFO Model saved to '../exp/exp1/model-287-0.007210.pth'
+2020-03-22 17:48:16,391 INFO Train - Epoch: 288, LR: 0.0001, train_loss: 0.006862354, train_str_accuracy: 0.9996997, train_avg Levenshtein distance: 3.853673e-26, train_avg Jaro distance: 1.006711
+2020-03-22 17:48:20,994 INFO Validation - Epoch: 288, val_loss: 2.111973, val_str_accuracy: 0.507148, val_avg Levenshtein distance: 3.288601, val_avg Jaro distance: 0.7628619
+2020-03-22 17:48:21,005 INFO Model saved to '../exp/exp1/model-288-0.006862.pth'
+2020-03-22 17:48:48,514 INFO Train - Epoch: 289, LR: 0.0001, train_loss: 0.006978202, train_str_accuracy: 0.9997372, train_avg Levenshtein distance: 2.926383e-15, train_avg Jaro distance: 1.006711
+2020-03-22 17:48:52,581 INFO Validation - Epoch: 289, val_loss: 2.113882, val_str_accuracy: 0.5007942, val_avg Levenshtein distance: 3.288988, val_avg Jaro distance: 0.7603632
+2020-03-22 17:48:52,585 INFO Model saved to '../exp/exp1/model-289-0.006978.pth'
+2020-03-22 17:49:10,199 INFO Train - Epoch: 290, LR: 0.0001, train_loss: 0.006656929, train_str_accuracy: 0.999512, train_avg Levenshtein distance: 0.03333334, train_avg Jaro distance: 1.004674
+2020-03-22 17:49:12,928 INFO Validation - Epoch: 290, val_loss: 2.125553, val_str_accuracy: 0.5149458, val_avg Levenshtein distance: 3.274586, val_avg Jaro distance: 0.7673394
+2020-03-22 17:49:12,933 INFO Model saved to '../exp/exp1/model-290-0.006657.pth'
+2020-03-22 17:49:34,102 INFO Train - Epoch: 291, LR: 0.0001, train_loss: 0.007321086, train_str_accuracy: 0.9993993, train_avg Levenshtein distance: 1.170553e-17, train_avg Jaro distance: 1.006711
+2020-03-22 17:49:38,399 INFO Validation - Epoch: 291, val_loss: 2.144658, val_str_accuracy: 0.5044043, val_avg Levenshtein distance: 3.289277, val_avg Jaro distance: 0.7661968
+2020-03-22 17:49:38,403 INFO Model saved to '../exp/exp1/model-291-0.007321.pth'
+2020-03-22 17:50:03,273 INFO Train - Epoch: 292, LR: 0.0001, train_loss: 0.009799995, train_str_accuracy: 0.9993242, train_avg Levenshtein distance: 1.975311e-09, train_avg Jaro distance: 1.006711
+2020-03-22 17:50:07,857 INFO Validation - Epoch: 292, val_loss: 2.142493, val_str_accuracy: 0.4966065, val_avg Levenshtein distance: 3.347153, val_avg Jaro distance: 0.7595066
+2020-03-22 17:50:07,865 INFO Model saved to '../exp/exp1/model-292-0.009800.pth'
+2020-03-22 17:50:30,024 INFO Train - Epoch: 293, LR: 0.0001, train_loss: 0.008874223, train_str_accuracy: 0.9995119, train_avg Levenshtein distance: 4.412986e-13, train_avg Jaro distance: 1.006711
+2020-03-22 17:50:33,241 INFO Validation - Epoch: 293, val_loss: 2.140553, val_str_accuracy: 0.4903971, val_avg Levenshtein distance: 3.332854, val_avg Jaro distance: 0.7622949
+2020-03-22 17:50:33,245 INFO Model saved to '../exp/exp1/model-293-0.008874.pth'
+2020-03-22 17:50:54,254 INFO Train - Epoch: 294, LR: 0.0001, train_loss: 0.009386523, train_str_accuracy: 0.9992117, train_avg Levenshtein distance: 4.389575e-13, train_avg Jaro distance: 1.006711
+2020-03-22 17:50:57,200 INFO Validation - Epoch: 294, val_loss: 2.194799, val_str_accuracy: 0.4960289, val_avg Levenshtein distance: 3.43449, val_avg Jaro distance: 0.7556066
+2020-03-22 17:50:57,203 INFO Model saved to '../exp/exp1/model-294-0.009387.pth'
+2020-03-22 17:51:18,381 INFO Train - Epoch: 295, LR: 0.0001, train_loss: 0.009869312, train_str_accuracy: 0.9990241, train_avg Levenshtein distance: 0.0002222222, train_avg Jaro distance: 1.006696
+2020-03-22 17:51:22,546 INFO Validation - Epoch: 295, val_loss: 2.14856, val_str_accuracy: 0.4856318, val_avg Levenshtein distance: 3.362225, val_avg Jaro distance: 0.7653056
+2020-03-22 17:51:22,550 INFO Model saved to '../exp/exp1/model-295-0.009869.pth'
+2020-03-22 17:51:44,422 INFO Train - Epoch: 296, LR: 0.0001, train_loss: 0.008355067, train_str_accuracy: 0.9991367, train_avg Levenshtein distance: 3.901844e-18, train_avg Jaro distance: 1.006711
+2020-03-22 17:51:47,662 INFO Validation - Epoch: 296, val_loss: 2.140994, val_str_accuracy: 0.5049819, val_avg Levenshtein distance: 3.332843, val_avg Jaro distance: 0.7677024
+2020-03-22 17:51:47,665 INFO Model saved to '../exp/exp1/model-296-0.008355.pth'
+2020-03-22 17:52:07,108 INFO Train - Epoch: 297, LR: 0.0001, train_loss: 0.007058157, train_str_accuracy: 0.999587, train_avg Levenshtein distance: 6.60192e-11, train_avg Jaro distance: 1.006711
+2020-03-22 17:52:10,150 INFO Validation - Epoch: 297, val_loss: 2.135548, val_str_accuracy: 0.4976173, val_avg Levenshtein distance: 3.332948, val_avg Jaro distance: 0.7621758
+2020-03-22 17:52:10,154 INFO Model saved to '../exp/exp1/model-297-0.007058.pth'
+2020-03-22 17:52:29,549 INFO Train - Epoch: 298, LR: 0.0001, train_loss: 0.007448926, train_str_accuracy: 0.9994746, train_avg Levenshtein distance: 1.481495e-06, train_avg Jaro distance: 1.006711
+2020-03-22 17:52:32,231 INFO Validation - Epoch: 298, val_loss: 2.136739, val_str_accuracy: 0.4948736, val_avg Levenshtein distance: 3.347055, val_avg Jaro distance: 0.7582024
+2020-03-22 17:52:32,234 INFO Model saved to '../exp/exp1/model-298-0.007449.pth'
+2020-03-22 17:52:54,311 INFO Train - Epoch: 299, LR: 0.0001, train_loss: 0.007141241, train_str_accuracy: 0.9994744, train_avg Levenshtein distance: 4.444446e-05, train_avg Jaro distance: 1.006708
+2020-03-22 17:52:58,067 INFO Validation - Epoch: 299, val_loss: 2.159468, val_str_accuracy: 0.505704, val_avg Levenshtein distance: 3.347154, val_avg Jaro distance: 0.7698993
+2020-03-22 17:52:58,071 INFO Model saved to '../exp/exp1/model-299-0.007141.pth'
+2020-03-22 17:53:16,573 INFO Train - Epoch: 300, LR: 0.0001, train_loss: 0.006533853, train_str_accuracy: 0.9996621, train_avg Levenshtein distance: 0.006666667, train_avg Jaro distance: 1.005521
+2020-03-22 17:53:19,388 INFO Validation - Epoch: 300, val_loss: 2.146953, val_str_accuracy: 0.4986282, val_avg Levenshtein distance: 3.318552, val_avg Jaro distance: 0.7627782
+2020-03-22 17:53:19,392 INFO Model saved to '../exp/exp1/model-300-0.006534.pth'
+2020-03-22 17:53:36,332 INFO Train - Epoch: 301, LR: 0.0001, train_loss: 0.007145107, train_str_accuracy: 0.9994368, train_avg Levenshtein distance: 8.888895e-05, train_avg Jaro distance: 1.006702
+2020-03-22 17:53:38,990 INFO Validation - Epoch: 301, val_loss: 2.148164, val_str_accuracy: 0.5033935, val_avg Levenshtein distance: 3.419806, val_avg Jaro distance: 0.7635439
+2020-03-22 17:53:38,993 INFO Model saved to '../exp/exp1/model-301-0.007145.pth'
+2020-03-22 17:53:59,262 INFO Train - Epoch: 302, LR: 0.0001, train_loss: 0.01306048, train_str_accuracy: 0.9972212, train_avg Levenshtein distance: 0.02035674, train_avg Jaro distance: 1.004761
+2020-03-22 17:54:02,416 INFO Validation - Epoch: 302, val_loss: 2.26564, val_str_accuracy: 0.4812996, val_avg Levenshtein distance: 3.609558, val_avg Jaro distance: 0.7436088
+2020-03-22 17:54:02,420 INFO Model saved to '../exp/exp1/model-302-0.013060.pth'
+2020-03-22 17:54:22,830 INFO Train - Epoch: 303, LR: 0.0001, train_loss: 0.07288146, train_str_accuracy: 0.9659317, train_avg Levenshtein distance: 0.1960131, train_avg Jaro distance: 0.9933495
+2020-03-22 17:54:25,504 INFO Validation - Epoch: 303, val_loss: 2.452939, val_str_accuracy: 0.3044043, val_avg Levenshtein distance: 4.039803, val_avg Jaro distance: 0.6995555
+2020-03-22 17:54:25,508 INFO Model saved to '../exp/exp1/model-303-0.072881.pth'
+2020-03-22 17:54:42,930 INFO Train - Epoch: 304, LR: 0.0001, train_loss: 0.1852669, train_str_accuracy: 0.8672347, train_avg Levenshtein distance: 0.6648784, train_avg Jaro distance: 0.9564563
+2020-03-22 17:54:45,667 INFO Validation - Epoch: 304, val_loss: 2.54429, val_str_accuracy: 0.3958123, val_avg Levenshtein distance: 3.805592, val_avg Jaro distance: 0.7323338
+2020-03-22 17:54:45,671 INFO Model saved to '../exp/exp1/model-304-0.185267.pth'
+2020-03-22 17:55:02,832 INFO Train - Epoch: 305, LR: 0.0001, train_loss: 0.2257332, train_str_accuracy: 0.830441, train_avg Levenshtein distance: 0.7301083, train_avg Jaro distance: 0.961839
+2020-03-22 17:55:05,814 INFO Validation - Epoch: 305, val_loss: 2.300393, val_str_accuracy: 0.4193502, val_avg Levenshtein distance: 3.773484, val_avg Jaro distance: 0.7335129
+2020-03-22 17:55:05,817 INFO Model saved to '../exp/exp1/model-305-0.225733.pth'
+2020-03-22 17:55:25,778 INFO Train - Epoch: 306, LR: 0.0001, train_loss: 0.1945686, train_str_accuracy: 0.8567083, train_avg Levenshtein distance: 0.4968671, train_avg Jaro distance: 0.9759184
+2020-03-22 17:55:29,281 INFO Validation - Epoch: 306, val_loss: 2.418782, val_str_accuracy: 0.4423105, val_avg Levenshtein distance: 3.817151, val_avg Jaro distance: 0.7391659
+2020-03-22 17:55:29,285 INFO Model saved to '../exp/exp1/model-306-0.194569.pth'
+2020-03-22 17:55:51,729 INFO Train - Epoch: 307, LR: 0.0001, train_loss: 0.1184734, train_str_accuracy: 0.9135251, train_avg Levenshtein distance: 0.1419183, train_avg Jaro distance: 0.9990655
+2020-03-22 17:55:56,495 INFO Validation - Epoch: 307, val_loss: 2.206387, val_str_accuracy: 0.4477978, val_avg Levenshtein distance: 3.566996, val_avg Jaro distance: 0.7490498
+2020-03-22 17:55:56,502 INFO Model saved to '../exp/exp1/model-307-0.118473.pth'
+2020-03-22 17:56:23,841 INFO Train - Epoch: 308, LR: 0.0001, train_loss: 0.05635331, train_str_accuracy: 0.9637858, train_avg Levenshtein distance: 0.08058164, train_avg Jaro distance: 1.002287
+2020-03-22 17:56:27,935 INFO Validation - Epoch: 308, val_loss: 2.136139, val_str_accuracy: 0.4994946, val_avg Levenshtein distance: 3.377877, val_avg Jaro distance: 0.7773922
+2020-03-22 17:56:27,941 INFO Model saved to '../exp/exp1/model-308-0.056353.pth'
+2020-03-22 17:56:53,000 INFO Train - Epoch: 309, LR: 0.0001, train_loss: 0.02815406, train_str_accuracy: 0.9901247, train_avg Levenshtein distance: 0.000269049, train_avg Jaro distance: 1.006693
+2020-03-22 17:56:56,497 INFO Validation - Epoch: 309, val_loss: 2.077721, val_str_accuracy: 0.507148, val_avg Levenshtein distance: 3.375936, val_avg Jaro distance: 0.7650298
+2020-03-22 17:56:56,501 INFO Model saved to '../exp/exp1/model-309-0.028154.pth'
+2020-03-22 17:57:21,510 INFO Train - Epoch: 310, LR: 0.0001, train_loss: 0.01812573, train_str_accuracy: 0.9969593, train_avg Levenshtein distance: 8.889086e-05, train_avg Jaro distance: 1.006704
+2020-03-22 17:57:25,907 INFO Validation - Epoch: 310, val_loss: 2.083665, val_str_accuracy: 0.5107581, val_avg Levenshtein distance: 3.260386, val_avg Jaro distance: 0.7718288
+2020-03-22 17:57:25,915 INFO Model saved to '../exp/exp1/model-310-0.018126.pth'
+2020-03-22 17:57:53,073 INFO Train - Epoch: 311, LR: 0.0001, train_loss: 0.01263732, train_str_accuracy: 0.9980843, train_avg Levenshtein distance: 0.006666667, train_avg Jaro distance: 1.006218
+2020-03-22 17:57:58,062 INFO Validation - Epoch: 311, val_loss: 2.084978, val_str_accuracy: 0.5097473, val_avg Levenshtein distance: 3.302222, val_avg Jaro distance: 0.7662658
+2020-03-22 17:57:58,066 INFO Model saved to '../exp/exp1/model-311-0.012637.pth'
+2020-03-22 17:58:26,709 INFO Train - Epoch: 312, LR: 0.0001, train_loss: 0.009715766, train_str_accuracy: 0.9997747, train_avg Levenshtein distance: 2.569116e-28, train_avg Jaro distance: 1.006711
+2020-03-22 17:58:31,423 INFO Validation - Epoch: 312, val_loss: 2.073663, val_str_accuracy: 0.5116245, val_avg Levenshtein distance: 3.259032, val_avg Jaro distance: 0.7785388
+2020-03-22 17:58:31,428 INFO Model saved to '../exp/exp1/model-312-0.009716.pth'
+2020-03-22 17:58:59,992 INFO Train - Epoch: 313, LR: 0.0001, train_loss: 0.009045415, train_str_accuracy: 0.9994746, train_avg Levenshtein distance: 0.006666667, train_avg Jaro distance: 1.006218
+2020-03-22 17:59:04,302 INFO Validation - Epoch: 313, val_loss: 2.081044, val_str_accuracy: 0.5211552, val_avg Levenshtein distance: 3.273134, val_avg Jaro distance: 0.7755522
+2020-03-22 17:59:04,306 INFO Model saved to '../exp/exp1/model-313-0.009045.pth'
+2020-03-22 17:59:34,136 INFO Train - Epoch: 314, LR: 0.0001, train_loss: 0.008221746, train_str_accuracy: 0.9995117, train_avg Levenshtein distance: 0.03333333, train_avg Jaro distance: 1.004378
+2020-03-22 17:59:38,743 INFO Validation - Epoch: 314, val_loss: 2.093138, val_str_accuracy: 0.5152347, val_avg Levenshtein distance: 3.258347, val_avg Jaro distance: 0.7796281
+2020-03-22 17:59:38,753 INFO Model saved to '../exp/exp1/model-314-0.008222.pth'
+2020-03-22 18:00:07,765 INFO Train - Epoch: 315, LR: 0.0001, train_loss: 0.007980451, train_str_accuracy: 0.9996245, train_avg Levenshtein distance: 8.670765e-22, train_avg Jaro distance: 1.006711
+2020-03-22 18:00:11,397 INFO Validation - Epoch: 315, val_loss: 2.092889, val_str_accuracy: 0.5153791, val_avg Levenshtein distance: 3.258543, val_avg Jaro distance: 0.776766
+2020-03-22 18:00:11,400 INFO Model saved to '../exp/exp1/model-315-0.007980.pth'
+2020-03-22 18:00:29,685 INFO Train - Epoch: 316, LR: 0.0001, train_loss: 0.007640729, train_str_accuracy: 0.9994744, train_avg Levenshtein distance: 4.389614e-13, train_avg Jaro distance: 1.006711
+2020-03-22 18:00:32,590 INFO Validation - Epoch: 316, val_loss: 2.100769, val_str_accuracy: 0.5198556, val_avg Levenshtein distance: 3.214676, val_avg Jaro distance: 0.7807803
+2020-03-22 18:00:32,594 INFO Model saved to '../exp/exp1/model-316-0.007641.pth'
+2020-03-22 18:00:53,544 INFO Train - Epoch: 317, LR: 0.0001, train_loss: 0.007012421, train_str_accuracy: 0.9996997, train_avg Levenshtein distance: 7.901293e-11, train_avg Jaro distance: 1.006711
+2020-03-22 18:00:56,739 INFO Validation - Epoch: 317, val_loss: 2.09595, val_str_accuracy: 0.5116245, val_avg Levenshtein distance: 3.258544, val_avg Jaro distance: 0.7727946
+2020-03-22 18:00:56,744 INFO Model saved to '../exp/exp1/model-317-0.007012.pth'
+2020-03-22 18:01:22,413 INFO Train - Epoch: 318, LR: 0.0001, train_loss: 0.006787089, train_str_accuracy: 0.9997747, train_avg Levenshtein distance: 4.567317e-33, train_avg Jaro distance: 1.006711
+2020-03-22 18:01:26,914 INFO Validation - Epoch: 318, val_loss: 2.097501, val_str_accuracy: 0.5165343, val_avg Levenshtein distance: 3.24405, val_avg Jaro distance: 0.7827603
+2020-03-22 18:01:26,920 INFO Model saved to '../exp/exp1/model-318-0.006787.pth'
+2020-03-22 18:01:49,305 INFO Train - Epoch: 319, LR: 0.0001, train_loss: 0.006978405, train_str_accuracy: 0.9996997, train_avg Levenshtein distance: 5.852766e-16, train_avg Jaro distance: 1.006711
+2020-03-22 18:01:52,370 INFO Validation - Epoch: 319, val_loss: 2.104261, val_str_accuracy: 0.5130686, val_avg Levenshtein distance: 3.24453, val_avg Jaro distance: 0.778504
+2020-03-22 18:01:52,374 INFO Model saved to '../exp/exp1/model-319-0.006978.pth'
+2020-03-22 18:02:16,442 INFO Train - Epoch: 320, LR: 0.0001, train_loss: 0.006560179, train_str_accuracy: 0.9994746, train_avg Levenshtein distance: 0.0002222222, train_avg Jaro distance: 1.006698
+2020-03-22 18:02:20,561 INFO Validation - Epoch: 320, val_loss: 2.109266, val_str_accuracy: 0.5165343, val_avg Levenshtein distance: 3.229266, val_avg Jaro distance: 0.7804007
+2020-03-22 18:02:20,565 INFO Model saved to '../exp/exp1/model-320-0.006560.pth'
+2020-03-22 18:02:49,355 INFO Train - Epoch: 321, LR: 0.0001, train_loss: 0.006355955, train_str_accuracy: 0.9994747, train_avg Levenshtein distance: 3.082939e-26, train_avg Jaro distance: 1.006711
+2020-03-22 18:02:53,403 INFO Validation - Epoch: 321, val_loss: 2.109554, val_str_accuracy: 0.514657, val_avg Levenshtein distance: 3.214675, val_avg Jaro distance: 0.779337
+2020-03-22 18:02:53,410 INFO Model saved to '../exp/exp1/model-321-0.006356.pth'
+2020-03-22 18:03:22,244 INFO Train - Epoch: 322, LR: 0.0001, train_loss: 0.00609239, train_str_accuracy: 0.9997373, train_avg Levenshtein distance: 3.858812e-26, train_avg Jaro distance: 1.006711
+2020-03-22 18:03:27,484 INFO Validation - Epoch: 322, val_loss: 2.113936, val_str_accuracy: 0.5172563, val_avg Levenshtein distance: 3.185882, val_avg Jaro distance: 0.784268
+2020-03-22 18:03:27,492 INFO Model saved to '../exp/exp1/model-322-0.006092.pth'
+2020-03-22 18:03:56,478 INFO Train - Epoch: 323, LR: 0.0001, train_loss: 0.006004482, train_str_accuracy: 0.9995118, train_avg Levenshtein distance: 5.78051e-24, train_avg Jaro distance: 1.006711
+2020-03-22 18:04:00,855 INFO Validation - Epoch: 323, val_loss: 2.114524, val_str_accuracy: 0.5143682, val_avg Levenshtein distance: 3.22917, val_avg Jaro distance: 0.7864767
+2020-03-22 18:04:00,859 INFO Model saved to '../exp/exp1/model-323-0.006004.pth'
+2020-03-22 18:04:20,267 INFO Train - Epoch: 324, LR: 0.0001, train_loss: 0.005998549, train_str_accuracy: 0.9995496, train_avg Levenshtein distance: 1.804372e-43, train_avg Jaro distance: 1.006711
+2020-03-22 18:04:23,542 INFO Validation - Epoch: 324, val_loss: 2.128161, val_str_accuracy: 0.511769, val_avg Levenshtein distance: 3.229556, val_avg Jaro distance: 0.7820985
+2020-03-22 18:04:23,545 INFO Model saved to '../exp/exp1/model-324-0.005999.pth'
+2020-03-22 18:04:44,378 INFO Train - Epoch: 325, LR: 0.0001, train_loss: 0.005805336, train_str_accuracy: 0.9996245, train_avg Levenshtein distance: 1.481481e-06, train_avg Jaro distance: 1.006711
+2020-03-22 18:04:47,747 INFO Validation - Epoch: 325, val_loss: 2.130809, val_str_accuracy: 0.513935, val_avg Levenshtein distance: 3.24405, val_avg Jaro distance: 0.7803666
+2020-03-22 18:04:47,751 INFO Model saved to '../exp/exp1/model-325-0.005805.pth'
+2020-03-22 18:05:08,469 INFO Train - Epoch: 326, LR: 0.0001, train_loss: 0.005729469, train_str_accuracy: 0.9996246, train_avg Levenshtein distance: 9.876544e-09, train_avg Jaro distance: 1.006711
+2020-03-22 18:05:11,126 INFO Validation - Epoch: 326, val_loss: 2.133605, val_str_accuracy: 0.5162455, val_avg Levenshtein distance: 3.229364, val_avg Jaro distance: 0.774347
+2020-03-22 18:05:11,130 INFO Model saved to '../exp/exp1/model-326-0.005729.pth'
+2020-03-22 18:05:28,382 INFO Train - Epoch: 327, LR: 0.0001, train_loss: 0.005940291, train_str_accuracy: 0.9996621, train_avg Levenshtein distance: 2.926383e-15, train_avg Jaro distance: 1.006711
+2020-03-22 18:05:31,018 INFO Validation - Epoch: 327, val_loss: 2.130725, val_str_accuracy: 0.514657, val_avg Levenshtein distance: 3.273321, val_avg Jaro distance: 0.7809301
+2020-03-22 18:05:31,021 INFO Model saved to '../exp/exp1/model-327-0.005940.pth'
+2020-03-22 18:05:49,940 INFO Train - Epoch: 328, LR: 0.0001, train_loss: 0.005790959, train_str_accuracy: 0.9995493, train_avg Levenshtein distance: 1.560738e-17, train_avg Jaro distance: 1.006711
+2020-03-22 18:05:52,967 INFO Validation - Epoch: 328, val_loss: 2.13417, val_str_accuracy: 0.5120578, val_avg Levenshtein distance: 3.200284, val_avg Jaro distance: 0.7859458
+2020-03-22 18:05:52,971 INFO Model saved to '../exp/exp1/model-328-0.005791.pth'
+2020-03-22 18:06:11,251 INFO Train - Epoch: 329, LR: 0.0001, train_loss: 0.005363601, train_str_accuracy: 0.9995494, train_avg Levenshtein distance: 4.080136e-37, train_avg Jaro distance: 1.006711
+2020-03-22 18:06:13,735 INFO Validation - Epoch: 329, val_loss: 2.134885, val_str_accuracy: 0.5093141, val_avg Levenshtein distance: 3.215447, val_avg Jaro distance: 0.7831964
+2020-03-22 18:06:13,738 INFO Model saved to '../exp/exp1/model-329-0.005364.pth'
+2020-03-22 18:06:30,913 INFO Train - Epoch: 330, LR: 0.0001, train_loss: 0.005266755, train_str_accuracy: 0.9997372, train_avg Levenshtein distance: 0.0002222222, train_avg Jaro distance: 1.006696
+2020-03-22 18:06:33,681 INFO Validation - Epoch: 330, val_loss: 2.139368, val_str_accuracy: 0.511769, val_avg Levenshtein distance: 3.229945, val_avg Jaro distance: 0.7750931
+2020-03-22 18:06:33,684 INFO Model saved to '../exp/exp1/model-330-0.005267.pth'
+2020-03-22 18:06:51,364 INFO Train - Epoch: 331, LR: 0.0001, train_loss: 0.005190694, train_str_accuracy: 0.9995119, train_avg Levenshtein distance: 8.670765e-22, train_avg Jaro distance: 1.006711
+2020-03-22 18:06:54,277 INFO Validation - Epoch: 331, val_loss: 2.144864, val_str_accuracy: 0.5088809, val_avg Levenshtein distance: 3.186274, val_avg Jaro distance: 0.7843382
+2020-03-22 18:06:54,283 INFO Model saved to '../exp/exp1/model-331-0.005191.pth'
+2020-03-22 18:07:19,561 INFO Train - Epoch: 332, LR: 0.0001, train_loss: 0.005271585, train_str_accuracy: 0.9995117, train_avg Levenshtein distance: 4.389575e-13, train_avg Jaro distance: 1.006711
+2020-03-22 18:07:23,262 INFO Validation - Epoch: 332, val_loss: 2.1518, val_str_accuracy: 0.5184116, val_avg Levenshtein distance: 3.215351, val_avg Jaro distance: 0.7787612
+2020-03-22 18:07:23,266 INFO Model saved to '../exp/exp1/model-332-0.005272.pth'
+2020-03-22 18:07:44,214 INFO Train - Epoch: 333, LR: 0.0001, train_loss: 0.004871146, train_str_accuracy: 0.9995868, train_avg Levenshtein distance: 1.481481e-06, train_avg Jaro distance: 1.006711
+2020-03-22 18:07:48,094 INFO Validation - Epoch: 333, val_loss: 2.147225, val_str_accuracy: 0.5129242, val_avg Levenshtein distance: 3.21487, val_avg Jaro distance: 0.7810338
+2020-03-22 18:07:48,097 INFO Model saved to '../exp/exp1/model-333-0.004871.pth'
+2020-03-22 18:08:10,532 INFO Train - Epoch: 334, LR: 0.0001, train_loss: 0.00476919, train_str_accuracy: 0.9995119, train_avg Levenshtein distance: 5.780664e-24, train_avg Jaro distance: 1.006711
+2020-03-22 18:08:13,568 INFO Validation - Epoch: 334, val_loss: 2.147231, val_str_accuracy: 0.5191336, val_avg Levenshtein distance: 3.17197, val_avg Jaro distance: 0.780303
+2020-03-22 18:08:13,571 INFO Model saved to '../exp/exp1/model-334-0.004769.pth'
+2020-03-22 18:08:33,514 INFO Train - Epoch: 335, LR: 0.0001, train_loss: 0.004882732, train_str_accuracy: 0.9996247, train_avg Levenshtein distance: 3.853674e-26, train_avg Jaro distance: 1.006711
+2020-03-22 18:08:36,609 INFO Validation - Epoch: 335, val_loss: 2.15904, val_str_accuracy: 0.5104693, val_avg Levenshtein distance: 3.24415, val_avg Jaro distance: 0.7806879
+2020-03-22 18:08:36,613 INFO Model saved to '../exp/exp1/model-335-0.004883.pth'
+2020-03-22 18:08:56,173 INFO Train - Epoch: 336, LR: 0.0001, train_loss: 0.004703753, train_str_accuracy: 0.9997371, train_avg Levenshtein distance: 0.0002222242, train_avg Jaro distance: 1.006696
+2020-03-22 18:08:59,276 INFO Validation - Epoch: 336, val_loss: 2.157164, val_str_accuracy: 0.5109025, val_avg Levenshtein distance: 3.142798, val_avg Jaro distance: 0.7786902
+2020-03-22 18:08:59,280 INFO Model saved to '../exp/exp1/model-336-0.004704.pth'
+2020-03-22 18:09:19,177 INFO Train - Epoch: 337, LR: 0.0001, train_loss: 0.004656836, train_str_accuracy: 0.9996997, train_avg Levenshtein distance: 1.375834e-39, train_avg Jaro distance: 1.006711
+2020-03-22 18:09:22,205 INFO Validation - Epoch: 337, val_loss: 2.160646, val_str_accuracy: 0.5123466, val_avg Levenshtein distance: 3.185688, val_avg Jaro distance: 0.7787929
+2020-03-22 18:09:22,209 INFO Model saved to '../exp/exp1/model-337-0.004657.pth'
+2020-03-22 18:09:41,807 INFO Train - Epoch: 338, LR: 0.0001, train_loss: 0.004547345, train_str_accuracy: 0.9996246, train_avg Levenshtein distance: 9.876543e-09, train_avg Jaro distance: 1.006711
+2020-03-22 18:09:44,934 INFO Validation - Epoch: 338, val_loss: 2.163976, val_str_accuracy: 0.5187004, val_avg Levenshtein distance: 3.243953, val_avg Jaro distance: 0.7767053
+2020-03-22 18:09:44,938 INFO Model saved to '../exp/exp1/model-338-0.004547.pth'
+2020-03-22 18:10:06,229 INFO Train - Epoch: 339, LR: 0.0001, train_loss: 0.004614584, train_str_accuracy: 0.9996622, train_avg Levenshtein distance: 2.569116e-28, train_avg Jaro distance: 1.006711
+2020-03-22 18:10:09,217 INFO Validation - Epoch: 339, val_loss: 2.1606, val_str_accuracy: 0.5155235, val_avg Levenshtein distance: 3.258636, val_avg Jaro distance: 0.772111
+2020-03-22 18:10:09,221 INFO Model saved to '../exp/exp1/model-339-0.004615.pth'
+2020-03-22 18:10:29,213 INFO Train - Epoch: 340, LR: 0.0001, train_loss: 0.004528585, train_str_accuracy: 0.9997373, train_avg Levenshtein distance: 4.389575e-13, train_avg Jaro distance: 1.006711
+2020-03-22 18:10:32,883 INFO Validation - Epoch: 340, val_loss: 2.16757, val_str_accuracy: 0.5153791, val_avg Levenshtein distance: 3.244242, val_avg Jaro distance: 0.7756675
+2020-03-22 18:10:32,890 INFO Model saved to '../exp/exp1/model-340-0.004529.pth'
+2020-03-22 18:10:56,937 INFO Train - Epoch: 341, LR: 0.0001, train_loss: 0.00454808, train_str_accuracy: 0.9997372, train_avg Levenshtein distance: 3.976955e-11, train_avg Jaro distance: 1.006711
+2020-03-22 18:11:00,501 INFO Validation - Epoch: 341, val_loss: 2.169143, val_str_accuracy: 0.5137906, val_avg Levenshtein distance: 3.157381, val_avg Jaro distance: 0.7817583
+2020-03-22 18:11:00,505 INFO Model saved to '../exp/exp1/model-341-0.004548.pth'
+2020-03-22 18:11:24,358 INFO Train - Epoch: 342, LR: 0.0001, train_loss: 0.004510726, train_str_accuracy: 0.9994745, train_avg Levenshtein distance: 2.569116e-28, train_avg Jaro distance: 1.006711
+2020-03-22 18:11:27,736 INFO Validation - Epoch: 342, val_loss: 2.175199, val_str_accuracy: 0.5135018, val_avg Levenshtein distance: 3.229654, val_avg Jaro distance: 0.779554
+2020-03-22 18:11:27,740 INFO Model saved to '../exp/exp1/model-342-0.004511.pth'
+2020-03-22 18:11:49,152 INFO Train - Epoch: 343, LR: 0.0001, train_loss: 0.004588385, train_str_accuracy: 0.9994371, train_avg Levenshtein distance: 1.300615e-19, train_avg Jaro distance: 1.006711
+2020-03-22 18:11:52,929 INFO Validation - Epoch: 343, val_loss: 2.178839, val_str_accuracy: 0.5148014, val_avg Levenshtein distance: 3.301634, val_avg Jaro distance: 0.7709422
+2020-03-22 18:11:52,935 INFO Model saved to '../exp/exp1/model-343-0.004588.pth'
+2020-03-22 18:12:12,343 INFO Train - Epoch: 344, LR: 0.0001, train_loss: 0.004563298, train_str_accuracy: 0.9996246, train_avg Levenshtein distance: 0.0001777778, train_avg Jaro distance: 1.006699
+2020-03-22 18:12:15,817 INFO Validation - Epoch: 344, val_loss: 2.182149, val_str_accuracy: 0.5166787, val_avg Levenshtein distance: 3.17178, val_avg Jaro distance: 0.7807139
+2020-03-22 18:12:15,825 INFO Model saved to '../exp/exp1/model-344-0.004563.pth'
+2020-03-22 18:12:42,996 INFO Train - Epoch: 345, LR: 0.0001, train_loss: 0.004323075, train_str_accuracy: 0.9994742, train_avg Levenshtein distance: 1.481481e-06, train_avg Jaro distance: 1.006711
+2020-03-22 18:12:47,465 INFO Validation - Epoch: 345, val_loss: 2.181336, val_str_accuracy: 0.5093141, val_avg Levenshtein distance: 3.215646, val_avg Jaro distance: 0.7775372
+2020-03-22 18:12:47,469 INFO Model saved to '../exp/exp1/model-345-0.004323.pth'
+2020-03-22 18:13:12,056 INFO Train - Epoch: 346, LR: 0.0001, train_loss: 0.004185007, train_str_accuracy: 0.9996997, train_avg Levenshtein distance: 2.926409e-15, train_avg Jaro distance: 1.006711
+2020-03-22 18:13:16,350 INFO Validation - Epoch: 346, val_loss: 2.180649, val_str_accuracy: 0.5087365, val_avg Levenshtein distance: 3.200959, val_avg Jaro distance: 0.7791278
+2020-03-22 18:13:16,356 INFO Model saved to '../exp/exp1/model-346-0.004185.pth'
+2020-03-22 18:13:40,746 INFO Train - Epoch: 347, LR: 0.0001, train_loss: 0.004221469, train_str_accuracy: 0.9994744, train_avg Levenshtein distance: 1.950922e-17, train_avg Jaro distance: 1.006711
+2020-03-22 18:13:45,352 INFO Validation - Epoch: 347, val_loss: 2.190714, val_str_accuracy: 0.5085921, val_avg Levenshtein distance: 3.172266, val_avg Jaro distance: 0.7812672
+2020-03-22 18:13:45,355 INFO Model saved to '../exp/exp1/model-347-0.004221.pth'
+2020-03-22 18:14:10,700 INFO Train - Epoch: 348, LR: 0.0001, train_loss: 0.004098449, train_str_accuracy: 0.9996996, train_avg Levenshtein distance: 2.258472e-41, train_avg Jaro distance: 1.006711
+2020-03-22 18:14:14,819 INFO Validation - Epoch: 348, val_loss: 2.187163, val_str_accuracy: 0.5044043, val_avg Levenshtein distance: 3.172169, val_avg Jaro distance: 0.7762572
+2020-03-22 18:14:14,825 INFO Model saved to '../exp/exp1/model-348-0.004098.pth'
+2020-03-22 18:14:40,562 INFO Train - Epoch: 349, LR: 0.0001, train_loss: 0.00424475, train_str_accuracy: 0.9996996, train_avg Levenshtein distance: 8.670765e-22, train_avg Jaro distance: 1.006711
+2020-03-22 18:14:45,498 INFO Validation - Epoch: 349, val_loss: 2.197798, val_str_accuracy: 0.5143682, val_avg Levenshtein distance: 3.258929, val_avg Jaro distance: 0.775444
+2020-03-22 18:14:45,505 INFO Model saved to '../exp/exp1/model-349-0.004245.pth'
+2020-03-22 18:15:11,645 INFO Train - Epoch: 350, LR: 0.0001, train_loss: 0.003896576, train_str_accuracy: 0.999512, train_avg Levenshtein distance: 0.03333333, train_avg Jaro distance: 1.004378
+2020-03-22 18:15:15,093 INFO Validation - Epoch: 350, val_loss: 2.196029, val_str_accuracy: 0.5140794, val_avg Levenshtein distance: 3.157773, val_avg Jaro distance: 0.7817197
+2020-03-22 18:15:15,097 INFO Model saved to '../exp/exp1/model-350-0.003897.pth'
+2020-03-22 18:15:40,763 INFO Train - Epoch: 351, LR: 0.0001, train_loss: 0.003793846, train_str_accuracy: 0.9996997, train_avg Levenshtein distance: 6.584363e-11, train_avg Jaro distance: 1.006711
+2020-03-22 18:15:43,533 INFO Validation - Epoch: 351, val_loss: 2.19641, val_str_accuracy: 0.512491, val_avg Levenshtein distance: 3.186755, val_avg Jaro distance: 0.7809585
+2020-03-22 18:15:43,536 INFO Model saved to '../exp/exp1/model-351-0.003794.pth'
+2020-03-22 18:16:03,897 INFO Train - Epoch: 352, LR: 0.0001, train_loss: 0.004043772, train_str_accuracy: 0.999587, train_avg Levenshtein distance: 9.876807e-09, train_avg Jaro distance: 1.006711
+2020-03-22 18:16:06,797 INFO Validation - Epoch: 352, val_loss: 2.194396, val_str_accuracy: 0.5070036, val_avg Levenshtein distance: 3.230137, val_avg Jaro distance: 0.7771318
+2020-03-22 18:16:06,801 INFO Model saved to '../exp/exp1/model-352-0.004044.pth'
+2020-03-22 18:16:27,931 INFO Train - Epoch: 353, LR: 0.0001, train_loss: 0.003847796, train_str_accuracy: 0.9996996, train_avg Levenshtein distance: 3.083041e-26, train_avg Jaro distance: 1.006711
+2020-03-22 18:16:30,744 INFO Validation - Epoch: 353, val_loss: 2.206965, val_str_accuracy: 0.5135018, val_avg Levenshtein distance: 3.230038, val_avg Jaro distance: 0.7749714
+2020-03-22 18:16:30,747 INFO Model saved to '../exp/exp1/model-353-0.003848.pth'
+2020-03-22 18:16:50,030 INFO Train - Epoch: 354, LR: 0.0001, train_loss: 0.003910531, train_str_accuracy: 0.9997372, train_avg Levenshtein distance: 6.584362e-11, train_avg Jaro distance: 1.006711
+2020-03-22 18:16:52,941 INFO Validation - Epoch: 354, val_loss: 2.19836, val_str_accuracy: 0.5129242, val_avg Levenshtein distance: 3.274197, val_avg Jaro distance: 0.7788007
+2020-03-22 18:16:52,944 INFO Model saved to '../exp/exp1/model-354-0.003911.pth'
+2020-03-22 18:17:13,396 INFO Train - Epoch: 355, LR: 0.0001, train_loss: 0.003799043, train_str_accuracy: 0.9996247, train_avg Levenshtein distance: 0.03333333, train_avg Jaro distance: 1.004378
+2020-03-22 18:17:16,291 INFO Validation - Epoch: 355, val_loss: 2.209982, val_str_accuracy: 0.5077256, val_avg Levenshtein distance: 3.215647, val_avg Jaro distance: 0.7760617
+2020-03-22 18:17:16,295 INFO Model saved to '../exp/exp1/model-355-0.003799.pth'
+2020-03-22 18:17:35,704 INFO Train - Epoch: 356, LR: 0.0001, train_loss: 0.003605029, train_str_accuracy: 0.9995871, train_avg Levenshtein distance: 8.670766e-22, train_avg Jaro distance: 1.006711
+2020-03-22 18:17:38,896 INFO Validation - Epoch: 356, val_loss: 2.206372, val_str_accuracy: 0.512491, val_avg Levenshtein distance: 3.171878, val_avg Jaro distance: 0.78164
+2020-03-22 18:17:38,900 INFO Model saved to '../exp/exp1/model-356-0.003605.pth'
+2020-03-22 18:17:57,881 INFO Train - Epoch: 357, LR: 0.0001, train_loss: 0.003725052, train_str_accuracy: 0.9996247, train_avg Levenshtein distance: 9.876543e-09, train_avg Jaro distance: 1.006711
+2020-03-22 18:18:00,591 INFO Validation - Epoch: 357, val_loss: 2.211162, val_str_accuracy: 0.50787, val_avg Levenshtein distance: 3.302889, val_avg Jaro distance: 0.7733558
+2020-03-22 18:18:00,594 INFO Model saved to '../exp/exp1/model-357-0.003725.pth'
+2020-03-22 18:18:22,274 INFO Train - Epoch: 358, LR: 0.0001, train_loss: 0.003644657, train_str_accuracy: 0.9994743, train_avg Levenshtein distance: 9.876543e-09, train_avg Jaro distance: 1.006711
+2020-03-22 18:18:27,293 INFO Validation - Epoch: 358, val_loss: 2.212708, val_str_accuracy: 0.5136462, val_avg Levenshtein distance: 3.259506, val_avg Jaro distance: 0.7733097
+2020-03-22 18:18:27,300 INFO Model saved to '../exp/exp1/model-358-0.003645.pth'
+2020-03-22 18:18:54,814 INFO Train - Epoch: 359, LR: 0.0001, train_loss: 0.003712235, train_str_accuracy: 0.9994743, train_avg Levenshtein distance: 2.926384e-15, train_avg Jaro distance: 1.006711
+2020-03-22 18:18:59,669 INFO Validation - Epoch: 359, val_loss: 2.215023, val_str_accuracy: 0.5103249, val_avg Levenshtein distance: 3.24415, val_avg Jaro distance: 0.7782048
+2020-03-22 18:18:59,674 INFO Model saved to '../exp/exp1/model-359-0.003712.pth'
+2020-03-22 18:19:29,497 INFO Train - Epoch: 360, LR: 0.0001, train_loss: 0.003687261, train_str_accuracy: 0.9996621, train_avg Levenshtein distance: 1.481481e-06, train_avg Jaro distance: 1.006711
+2020-03-22 18:19:34,457 INFO Validation - Epoch: 360, val_loss: 2.215302, val_str_accuracy: 0.5055596, val_avg Levenshtein distance: 3.21545, val_avg Jaro distance: 0.7762199
+2020-03-22 18:19:34,466 INFO Model saved to '../exp/exp1/model-360-0.003687.pth'
+2020-03-22 18:20:05,281 INFO Train - Epoch: 361, LR: 0.0001, train_loss: 0.003743347, train_str_accuracy: 0.9994745, train_avg Levenshtein distance: 2.926383e-15, train_avg Jaro distance: 1.006711
+2020-03-22 18:20:10,169 INFO Validation - Epoch: 361, val_loss: 2.218934, val_str_accuracy: 0.5090253, val_avg Levenshtein distance: 3.25903, val_avg Jaro distance: 0.7668388
+2020-03-22 18:20:10,176 INFO Model saved to '../exp/exp1/model-361-0.003743.pth'
+2020-03-22 18:20:37,249 INFO Train - Epoch: 362, LR: 0.0001, train_loss: 0.003528275, train_str_accuracy: 0.9995118, train_avg Levenshtein distance: 0.0002222222, train_avg Jaro distance: 1.006696
+2020-03-22 18:20:40,818 INFO Validation - Epoch: 362, val_loss: 2.229464, val_str_accuracy: 0.5150903, val_avg Levenshtein distance: 3.229845, val_avg Jaro distance: 0.7775688
+2020-03-22 18:20:40,824 INFO Model saved to '../exp/exp1/model-362-0.003528.pth'
+2020-03-22 18:21:03,207 INFO Train - Epoch: 363, LR: 0.0001, train_loss: 0.003322796, train_str_accuracy: 0.9995871, train_avg Levenshtein distance: 2.034429e-39, train_avg Jaro distance: 1.006711
+2020-03-22 18:21:06,899 INFO Validation - Epoch: 363, val_loss: 2.219997, val_str_accuracy: 0.5059928, val_avg Levenshtein distance: 3.215361, val_avg Jaro distance: 0.771456
+2020-03-22 18:21:06,903 INFO Model saved to '../exp/exp1/model-363-0.003323.pth'
+2020-03-22 18:21:29,744 INFO Train - Epoch: 364, LR: 0.0001, train_loss: 0.003522955, train_str_accuracy: 0.9995495, train_avg Levenshtein distance: 4.389575e-13, train_avg Jaro distance: 1.006711
+2020-03-22 18:21:33,274 INFO Validation - Epoch: 364, val_loss: 2.222776, val_str_accuracy: 0.5130686, val_avg Levenshtein distance: 3.171779, val_avg Jaro distance: 0.7737279
+2020-03-22 18:21:33,283 INFO Model saved to '../exp/exp1/model-364-0.003523.pth'
+2020-03-22 18:21:57,987 INFO Train - Epoch: 365, LR: 0.0001, train_loss: 0.003499974, train_str_accuracy: 0.9996621, train_avg Levenshtein distance: 4.389575e-13, train_avg Jaro distance: 1.006711
+2020-03-22 18:22:01,755 INFO Validation - Epoch: 365, val_loss: 2.232773, val_str_accuracy: 0.5100361, val_avg Levenshtein distance: 3.288302, val_avg Jaro distance: 0.7743005
+2020-03-22 18:22:01,762 INFO Model saved to '../exp/exp1/model-365-0.003500.pth'
+2020-03-22 18:22:28,118 INFO Train - Epoch: 366, LR: 0.0001, train_loss: 0.003382924, train_str_accuracy: 0.9995869, train_avg Levenshtein distance: 2.926383e-15, train_avg Jaro distance: 1.006711
+2020-03-22 18:22:32,365 INFO Validation - Epoch: 366, val_loss: 2.227969, val_str_accuracy: 0.5116245, val_avg Levenshtein distance: 3.157576, val_avg Jaro distance: 0.7770798
+2020-03-22 18:22:32,369 INFO Model saved to '../exp/exp1/model-366-0.003383.pth'
+2020-03-22 18:22:59,108 INFO Train - Epoch: 367, LR: 0.0001, train_loss: 0.003389579, train_str_accuracy: 0.9998123, train_avg Levenshtein distance: 7.901235e-09, train_avg Jaro distance: 1.006711
+2020-03-22 18:23:02,715 INFO Validation - Epoch: 367, val_loss: 2.240979, val_str_accuracy: 0.5072924, val_avg Levenshtein distance: 3.157386, val_avg Jaro distance: 0.781418
+2020-03-22 18:23:02,720 INFO Model saved to '../exp/exp1/model-367-0.003390.pth'
+2020-03-22 18:23:25,765 INFO Train - Epoch: 368, LR: 0.0001, train_loss: 0.003391872, train_str_accuracy: 0.9996997, train_avg Levenshtein distance: 1.300615e-19, train_avg Jaro distance: 1.006711
+2020-03-22 18:23:30,244 INFO Validation - Epoch: 368, val_loss: 2.236985, val_str_accuracy: 0.5094585, val_avg Levenshtein distance: 3.21574, val_avg Jaro distance: 0.7760132
+2020-03-22 18:23:30,250 INFO Model saved to '../exp/exp1/model-368-0.003392.pth'
+2020-03-22 18:23:51,009 INFO Train - Epoch: 369, LR: 0.0001, train_loss: 0.0033907, train_str_accuracy: 0.9994744, train_avg Levenshtein distance: 0.0002222222, train_avg Jaro distance: 1.006696
+2020-03-22 18:23:53,959 INFO Validation - Epoch: 369, val_loss: 2.238335, val_str_accuracy: 0.5098917, val_avg Levenshtein distance: 3.316802, val_avg Jaro distance: 0.7725369
+2020-03-22 18:23:53,962 INFO Model saved to '../exp/exp1/model-369-0.003391.pth'
+2020-03-22 18:24:17,855 INFO Train - Epoch: 370, LR: 0.0001, train_loss: 0.003190487, train_str_accuracy: 0.9994744, train_avg Levenshtein distance: 1.712744e-30, train_avg Jaro distance: 1.006711
+2020-03-22 18:24:21,511 INFO Validation - Epoch: 370, val_loss: 2.238088, val_str_accuracy: 0.5083032, val_avg Levenshtein distance: 3.259417, val_avg Jaro distance: 0.7702703
+2020-03-22 18:24:21,517 INFO Model saved to '../exp/exp1/model-370-0.003190.pth'
+2020-03-22 18:24:48,067 INFO Train - Epoch: 371, LR: 0.0001, train_loss: 0.003141779, train_str_accuracy: 0.9995495, train_avg Levenshtein distance: 1.040492e-21, train_avg Jaro distance: 1.006711
+2020-03-22 18:24:51,742 INFO Validation - Epoch: 371, val_loss: 2.237387, val_str_accuracy: 0.5114801, val_avg Levenshtein distance: 3.172554, val_avg Jaro distance: 0.7791805
+2020-03-22 18:24:51,747 INFO Model saved to '../exp/exp1/model-371-0.003142.pth'
+2020-03-22 18:25:14,053 INFO Train - Epoch: 372, LR: 0.0001, train_loss: 0.003148346, train_str_accuracy: 0.9995493, train_avg Levenshtein distance: 5.78051e-24, train_avg Jaro distance: 1.006711
+2020-03-22 18:25:18,155 INFO Validation - Epoch: 372, val_loss: 2.248314, val_str_accuracy: 0.5039711, val_avg Levenshtein distance: 3.244537, val_avg Jaro distance: 0.7718749
+2020-03-22 18:25:18,161 INFO Model saved to '../exp/exp1/model-372-0.003148.pth'
+2020-03-22 18:25:45,026 INFO Train - Epoch: 373, LR: 0.0001, train_loss: 0.003142691, train_str_accuracy: 0.9995495, train_avg Levenshtein distance: 8.670765e-22, train_avg Jaro distance: 1.006711
+2020-03-22 18:25:49,508 INFO Validation - Epoch: 373, val_loss: 2.247789, val_str_accuracy: 0.5097473, val_avg Levenshtein distance: 3.157679, val_avg Jaro distance: 0.7777765
+2020-03-22 18:25:49,511 INFO Model saved to '../exp/exp1/model-373-0.003143.pth'
+2020-03-22 18:26:17,294 INFO Train - Epoch: 374, LR: 0.0001, train_loss: 0.003304293, train_str_accuracy: 0.9994746, train_avg Levenshtein distance: 1.481481e-06, train_avg Jaro distance: 1.006711
+2020-03-22 18:26:21,496 INFO Validation - Epoch: 374, val_loss: 2.250234, val_str_accuracy: 0.5096029, val_avg Levenshtein distance: 3.244054, val_avg Jaro distance: 0.7673707
+2020-03-22 18:26:21,500 INFO Model saved to '../exp/exp1/model-374-0.003304.pth'
+2020-03-22 18:26:44,557 INFO Train - Epoch: 375, LR: 0.0001, train_loss: 0.00312149, train_str_accuracy: 0.9996247, train_avg Levenshtein distance: 2.651303e-13, train_avg Jaro distance: 1.006711
+2020-03-22 18:26:47,272 INFO Validation - Epoch: 375, val_loss: 2.254548, val_str_accuracy: 0.5087365, val_avg Levenshtein distance: 3.201058, val_avg Jaro distance: 0.780608
+2020-03-22 18:26:47,276 INFO Model saved to '../exp/exp1/model-375-0.003121.pth'
+2020-03-22 18:27:13,251 INFO Train - Epoch: 376, LR: 0.0001, train_loss: 0.00286758, train_str_accuracy: 0.9996996, train_avg Levenshtein distance: 2.677641e-11, train_avg Jaro distance: 1.006711
+2020-03-22 18:27:17,886 INFO Validation - Epoch: 376, val_loss: 2.24685, val_str_accuracy: 0.5093141, val_avg Levenshtein distance: 3.143084, val_avg Jaro distance: 0.7801222
+2020-03-22 18:27:17,894 INFO Model saved to '../exp/exp1/model-376-0.002868.pth'
+2020-03-22 18:27:43,834 INFO Train - Epoch: 377, LR: 0.0001, train_loss: 0.002928371, train_str_accuracy: 0.9996621, train_avg Levenshtein distance: 2.926383e-15, train_avg Jaro distance: 1.006711
+2020-03-22 18:27:47,401 INFO Validation - Epoch: 377, val_loss: 2.254497, val_str_accuracy: 0.5093141, val_avg Levenshtein distance: 3.187042, val_avg Jaro distance: 0.7768597
+2020-03-22 18:27:47,405 INFO Model saved to '../exp/exp1/model-377-0.002928.pth'
+2020-03-22 18:28:12,959 INFO Train - Epoch: 378, LR: 0.0001, train_loss: 0.003020518, train_str_accuracy: 0.999587, train_avg Levenshtein distance: 5.78051e-24, train_avg Jaro distance: 1.006711
+2020-03-22 18:28:17,253 INFO Validation - Epoch: 378, val_loss: 2.260125, val_str_accuracy: 0.5062816, val_avg Levenshtein distance: 3.229944, val_avg Jaro distance: 0.7728566
+2020-03-22 18:28:17,256 INFO Model saved to '../exp/exp1/model-378-0.003021.pth'
+2020-03-22 18:28:37,203 INFO Train - Epoch: 379, LR: 0.0001, train_loss: 0.002962456, train_str_accuracy: 0.9995494, train_avg Levenshtein distance: 0.0002222222, train_avg Jaro distance: 1.006696
+2020-03-22 18:28:42,064 INFO Validation - Epoch: 379, val_loss: 2.256817, val_str_accuracy: 0.5087365, val_avg Levenshtein distance: 3.157869, val_avg Jaro distance: 0.7717001
+2020-03-22 18:28:42,069 INFO Model saved to '../exp/exp1/model-379-0.002962.pth'
+2020-03-22 18:29:06,354 INFO Train - Epoch: 380, LR: 0.0001, train_loss: 0.002995751, train_str_accuracy: 0.9994744, train_avg Levenshtein distance: 1.300615e-19, train_avg Jaro distance: 1.006711
+2020-03-22 18:29:10,251 INFO Validation - Epoch: 380, val_loss: 2.260421, val_str_accuracy: 0.5077256, val_avg Levenshtein distance: 3.273324, val_avg Jaro distance: 0.7701712
+2020-03-22 18:29:10,255 INFO Model saved to '../exp/exp1/model-380-0.002996.pth'
+2020-03-22 18:29:39,555 INFO Train - Epoch: 381, LR: 0.0001, train_loss: 0.002841984, train_str_accuracy: 0.9994367, train_avg Levenshtein distance: 4.389575e-13, train_avg Jaro distance: 1.006711
+2020-03-22 18:29:44,175 INFO Validation - Epoch: 381, val_loss: 2.26165, val_str_accuracy: 0.5049819, val_avg Levenshtein distance: 3.244634, val_avg Jaro distance: 0.7663524
+2020-03-22 18:29:44,182 INFO Model saved to '../exp/exp1/model-381-0.002842.pth'
+2020-03-22 18:30:09,766 INFO Train - Epoch: 382, LR: 0.0001, train_loss: 0.002845267, train_str_accuracy: 0.9997372, train_avg Levenshtein distance: 1.481481e-06, train_avg Jaro distance: 1.006711
+2020-03-22 18:30:14,962 INFO Validation - Epoch: 382, val_loss: 2.266274, val_str_accuracy: 0.5106137, val_avg Levenshtein distance: 3.186953, val_avg Jaro distance: 0.7750566
+2020-03-22 18:30:14,966 INFO Model saved to '../exp/exp1/model-382-0.002845.pth'
+2020-03-22 18:30:39,017 INFO Train - Epoch: 383, LR: 0.0001, train_loss: 0.002801034, train_str_accuracy: 0.9995118, train_avg Levenshtein distance: 2.579392e-28, train_avg Jaro distance: 1.006711
+2020-03-22 18:30:43,090 INFO Validation - Epoch: 383, val_loss: 2.264113, val_str_accuracy: 0.5127798, val_avg Levenshtein distance: 3.201829, val_avg Jaro distance: 0.7777455
+2020-03-22 18:30:43,096 INFO Model saved to '../exp/exp1/model-383-0.002801.pth'
+2020-03-22 18:31:08,354 INFO Train - Epoch: 384, LR: 0.0001, train_loss: 0.002880319, train_str_accuracy: 0.9994744, train_avg Levenshtein distance: 1.950922e-17, train_avg Jaro distance: 1.006711
+2020-03-22 18:31:11,787 INFO Validation - Epoch: 384, val_loss: 2.271236, val_str_accuracy: 0.5081588, val_avg Levenshtein distance: 3.287628, val_avg Jaro distance: 0.7685911
+2020-03-22 18:31:11,791 INFO Model saved to '../exp/exp1/model-384-0.002880.pth'
+2020-03-22 18:31:33,744 INFO Train - Epoch: 385, LR: 0.0001, train_loss: 0.003016575, train_str_accuracy: 0.9996246, train_avg Levenshtein distance: 1.156104e-24, train_avg Jaro distance: 1.006711
+2020-03-22 18:31:36,319 INFO Validation - Epoch: 385, val_loss: 2.268647, val_str_accuracy: 0.5028159, val_avg Levenshtein distance: 3.346178, val_avg Jaro distance: 0.7733109
+2020-03-22 18:31:36,322 INFO Model saved to '../exp/exp1/model-385-0.003017.pth'
+2020-03-22 18:31:58,354 INFO Train - Epoch: 386, LR: 0.0001, train_loss: 0.004305202, train_str_accuracy: 0.9989487, train_avg Levenshtein distance: 5.945679e-07, train_avg Jaro distance: 1.006711
+2020-03-22 18:32:02,144 INFO Validation - Epoch: 386, val_loss: 2.34855, val_str_accuracy: 0.4947292, val_avg Levenshtein distance: 3.230636, val_avg Jaro distance: 0.7626876
+2020-03-22 18:32:02,147 INFO Model saved to '../exp/exp1/model-386-0.004305.pth'
+2020-03-22 18:32:26,784 INFO Train - Epoch: 387, LR: 0.0001, train_loss: 0.07511176, train_str_accuracy: 0.9497672, train_avg Levenshtein distance: 0.4032167, train_avg Jaro distance: 0.9821576
+2020-03-22 18:32:31,875 INFO Validation - Epoch: 387, val_loss: 2.771202, val_str_accuracy: 0.4144404, val_avg Levenshtein distance: 4.009921, val_avg Jaro distance: 0.7235092
+2020-03-22 18:32:31,881 INFO Model saved to '../exp/exp1/model-387-0.075112.pth'
+2020-03-22 18:32:55,446 INFO Train - Epoch: 388, LR: 0.0001, train_loss: 0.2710291, train_str_accuracy: 0.8121478, train_avg Levenshtein distance: 0.8391078, train_avg Jaro distance: 0.9514496
+2020-03-22 18:33:00,046 INFO Validation - Epoch: 388, val_loss: 2.695223, val_str_accuracy: 0.3643321, val_avg Levenshtein distance: 4.158455, val_avg Jaro distance: 0.7038731
+2020-03-22 18:33:00,050 INFO Model saved to '../exp/exp1/model-388-0.271029.pth'
+2020-03-22 18:33:24,425 INFO Train - Epoch: 389, LR: 0.0001, train_loss: 0.2887916, train_str_accuracy: 0.8057349, train_avg Levenshtein distance: 0.6446506, train_avg Jaro distance: 0.9653451
+2020-03-22 18:33:28,516 INFO Validation - Epoch: 389, val_loss: 2.365148, val_str_accuracy: 0.4397112, val_avg Levenshtein distance: 3.773672, val_avg Jaro distance: 0.7367914
+2020-03-22 18:33:28,520 INFO Model saved to '../exp/exp1/model-389-0.288792.pth'
+2020-03-22 18:33:49,267 INFO Train - Epoch: 390, LR: 0.0001, train_loss: 0.1591353, train_str_accuracy: 0.881854, train_avg Levenshtein distance: 0.2024606, train_avg Jaro distance: 0.9934009
+2020-03-22 18:33:52,502 INFO Validation - Epoch: 390, val_loss: 2.418577, val_str_accuracy: 0.4480866, val_avg Levenshtein distance: 3.611254, val_avg Jaro distance: 0.7414627
+2020-03-22 18:33:52,507 INFO Model saved to '../exp/exp1/model-390-0.159135.pth'
+2020-03-22 18:34:13,902 INFO Train - Epoch: 391, LR: 0.0001, train_loss: 0.07779242, train_str_accuracy: 0.9485264, train_avg Levenshtein distance: 0.1407639, train_avg Jaro distance: 0.9984815
+2020-03-22 18:34:16,765 INFO Validation - Epoch: 391, val_loss: 2.401894, val_str_accuracy: 0.4560289, val_avg Levenshtein distance: 3.380127, val_avg Jaro distance: 0.76277
+2020-03-22 18:34:16,768 INFO Model saved to '../exp/exp1/model-391-0.077792.pth'
+2020-03-22 18:34:38,898 INFO Train - Epoch: 392, LR: 0.0001, train_loss: 0.03924688, train_str_accuracy: 0.976725, train_avg Levenshtein distance: 0.06706876, train_avg Jaro distance: 1.003693
+2020-03-22 18:34:42,236 INFO Validation - Epoch: 392, val_loss: 2.189916, val_str_accuracy: 0.5038267, val_avg Levenshtein distance: 3.317588, val_avg Jaro distance: 0.769953
+2020-03-22 18:34:42,240 INFO Model saved to '../exp/exp1/model-392-0.039247.pth'
+2020-03-22 18:34:58,767 INFO Train - Epoch: 393, LR: 0.0001, train_loss: 0.02864142, train_str_accuracy: 0.9874995, train_avg Levenshtein distance: 0.02044535, train_avg Jaro distance: 1.005916
+2020-03-22 18:35:01,262 INFO Validation - Epoch: 393, val_loss: 2.19503, val_str_accuracy: 0.5062816, val_avg Levenshtein distance: 3.317491, val_avg Jaro distance: 0.7642681
+2020-03-22 18:35:01,265 INFO Model saved to '../exp/exp1/model-393-0.028641.pth'
+2020-03-22 18:35:18,735 INFO Train - Epoch: 394, LR: 0.0001, train_loss: 0.02244312, train_str_accuracy: 0.9930178, train_avg Levenshtein distance: 0.006801782, train_avg Jaro distance: 1.006457
+2020-03-22 18:35:23,612 INFO Validation - Epoch: 394, val_loss: 2.17318, val_str_accuracy: 0.4919856, val_avg Levenshtein distance: 3.201265, val_avg Jaro distance: 0.7752701
+2020-03-22 18:35:23,617 INFO Model saved to '../exp/exp1/model-394-0.022443.pth'
+2020-03-22 18:35:46,023 INFO Train - Epoch: 395, LR: 0.0001, train_loss: 0.01314408, train_str_accuracy: 0.9974082, train_avg Levenshtein distance: 0.006888891, train_avg Jaro distance: 1.00551
+2020-03-22 18:35:48,605 INFO Validation - Epoch: 395, val_loss: 2.173591, val_str_accuracy: 0.5162455, val_avg Levenshtein distance: 3.259027, val_avg Jaro distance: 0.7690211
+2020-03-22 18:35:48,608 INFO Model saved to '../exp/exp1/model-395-0.013144.pth'
+2020-03-22 18:36:12,697 INFO Train - Epoch: 396, LR: 0.0001, train_loss: 0.009339421, train_str_accuracy: 0.9983482, train_avg Levenshtein distance: 8.918716e-05, train_avg Jaro distance: 1.0067
+2020-03-22 18:36:15,801 INFO Validation - Epoch: 396, val_loss: 2.15463, val_str_accuracy: 0.5212996, val_avg Levenshtein distance: 3.272352, val_avg Jaro distance: 0.7586295
+2020-03-22 18:36:15,804 INFO Model saved to '../exp/exp1/model-396-0.009339.pth'
+2020-03-22 18:36:38,583 INFO Train - Epoch: 397, LR: 0.0001, train_loss: 0.007165815, train_str_accuracy: 0.999099, train_avg Levenshtein distance: 0.0002225206, train_avg Jaro distance: 1.006696
+2020-03-22 18:36:42,131 INFO Validation - Epoch: 397, val_loss: 2.167578, val_str_accuracy: 0.5230325, val_avg Levenshtein distance: 3.185882, val_avg Jaro distance: 0.7862586
+2020-03-22 18:36:42,136 INFO Model saved to '../exp/exp1/model-397-0.007166.pth'
+2020-03-22 18:37:00,758 INFO Train - Epoch: 398, LR: 0.0001, train_loss: 0.006105392, train_str_accuracy: 0.9993993, train_avg Levenshtein distance: 0.006666667, train_avg Jaro distance: 1.005521
+2020-03-22 18:37:03,653 INFO Validation - Epoch: 398, val_loss: 2.164203, val_str_accuracy: 0.5100361, val_avg Levenshtein distance: 3.258638, val_avg Jaro distance: 0.7697053
+2020-03-22 18:37:03,656 INFO Model saved to '../exp/exp1/model-398-0.006105.pth'
+2020-03-22 18:37:21,285 INFO Train - Epoch: 399, LR: 0.0001, train_loss: 0.005157645, train_str_accuracy: 0.9995118, train_avg Levenshtein distance: 2.601229e-20, train_avg Jaro distance: 1.006711
+2020-03-22 18:37:23,887 INFO Validation - Epoch: 399, val_loss: 2.159658, val_str_accuracy: 0.5129242, val_avg Levenshtein distance: 3.157186, val_avg Jaro distance: 0.7745021
+2020-03-22 18:37:23,890 INFO Model saved to '../exp/exp1/model-399-0.005158.pth'

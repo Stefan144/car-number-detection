@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1fec3a2d-a1ca-4aa1-bdd8-c5170d4fc1bc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZS0oI7fVH2hQRZZlKrzN2gtetO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="train_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <output_file path="$PROJECT_DIR$/cnd/exp/exp1_logs" is_save="true" />
+      <log_file alias="log1" path="$PROJECT_DIR$/cnd/exp/exp1_logs" />
+      <module name="CarNumbers_ocr" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cnd/ocr" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnd/ocr/train_script.py" />
+      <option name="PARAMETERS" value="-en exp1" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train_script" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1fec3a2d-a1ca-4aa1-bdd8-c5170d4fc1bc" name="Default Changelist" comment="" />
+      <created>1584817360985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584817360985</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="592" y="123" width="1086" height="805" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584891561702">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="592" y="123" width="1086" height="805" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584891561702" />
+    <state x="579" y="325" width="819" height="454" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584891599808">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="579" y="325" width="819" height="454" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584891599808" />
+    <state x="677" y="126" width="624" height="854" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584843285803">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="677" y="126" width="624" height="854" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584843285803" />
+    <state x="818" y="152" width="624" height="746" key="FileChooserDialogImpl" timestamp="1584891551864">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="818" y="152" width="624" height="746" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1584891551864" />
+    <state width="1785" height="298" key="GridCell.Tab.0.bottom" timestamp="1584891624385">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1785" height="298" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1584891624385" />
+    <state width="1785" height="298" key="GridCell.Tab.0.center" timestamp="1584891624385">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1785" height="298" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1584891624385" />
+    <state width="1785" height="298" key="GridCell.Tab.0.left" timestamp="1584891624384">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1785" height="298" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1584891624384" />
+    <state width="1785" height="298" key="GridCell.Tab.0.right" timestamp="1584891624385">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1785" height="298" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1584891624385" />
+    <state x="181" y="27" key="SettingsEditor" timestamp="1584818201146">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="181" y="27" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1584818201146" />
+    <state x="487" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1584881977422">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="487" y="302" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1584881977422" />
+    <state x="487" y="25" width="1009" height="1470" key="search.everywhere.popup" timestamp="1584825724635">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="487" y="25" width="1009" height="1470" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1584825724635" />
+  </component>
+</project>

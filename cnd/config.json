@@ -1,0 +1,6 @@
+{
+  "ocr_image_size": [32, 96],
+  "data_path": "/home/stefan/Documents/CarNumbers_ocr/NumBase",
+  "num_input_channels": 1,
+  "rnn_size": 64
+}
