@@ -1,0 +1,152 @@
+[2020-03-30 14:31:03,677][INFO] - VideoReader: Create VideoReader
+[2020-03-30 14:31:03,744][INFO] - OcrStream: Create OcrStream
+[2020-03-30 14:31:03,756][INFO] - VideoWriter: Create VideoWriter
+[2020-03-30 14:31:03,757][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-30 14:31:03,757][INFO] - CNDProject: Start Project
+[2020-03-30 14:31:03,757][INFO] - CNDProject: Start project act start
+[2020-03-30 14:31:03,757][INFO] - VideoReader: Start VideoReader
+[2020-03-30 14:31:03,816][INFO] - OcrStream: Start OcrStream
+[2020-03-30 14:31:03,817][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-30 14:31:15,074][ERROR] - OcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-30 14:31:15,075][INFO] - CNDProject: Stop Project
+[2020-03-30 14:31:15,075][INFO] - VideoReader: Stop VideoReader
+[2020-03-30 14:31:15,078][INFO] - OcrStream: Stop OcrStream
+[2020-03-30 14:31:15,078][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-30 14:31:37,461][INFO] - VideoReader: Create VideoReader
+[2020-03-30 14:31:37,502][INFO] - OcrStream: Create OcrStream
+[2020-03-30 14:31:37,507][INFO] - VideoWriter: Create VideoWriter
+[2020-03-30 14:31:37,507][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-30 14:31:37,507][INFO] - CNDProject: Start Project
+[2020-03-30 14:31:37,507][INFO] - CNDProject: Start project act start
+[2020-03-30 14:31:37,507][INFO] - VideoReader: Start VideoReader
+[2020-03-30 14:31:37,527][INFO] - OcrStream: Start OcrStream
+[2020-03-30 14:31:37,527][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-30 14:31:46,504][ERROR] - OcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-30 14:31:46,504][INFO] - CNDProject: Stop Project
+[2020-03-30 14:31:46,505][INFO] - VideoReader: Stop VideoReader
+[2020-03-30 14:31:46,507][INFO] - OcrStream: Stop OcrStream
+[2020-03-30 14:31:46,507][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-30 14:31:46,509][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-30 14:31:46,514][INFO] - CNDProject: Stop Project
+[2020-03-30 14:31:46,514][INFO] - VideoReader: Stop VideoReader
+[2020-03-30 14:31:46,514][INFO] - OcrStream: Stop OcrStream
+[2020-03-30 14:31:46,514][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-30 14:31:46,514][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-30 14:35:03,688][INFO] - VideoReader: Create VideoReader
+[2020-03-30 14:35:03,722][INFO] - OcrStream: Create OcrStream
+[2020-03-30 14:35:03,725][INFO] - VideoWriter: Create VideoWriter
+[2020-03-30 14:35:03,725][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-30 14:35:03,725][INFO] - CNDProject: Start Project
+[2020-03-30 14:35:03,726][INFO] - CNDProject: Start project act start
+[2020-03-30 14:35:03,726][INFO] - VideoReader: Start VideoReader
+[2020-03-30 14:35:03,746][INFO] - OcrStream: Start OcrStream
+[2020-03-30 14:35:03,746][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-30 14:35:20,463][ERROR] - OcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-30 14:35:20,463][INFO] - CNDProject: Stop Project
+[2020-03-30 14:35:20,463][INFO] - VideoReader: Stop VideoReader
+[2020-03-30 14:35:20,465][INFO] - OcrStream: Stop OcrStream
+[2020-03-30 14:35:20,465][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-30 14:36:04,677][INFO] - VideoReader: Create VideoReader
+[2020-03-30 14:36:04,718][INFO] - OcrStream: Create OcrStream
+[2020-03-30 14:36:04,725][INFO] - VideoWriter: Create VideoWriter
+[2020-03-30 14:36:04,725][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-30 14:36:04,725][INFO] - CNDProject: Start Project
+[2020-03-30 14:36:04,725][INFO] - CNDProject: Start project act start
+[2020-03-30 14:36:04,725][INFO] - VideoReader: Start VideoReader
+[2020-03-30 14:36:04,753][INFO] - OcrStream: Start OcrStream
+[2020-03-30 14:36:04,754][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-30 14:36:21,931][ERROR] - OcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-30 14:36:21,932][INFO] - CNDProject: Stop Project
+[2020-03-30 14:36:21,932][INFO] - VideoReader: Stop VideoReader
+[2020-03-30 14:36:21,935][INFO] - OcrStream: Stop OcrStream
+[2020-03-30 14:36:21,935][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-30 14:36:21,939][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-30 14:36:21,941][INFO] - CNDProject: Stop Project
+[2020-03-30 14:36:21,941][INFO] - VideoReader: Stop VideoReader
+[2020-03-30 14:36:21,941][INFO] - OcrStream: Stop OcrStream
+[2020-03-30 14:36:21,941][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-30 14:36:21,941][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-30 14:53:53,437][INFO] - VideoReader: Create VideoReader
+[2020-03-30 14:53:53,437][ERROR] - __main__: No state found at /home/stefan/Documents/CarNumbers_ocr/cnd/exp/exp1/best_model_colab_700.pth
+Traceback (most recent call last):
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/run.py", line 84, in <module>
+    args.model_path)
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/run.py", line 40, in __init__
+    self.model_path)
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 19, in __init__
+    self.predictor = Predictor(self.model_path)
+  File "/home/stefan/Documents/CarNumbers_ocr/cnd/ocr/predictor.py", line 8, in __init__
+    self.model = load_model(model_path, device=device)
+  File "/home/stefan/.local/lib/python3.6/site-packages/argus/model/model.py", line 203, in load_model
+    raise FileNotFoundError(f"No state found at {file_path}")
+FileNotFoundError: No state found at /home/stefan/Documents/CarNumbers_ocr/cnd/exp/exp1/best_model_colab_700.pth
+[2020-03-30 14:55:05,866][INFO] - VideoReader: Create VideoReader
+[2020-03-30 14:55:05,924][INFO] - OcrStream: Create OcrStream
+[2020-03-30 14:55:05,940][INFO] - VideoWriter: Create VideoWriter
+[2020-03-30 14:55:05,941][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-30 14:55:05,941][INFO] - CNDProject: Start Project
+[2020-03-30 14:55:05,941][INFO] - CNDProject: Start project act start
+[2020-03-30 14:55:05,941][INFO] - VideoReader: Start VideoReader
+[2020-03-30 14:55:05,991][INFO] - OcrStream: Start OcrStream
+[2020-03-30 14:55:05,992][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-30 14:55:28,732][ERROR] - OcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-30 14:55:28,733][INFO] - CNDProject: Stop Project
+[2020-03-30 14:55:28,733][INFO] - VideoReader: Stop VideoReader
+[2020-03-30 14:55:28,737][INFO] - OcrStream: Stop OcrStream
+[2020-03-30 14:55:28,738][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-30 14:55:45,592][INFO] - VideoReader: Create VideoReader
+[2020-03-30 14:55:45,608][INFO] - OcrStream: Create OcrStream
+[2020-03-30 14:55:45,611][INFO] - VideoWriter: Create VideoWriter
+[2020-03-30 14:55:45,612][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-30 14:55:45,612][INFO] - CNDProject: Start Project
+[2020-03-30 14:55:45,612][INFO] - CNDProject: Start project act start
+[2020-03-30 14:55:45,612][INFO] - VideoReader: Start VideoReader
+[2020-03-30 14:55:45,633][INFO] - OcrStream: Start OcrStream
+[2020-03-30 14:55:45,633][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-30 14:56:19,102][ERROR] - OcrStream: No frame found
+Traceback (most recent call last):
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
+    frame = self.video_reader.read()
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
+    raise Exception("No frame found")
+Exception: No frame found
+[2020-03-30 14:56:19,103][INFO] - CNDProject: Stop Project
+[2020-03-30 14:56:19,103][INFO] - VideoReader: Stop VideoReader
+[2020-03-30 14:56:19,107][INFO] - OcrStream: Stop OcrStream
+[2020-03-30 14:56:19,108][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-30 14:56:19,108][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-30 14:56:19,111][INFO] - CNDProject: Stop Project
+[2020-03-30 14:56:19,111][INFO] - VideoReader: Stop VideoReader
+[2020-03-30 14:56:19,111][INFO] - OcrStream: Stop OcrStream
+[2020-03-30 14:56:19,111][INFO] - VisualizeStream: Stop VisualizeStream
+[2020-03-30 14:56:19,111][INFO] - VideoWriter: Stop VideoWriter
