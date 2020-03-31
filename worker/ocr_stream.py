@@ -1,6 +1,7 @@
 import logging
 from threading import Thread
 from cnd.ocr.transforms import get_transforms
+import time
 
 from cnd.ocr.predictor import Predictor
 from worker.state import State
@@ -17,11 +18,13 @@ class OcrStream:
         self.ocr_thread = None
         self.model_path = model_path
         self.predictor = Predictor(self.model_path)
+        self.counter = 0
         self.stopped = False
         self.logger.info("Create OcrStream")
 
     def _ocr_loop(self):
         try:
+            start_time = time.time()
             while True:
                 if self.stopped:
                     return
@@ -29,8 +32,14 @@ class OcrStream:
                 self.state.frame = frame
                 frame = self.transform(frame)[None, :, :, :]
                 pred = self.predictor.predict(frame)
-                #print(pred)
                 self.state.text = pred
+                self.counter += 1
+                if self.counter % 10 == 0:
+                    self.logger.info('# frames processed: ' + str(self.counter))
+                    self.logger.info('FPS rate: '
+                                     + str(self.counter/(time.time() - start_time)))
+
+
         except Exception as e:
             self.logger.exception(e)
             self.state.exit_event.set()

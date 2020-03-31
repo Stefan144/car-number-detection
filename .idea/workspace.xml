@@ -2,13 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1fec3a2d-a1ca-4aa1-bdd8-c5170d4fc1bc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/plotting_results-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/plotting_results-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/MAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plotting_results.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/plotting_results.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnd/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/cnd/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnd/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnd/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnd/ocr/dataset.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnd/ocr/dataset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cnd/ocr/train_script.py" beforeDir="false" afterPath="$PROJECT_DIR$/cnd/ocr/train_script.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/videos/OUT.MOV" beforeDir="false" afterPath="$PROJECT_DIR$/videos/OUT.MOV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker/log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/worker/log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker/ocr_stream.py" beforeDir="false" afterPath="$PROJECT_DIR$/worker/ocr_stream.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker/run.py" beforeDir="false" afterPath="$PROJECT_DIR$/worker/run.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/worker/visualize_stream.py" beforeDir="false" afterPath="$PROJECT_DIR$/worker/visualize_stream.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +21,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
   </component>
   <component name="ProjectId" id="1ZS0oI7fVH2hQRZZlKrzN2gtetO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -46,7 +56,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/worker/run.py" />
-      <option name="PARAMETERS" value="--log_path $PROJECT_DIR$/worker/log.txt --level INFO --video_path $PROJECT_DIR$/videos/sample.mp4 --save_path $PROJECT_DIR$/videos/OUT.MOV --model_path $PROJECT_DIR$/cnd/exp/exp1/best_model_colab_700.pth" />
+      <option name="PARAMETERS" value="--log_path $PROJECT_DIR$/worker/log.txt --level INFO --video_path $PROJECT_DIR$/videos/sample.mp4 --save_path $PROJECT_DIR$/videos/OUT.MOV --model_path $PROJECT_DIR$/cnd/exp/exp2/model-250-0.020266.pth --car_number A550HM777" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -55,8 +65,7 @@
       <method v="2" />
     </configuration>
     <configuration name="train_script" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <output_file path="$PROJECT_DIR$/cnd/exp/exp1_logs" is_save="true" />
-      <log_file alias="log1" path="$PROJECT_DIR$/cnd/exp/exp1_logs" />
+      <output_file path="$PROJECT_DIR$/cnd/exp/exp2_logs/log2" is_save="true" />
       <module name="CarNumbers_ocr" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +78,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cnd/ocr/train_script.py" />
-      <option name="PARAMETERS" value="-en exp1" />
+      <option name="PARAMETERS" value="-en exp2" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
@@ -100,54 +109,87 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="547" y="177" width="1086" height="805" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585569228570">
+    <state x="414" y="177" width="1086" height="805" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585668614965">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="547" y="177" width="1086" height="805" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585569228570" />
-    <state x="579" y="325" width="819" height="454" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584891599808">
+    <state x="414" y="177" width="1086" height="805" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585668614965" />
+    <state x="579" y="325" width="809" height="454" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585654229168">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="579" y="325" width="819" height="454" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1584891599808" />
+    <state x="579" y="325" width="809" height="454" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053@67.27.1853.1053" timestamp="1585654229168" />
     <state x="677" y="126" width="624" height="854" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585519702483">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="677" y="126" width="624" height="854" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585519702483" />
-    <state x="818" y="152" width="624" height="746" key="FileChooserDialogImpl" timestamp="1585519568759">
+    <state x="818" y="152" width="624" height="746" key="FileChooserDialogImpl" timestamp="1585654281236">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="818" y="152" width="624" height="746" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585519568759" />
-    <state width="1785" height="658" key="GridCell.Tab.0.bottom" timestamp="1585569428595">
+    <state x="818" y="152" width="624" height="746" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1585654281236" />
+    <state width="1785" height="48" key="GridCell.Tab.0.bottom" timestamp="1585669880540">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1785" height="658" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585569428595" />
-    <state width="1785" height="658" key="GridCell.Tab.0.center" timestamp="1585569428594">
+    <state width="1785" height="48" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585669880540" />
+    <state width="1785" height="48" key="GridCell.Tab.0.center" timestamp="1585669880539">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1785" height="658" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585569428594" />
-    <state width="1785" height="658" key="GridCell.Tab.0.left" timestamp="1585569428593">
+    <state width="1785" height="48" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585669880539" />
+    <state width="1785" height="48" key="GridCell.Tab.0.left" timestamp="1585669880539">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1785" height="658" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585569428593" />
-    <state width="1785" height="658" key="GridCell.Tab.0.right" timestamp="1585569428594">
+    <state width="1785" height="48" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585669880539" />
+    <state width="1785" height="48" key="GridCell.Tab.0.right" timestamp="1585669880539">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state width="1785" height="658" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585569428594" />
+    <state width="1785" height="48" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585669880539" />
+    <state width="1785" height="521" key="GridCell.Tab.1.bottom" timestamp="1585623000855">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1785" height="521" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1585623000855" />
+    <state width="1785" height="521" key="GridCell.Tab.1.center" timestamp="1585623000855">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1785" height="521" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1585623000855" />
+    <state width="1785" height="521" key="GridCell.Tab.1.left" timestamp="1585623000855">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1785" height="521" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1585623000855" />
+    <state width="1785" height="521" key="GridCell.Tab.1.right" timestamp="1585623000855">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1785" height="521" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1585623000855" />
     <state x="181" y="27" key="SettingsEditor" timestamp="1584818201146">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="181" y="27" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1584818201146" />
-    <state x="487" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1585564298383">
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1585611533266">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="487" y="302" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585564298383" />
+    <state x="167" y="125" width="1653" height="855" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585611533266" />
+    <state x="487" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1585664075764">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="487" y="302" key="com.intellij.ide.util.TipDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1585664075764" />
     <state x="656" y="437" width="664" height="230" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585401843285">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
     <state x="656" y="437" width="664" height="230" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/67.27.1853.1053@67.27.1853.1053" timestamp="1585401843285" />
-    <state x="487" y="25" width="1009" height="1470" key="search.everywhere.popup" timestamp="1585567800370">
+    <state x="487" y="25" width="1009" height="1470" key="search.everywhere.popup" timestamp="1585667811232">
       <screen x="67" y="27" width="1853" height="1053" />
     </state>
-    <state x="487" y="25" width="1009" height="1470" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1585567800370" />
+    <state x="487" y="25" width="1009" height="1470" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1585667811232" />
   </component>
 </project>

@@ -29,7 +29,7 @@ def setup_logging(path, level='INFO'):
 
 
 class CNDProject:
-    def __init__(self, name, video_path, save_path, model_path,
+    def __init__(self, name, video_path, save_path, model_path, car_number,
                  fps=30, frame_size=(1600, 800), coord=(500, 500)):
         self.model_path = model_path
         self.name = name
@@ -40,7 +40,7 @@ class CNDProject:
                                     self.model_path)
 
         self.visualize_stream = VisualizeStream("VisualizeStream", self.video_reader,
-                                                self.state, save_path, fps,
+                                                self.state, save_path, car_number, fps,
                                                 frame_size, coord)
         self.logger.info("Start Project")
 
@@ -72,8 +72,9 @@ if __name__ == '__main__':
     parser.add_argument("--video_path", help="path to video", required=True)
     parser.add_argument("--save_path", help="path to save the new video",
                         required=True)
+    # 'model-163-0.351443.pth' or  'model-250-0.020266.pth'
     parser.add_argument("--model_path", help="path to the model", required=True)
-    #parser.add_argument("--car_number", help="target value", required=True)
+    parser.add_argument("--car_number", help="target value", required=True)
     args = parser.parse_args()
 
     setup_logging(args.log_path, args.level)
@@ -81,7 +82,7 @@ if __name__ == '__main__':
     project = None
     try:
         project = CNDProject("CNDProject", args.video_path, args.save_path,
-                             args.model_path)
+                             args.model_path, args.car_number)
         project.start()
     except Exception as e:
         logger.exception(e)

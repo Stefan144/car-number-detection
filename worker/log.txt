@@ -1,152 +1,140 @@
-[2020-03-30 14:31:03,677][INFO] - VideoReader: Create VideoReader
-[2020-03-30 14:31:03,744][INFO] - OcrStream: Create OcrStream
-[2020-03-30 14:31:03,756][INFO] - VideoWriter: Create VideoWriter
-[2020-03-30 14:31:03,757][INFO] - VisualizeStream: Create VisualizeStream
-[2020-03-30 14:31:03,757][INFO] - CNDProject: Start Project
-[2020-03-30 14:31:03,757][INFO] - CNDProject: Start project act start
-[2020-03-30 14:31:03,757][INFO] - VideoReader: Start VideoReader
-[2020-03-30 14:31:03,816][INFO] - OcrStream: Start OcrStream
-[2020-03-30 14:31:03,817][INFO] - VisualizeStream: Start VisualizeStream
-[2020-03-30 14:31:15,074][ERROR] - OcrStream: No frame found
+[2020-03-31 18:35:03,675][INFO] - VideoReader: Create VideoReader
+[2020-03-31 18:35:03,688][INFO] - OcrStream: Create OcrStream
+[2020-03-31 18:35:03,690][INFO] - VideoWriter: Create VideoWriter
+[2020-03-31 18:35:03,690][INFO] - VisualizeStream: Create VisualizeStream
+[2020-03-31 18:35:03,690][INFO] - CNDProject: Start Project
+[2020-03-31 18:35:03,690][INFO] - CNDProject: Start project act start
+[2020-03-31 18:35:03,690][INFO] - VideoReader: Start VideoReader
+[2020-03-31 18:35:03,705][INFO] - OcrStream: Start OcrStream
+[2020-03-31 18:35:03,705][INFO] - VisualizeStream: Start VisualizeStream
+[2020-03-31 18:35:04,228][INFO] - OcrStream: # frames processed: 10
+[2020-03-31 18:35:04,228][INFO] - OcrStream: FPS rate: 19.10432098034411
+[2020-03-31 18:35:04,532][INFO] - OcrStream: # frames processed: 20
+[2020-03-31 18:35:04,532][INFO] - OcrStream: FPS rate: 24.16392484953372
+[2020-03-31 18:35:04,718][INFO] - OcrStream: # frames processed: 30
+[2020-03-31 18:35:04,719][INFO] - OcrStream: FPS rate: 29.58958537135977
+[2020-03-31 18:35:04,912][INFO] - OcrStream: # frames processed: 40
+[2020-03-31 18:35:04,913][INFO] - OcrStream: FPS rate: 33.11502214811227
+[2020-03-31 18:35:05,112][INFO] - OcrStream: # frames processed: 50
+[2020-03-31 18:35:05,112][INFO] - OcrStream: FPS rate: 35.51966998402324
+[2020-03-31 18:35:05,290][INFO] - OcrStream: # frames processed: 60
+[2020-03-31 18:35:05,290][INFO] - OcrStream: FPS rate: 37.852269527611924
+[2020-03-31 18:35:05,480][INFO] - OcrStream: # frames processed: 70
+[2020-03-31 18:35:05,480][INFO] - OcrStream: FPS rate: 39.43113582261438
+[2020-03-31 18:35:05,666][INFO] - OcrStream: # frames processed: 80
+[2020-03-31 18:35:05,666][INFO] - OcrStream: FPS rate: 40.792507716120674
+[2020-03-31 18:35:05,850][INFO] - OcrStream: # frames processed: 90
+[2020-03-31 18:35:05,851][INFO] - OcrStream: FPS rate: 41.93943786828087
+[2020-03-31 18:35:06,054][INFO] - OcrStream: # frames processed: 100
+[2020-03-31 18:35:06,054][INFO] - OcrStream: FPS rate: 42.569077887037935
+[2020-03-31 18:35:06,243][INFO] - OcrStream: # frames processed: 110
+[2020-03-31 18:35:06,243][INFO] - OcrStream: FPS rate: 43.33927787571582
+[2020-03-31 18:35:06,438][INFO] - OcrStream: # frames processed: 120
+[2020-03-31 18:35:06,438][INFO] - OcrStream: FPS rate: 43.90441102324895
+[2020-03-31 18:35:06,634][INFO] - OcrStream: # frames processed: 130
+[2020-03-31 18:35:06,634][INFO] - OcrStream: FPS rate: 44.38308547613815
+[2020-03-31 18:35:06,830][INFO] - OcrStream: # frames processed: 140
+[2020-03-31 18:35:06,830][INFO] - OcrStream: FPS rate: 44.792895169902174
+[2020-03-31 18:35:07,011][INFO] - OcrStream: # frames processed: 150
+[2020-03-31 18:35:07,011][INFO] - OcrStream: FPS rate: 45.36547821237639
+[2020-03-31 18:35:07,198][INFO] - OcrStream: # frames processed: 160
+[2020-03-31 18:35:07,198][INFO] - OcrStream: FPS rate: 45.803295982073145
+[2020-03-31 18:35:07,390][INFO] - OcrStream: # frames processed: 170
+[2020-03-31 18:35:07,390][INFO] - OcrStream: FPS rate: 46.13246182870141
+[2020-03-31 18:35:07,586][INFO] - OcrStream: # frames processed: 180
+[2020-03-31 18:35:07,586][INFO] - OcrStream: FPS rate: 46.37927426967398
+[2020-03-31 18:35:07,767][INFO] - OcrStream: # frames processed: 190
+[2020-03-31 18:35:07,768][INFO] - OcrStream: FPS rate: 46.76462548818916
+[2020-03-31 18:35:07,958][INFO] - OcrStream: # frames processed: 200
+[2020-03-31 18:35:07,958][INFO] - OcrStream: FPS rate: 47.025180585075745
+[2020-03-31 18:35:08,145][INFO] - OcrStream: # frames processed: 210
+[2020-03-31 18:35:08,145][INFO] - OcrStream: FPS rate: 47.294139971251
+[2020-03-31 18:35:08,339][INFO] - OcrStream: # frames processed: 220
+[2020-03-31 18:35:08,339][INFO] - OcrStream: FPS rate: 47.473241001790385
+[2020-03-31 18:35:08,518][INFO] - OcrStream: # frames processed: 230
+[2020-03-31 18:35:08,518][INFO] - OcrStream: FPS rate: 47.78628454411844
+[2020-03-31 18:35:08,701][INFO] - OcrStream: # frames processed: 240
+[2020-03-31 18:35:08,701][INFO] - OcrStream: FPS rate: 48.03433851256277
+[2020-03-31 18:35:08,887][INFO] - OcrStream: # frames processed: 250
+[2020-03-31 18:35:08,887][INFO] - OcrStream: FPS rate: 48.236513926323596
+[2020-03-31 18:35:09,080][INFO] - OcrStream: # frames processed: 260
+[2020-03-31 18:35:09,080][INFO] - OcrStream: FPS rate: 48.36730228752278
+[2020-03-31 18:35:09,262][INFO] - OcrStream: # frames processed: 270
+[2020-03-31 18:35:09,262][INFO] - OcrStream: FPS rate: 48.58696355890038
+[2020-03-31 18:35:09,458][INFO] - OcrStream: # frames processed: 280
+[2020-03-31 18:35:09,458][INFO] - OcrStream: FPS rate: 48.66974246715314
+[2020-03-31 18:35:09,635][INFO] - OcrStream: # frames processed: 290
+[2020-03-31 18:35:09,636][INFO] - OcrStream: FPS rate: 48.896144207483495
+[2020-03-31 18:35:09,846][INFO] - OcrStream: # frames processed: 300
+[2020-03-31 18:35:09,846][INFO] - OcrStream: FPS rate: 48.85126891699322
+[2020-03-31 18:35:10,030][INFO] - OcrStream: # frames processed: 310
+[2020-03-31 18:35:10,030][INFO] - OcrStream: FPS rate: 49.01142872543674
+[2020-03-31 18:35:10,223][INFO] - OcrStream: # frames processed: 320
+[2020-03-31 18:35:10,223][INFO] - OcrStream: FPS rate: 49.091582955298215
+[2020-03-31 18:35:10,422][INFO] - OcrStream: # frames processed: 330
+[2020-03-31 18:35:10,422][INFO] - OcrStream: FPS rate: 49.128611570784166
+[2020-03-31 18:35:10,611][INFO] - OcrStream: # frames processed: 340
+[2020-03-31 18:35:10,611][INFO] - OcrStream: FPS rate: 49.23182637472731
+[2020-03-31 18:35:10,796][INFO] - OcrStream: # frames processed: 350
+[2020-03-31 18:35:10,796][INFO] - OcrStream: FPS rate: 49.35541702926602
+[2020-03-31 18:35:10,986][INFO] - OcrStream: # frames processed: 360
+[2020-03-31 18:35:10,986][INFO] - OcrStream: FPS rate: 49.44238549488655
+[2020-03-31 18:35:11,170][INFO] - OcrStream: # frames processed: 370
+[2020-03-31 18:35:11,170][INFO] - OcrStream: FPS rate: 49.56441074739463
+[2020-03-31 18:35:11,362][INFO] - OcrStream: # frames processed: 380
+[2020-03-31 18:35:11,362][INFO] - OcrStream: FPS rate: 49.62720703506184
+[2020-03-31 18:35:11,548][INFO] - OcrStream: # frames processed: 390
+[2020-03-31 18:35:11,548][INFO] - OcrStream: FPS rate: 49.72341890039951
+[2020-03-31 18:35:11,762][INFO] - OcrStream: # frames processed: 400
+[2020-03-31 18:35:11,762][INFO] - OcrStream: FPS rate: 49.64512052183964
+[2020-03-31 18:35:11,992][INFO] - OcrStream: # frames processed: 410
+[2020-03-31 18:35:11,992][INFO] - OcrStream: FPS rate: 49.47122467201446
+[2020-03-31 18:35:12,230][INFO] - OcrStream: # frames processed: 420
+[2020-03-31 18:35:12,230][INFO] - OcrStream: FPS rate: 49.265789678280356
+[2020-03-31 18:35:12,438][INFO] - OcrStream: # frames processed: 430
+[2020-03-31 18:35:12,438][INFO] - OcrStream: FPS rate: 49.23765061083
+[2020-03-31 18:35:12,652][INFO] - OcrStream: # frames processed: 440
+[2020-03-31 18:35:12,652][INFO] - OcrStream: FPS rate: 49.17853344294148
+[2020-03-31 18:35:12,854][INFO] - OcrStream: # frames processed: 450
+[2020-03-31 18:35:12,854][INFO] - OcrStream: FPS rate: 49.18526537831094
+[2020-03-31 18:35:13,054][INFO] - OcrStream: # frames processed: 460
+[2020-03-31 18:35:13,054][INFO] - OcrStream: FPS rate: 49.20289884455116
+[2020-03-31 18:35:13,242][INFO] - OcrStream: # frames processed: 470
+[2020-03-31 18:35:13,242][INFO] - OcrStream: FPS rate: 49.28143216034486
+[2020-03-31 18:35:13,438][INFO] - OcrStream: # frames processed: 480
+[2020-03-31 18:35:13,438][INFO] - OcrStream: FPS rate: 49.316632790557854
+[2020-03-31 18:35:13,623][INFO] - OcrStream: # frames processed: 490
+[2020-03-31 18:35:13,623][INFO] - OcrStream: FPS rate: 49.40420761340232
+[2020-03-31 18:35:13,834][INFO] - OcrStream: # frames processed: 500
+[2020-03-31 18:35:13,834][INFO] - OcrStream: FPS rate: 49.36287318081162
+[2020-03-31 18:35:14,014][INFO] - OcrStream: # frames processed: 510
+[2020-03-31 18:35:14,014][INFO] - OcrStream: FPS rate: 49.47118233925344
+[2020-03-31 18:35:14,208][INFO] - OcrStream: # frames processed: 520
+[2020-03-31 18:35:14,208][INFO] - OcrStream: FPS rate: 49.50913222107936
+[2020-03-31 18:35:14,394][INFO] - OcrStream: # frames processed: 530
+[2020-03-31 18:35:14,394][INFO] - OcrStream: FPS rate: 49.58286294640513
+[2020-03-31 18:35:14,598][INFO] - OcrStream: # frames processed: 540
+[2020-03-31 18:35:14,598][INFO] - OcrStream: FPS rate: 49.572911456138456
+[2020-03-31 18:35:14,790][INFO] - OcrStream: # frames processed: 550
+[2020-03-31 18:35:14,790][INFO] - OcrStream: FPS rate: 49.61550715161494
+[2020-03-31 18:35:14,994][INFO] - OcrStream: # frames processed: 560
+[2020-03-31 18:35:14,994][INFO] - OcrStream: FPS rate: 49.60531004281818
+[2020-03-31 18:35:15,193][INFO] - OcrStream: # frames processed: 570
+[2020-03-31 18:35:15,194][INFO] - OcrStream: FPS rate: 49.61331714857804
+[2020-03-31 18:35:15,378][INFO] - OcrStream: # frames processed: 580
+[2020-03-31 18:35:15,378][INFO] - OcrStream: FPS rate: 49.687053401520735
+[2020-03-31 18:35:15,555][INFO] - OcrStream: # frames processed: 590
+[2020-03-31 18:35:15,555][INFO] - OcrStream: FPS rate: 49.78772670574121
+[2020-03-31 18:35:15,618][ERROR] - OcrStream: No frame found
 Traceback (most recent call last):
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
+  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 31, in _ocr_loop
     frame = self.video_reader.read()
   File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
     raise Exception("No frame found")
 Exception: No frame found
-[2020-03-30 14:31:15,075][INFO] - CNDProject: Stop Project
-[2020-03-30 14:31:15,075][INFO] - VideoReader: Stop VideoReader
-[2020-03-30 14:31:15,078][INFO] - OcrStream: Stop OcrStream
-[2020-03-30 14:31:15,078][INFO] - VisualizeStream: Stop VisualizeStream
-[2020-03-30 14:31:37,461][INFO] - VideoReader: Create VideoReader
-[2020-03-30 14:31:37,502][INFO] - OcrStream: Create OcrStream
-[2020-03-30 14:31:37,507][INFO] - VideoWriter: Create VideoWriter
-[2020-03-30 14:31:37,507][INFO] - VisualizeStream: Create VisualizeStream
-[2020-03-30 14:31:37,507][INFO] - CNDProject: Start Project
-[2020-03-30 14:31:37,507][INFO] - CNDProject: Start project act start
-[2020-03-30 14:31:37,507][INFO] - VideoReader: Start VideoReader
-[2020-03-30 14:31:37,527][INFO] - OcrStream: Start OcrStream
-[2020-03-30 14:31:37,527][INFO] - VisualizeStream: Start VisualizeStream
-[2020-03-30 14:31:46,504][ERROR] - OcrStream: No frame found
-Traceback (most recent call last):
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
-    frame = self.video_reader.read()
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
-    raise Exception("No frame found")
-Exception: No frame found
-[2020-03-30 14:31:46,504][INFO] - CNDProject: Stop Project
-[2020-03-30 14:31:46,505][INFO] - VideoReader: Stop VideoReader
-[2020-03-30 14:31:46,507][INFO] - OcrStream: Stop OcrStream
-[2020-03-30 14:31:46,507][INFO] - VisualizeStream: Stop VisualizeStream
-[2020-03-30 14:31:46,509][INFO] - VideoWriter: Stop VideoWriter
-[2020-03-30 14:31:46,514][INFO] - CNDProject: Stop Project
-[2020-03-30 14:31:46,514][INFO] - VideoReader: Stop VideoReader
-[2020-03-30 14:31:46,514][INFO] - OcrStream: Stop OcrStream
-[2020-03-30 14:31:46,514][INFO] - VisualizeStream: Stop VisualizeStream
-[2020-03-30 14:31:46,514][INFO] - VideoWriter: Stop VideoWriter
-[2020-03-30 14:35:03,688][INFO] - VideoReader: Create VideoReader
-[2020-03-30 14:35:03,722][INFO] - OcrStream: Create OcrStream
-[2020-03-30 14:35:03,725][INFO] - VideoWriter: Create VideoWriter
-[2020-03-30 14:35:03,725][INFO] - VisualizeStream: Create VisualizeStream
-[2020-03-30 14:35:03,725][INFO] - CNDProject: Start Project
-[2020-03-30 14:35:03,726][INFO] - CNDProject: Start project act start
-[2020-03-30 14:35:03,726][INFO] - VideoReader: Start VideoReader
-[2020-03-30 14:35:03,746][INFO] - OcrStream: Start OcrStream
-[2020-03-30 14:35:03,746][INFO] - VisualizeStream: Start VisualizeStream
-[2020-03-30 14:35:20,463][ERROR] - OcrStream: No frame found
-Traceback (most recent call last):
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
-    frame = self.video_reader.read()
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
-    raise Exception("No frame found")
-Exception: No frame found
-[2020-03-30 14:35:20,463][INFO] - CNDProject: Stop Project
-[2020-03-30 14:35:20,463][INFO] - VideoReader: Stop VideoReader
-[2020-03-30 14:35:20,465][INFO] - OcrStream: Stop OcrStream
-[2020-03-30 14:35:20,465][INFO] - VisualizeStream: Stop VisualizeStream
-[2020-03-30 14:36:04,677][INFO] - VideoReader: Create VideoReader
-[2020-03-30 14:36:04,718][INFO] - OcrStream: Create OcrStream
-[2020-03-30 14:36:04,725][INFO] - VideoWriter: Create VideoWriter
-[2020-03-30 14:36:04,725][INFO] - VisualizeStream: Create VisualizeStream
-[2020-03-30 14:36:04,725][INFO] - CNDProject: Start Project
-[2020-03-30 14:36:04,725][INFO] - CNDProject: Start project act start
-[2020-03-30 14:36:04,725][INFO] - VideoReader: Start VideoReader
-[2020-03-30 14:36:04,753][INFO] - OcrStream: Start OcrStream
-[2020-03-30 14:36:04,754][INFO] - VisualizeStream: Start VisualizeStream
-[2020-03-30 14:36:21,931][ERROR] - OcrStream: No frame found
-Traceback (most recent call last):
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
-    frame = self.video_reader.read()
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
-    raise Exception("No frame found")
-Exception: No frame found
-[2020-03-30 14:36:21,932][INFO] - CNDProject: Stop Project
-[2020-03-30 14:36:21,932][INFO] - VideoReader: Stop VideoReader
-[2020-03-30 14:36:21,935][INFO] - OcrStream: Stop OcrStream
-[2020-03-30 14:36:21,935][INFO] - VisualizeStream: Stop VisualizeStream
-[2020-03-30 14:36:21,939][INFO] - VideoWriter: Stop VideoWriter
-[2020-03-30 14:36:21,941][INFO] - CNDProject: Stop Project
-[2020-03-30 14:36:21,941][INFO] - VideoReader: Stop VideoReader
-[2020-03-30 14:36:21,941][INFO] - OcrStream: Stop OcrStream
-[2020-03-30 14:36:21,941][INFO] - VisualizeStream: Stop VisualizeStream
-[2020-03-30 14:36:21,941][INFO] - VideoWriter: Stop VideoWriter
-[2020-03-30 14:53:53,437][INFO] - VideoReader: Create VideoReader
-[2020-03-30 14:53:53,437][ERROR] - __main__: No state found at /home/stefan/Documents/CarNumbers_ocr/cnd/exp/exp1/best_model_colab_700.pth
-Traceback (most recent call last):
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/run.py", line 84, in <module>
-    args.model_path)
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/run.py", line 40, in __init__
-    self.model_path)
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 19, in __init__
-    self.predictor = Predictor(self.model_path)
-  File "/home/stefan/Documents/CarNumbers_ocr/cnd/ocr/predictor.py", line 8, in __init__
-    self.model = load_model(model_path, device=device)
-  File "/home/stefan/.local/lib/python3.6/site-packages/argus/model/model.py", line 203, in load_model
-    raise FileNotFoundError(f"No state found at {file_path}")
-FileNotFoundError: No state found at /home/stefan/Documents/CarNumbers_ocr/cnd/exp/exp1/best_model_colab_700.pth
-[2020-03-30 14:55:05,866][INFO] - VideoReader: Create VideoReader
-[2020-03-30 14:55:05,924][INFO] - OcrStream: Create OcrStream
-[2020-03-30 14:55:05,940][INFO] - VideoWriter: Create VideoWriter
-[2020-03-30 14:55:05,941][INFO] - VisualizeStream: Create VisualizeStream
-[2020-03-30 14:55:05,941][INFO] - CNDProject: Start Project
-[2020-03-30 14:55:05,941][INFO] - CNDProject: Start project act start
-[2020-03-30 14:55:05,941][INFO] - VideoReader: Start VideoReader
-[2020-03-30 14:55:05,991][INFO] - OcrStream: Start OcrStream
-[2020-03-30 14:55:05,992][INFO] - VisualizeStream: Start VisualizeStream
-[2020-03-30 14:55:28,732][ERROR] - OcrStream: No frame found
-Traceback (most recent call last):
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
-    frame = self.video_reader.read()
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
-    raise Exception("No frame found")
-Exception: No frame found
-[2020-03-30 14:55:28,733][INFO] - CNDProject: Stop Project
-[2020-03-30 14:55:28,733][INFO] - VideoReader: Stop VideoReader
-[2020-03-30 14:55:28,737][INFO] - OcrStream: Stop OcrStream
-[2020-03-30 14:55:28,738][INFO] - VisualizeStream: Stop VisualizeStream
-[2020-03-30 14:55:45,592][INFO] - VideoReader: Create VideoReader
-[2020-03-30 14:55:45,608][INFO] - OcrStream: Create OcrStream
-[2020-03-30 14:55:45,611][INFO] - VideoWriter: Create VideoWriter
-[2020-03-30 14:55:45,612][INFO] - VisualizeStream: Create VisualizeStream
-[2020-03-30 14:55:45,612][INFO] - CNDProject: Start Project
-[2020-03-30 14:55:45,612][INFO] - CNDProject: Start project act start
-[2020-03-30 14:55:45,612][INFO] - VideoReader: Start VideoReader
-[2020-03-30 14:55:45,633][INFO] - OcrStream: Start OcrStream
-[2020-03-30 14:55:45,633][INFO] - VisualizeStream: Start VisualizeStream
-[2020-03-30 14:56:19,102][ERROR] - OcrStream: No frame found
-Traceback (most recent call last):
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/ocr_stream.py", line 28, in _ocr_loop
-    frame = self.video_reader.read()
-  File "/home/stefan/Documents/CarNumbers_ocr/worker/video_reader.py", line 24, in read
-    raise Exception("No frame found")
-Exception: No frame found
-[2020-03-30 14:56:19,103][INFO] - CNDProject: Stop Project
-[2020-03-30 14:56:19,103][INFO] - VideoReader: Stop VideoReader
-[2020-03-30 14:56:19,107][INFO] - OcrStream: Stop OcrStream
-[2020-03-30 14:56:19,108][INFO] - VisualizeStream: Stop VisualizeStream
-[2020-03-30 14:56:19,108][INFO] - VideoWriter: Stop VideoWriter
-[2020-03-30 14:56:19,111][INFO] - CNDProject: Stop Project
-[2020-03-30 14:56:19,111][INFO] - VideoReader: Stop VideoReader
-[2020-03-30 14:56:19,111][INFO] - OcrStream: Stop OcrStream
-[2020-03-30 14:56:19,111][INFO] - VisualizeStream: Stop VisualizeStream
-[2020-03-30 14:56:19,111][INFO] - VideoWriter: Stop VideoWriter
+[2020-03-31 18:35:15,618][INFO] - CNDProject: Stop Project
+[2020-03-31 18:35:15,619][INFO] - VideoReader: Stop VideoReader
+[2020-03-31 18:35:15,620][INFO] - OcrStream: Stop OcrStream
+[2020-03-31 18:35:15,620][INFO] - VisualizeStream: best str accuracy: 0.5
+[2020-03-31 18:35:15,620][INFO] - VisualizeStream: max number of common chars: 5
+[2020-03-31 18:35:15,620][INFO] - VisualizeStream: Stop VisualizeStream

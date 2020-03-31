@@ -26,7 +26,7 @@ CV_CONFIG = Config(CONFIG_PATH)
 DATASET_PATHS = [Path(CV_CONFIG.get("data_path"))]
 
 BATCH_SIZE = 150
-NUM_EPOCHS = 400
+NUM_EPOCHS = 500
 
 alphabet = "ABEKMHOPCTYX" + "".join([str(i) for i in range(10)]) + "-"
 
@@ -50,12 +50,18 @@ if __name__ == "__main__":
         EXPERIMENT_DIR.mkdir(parents=True, exist_ok=True)
 
     transforms = get_transforms(image_size=CV_CONFIG.get("ocr_image_size"))
+
     data_path = CV_CONFIG.get("data_path")
+    negative_path = CV_CONFIG.get("negative_path")
 
     all_pics = [data_path + '/' + name for name in os.listdir(data_path)]
+    negative_pics = [negative_path + '/' + name for name in os.listdir(negative_path)]
+
     train, val = train_test_split(all_pics, test_size=0.2)
-    train_dataset = OcrDataset(train, transforms)
-    val_dataset = OcrDataset(val, transforms)
+    neg_train, neg_val = train_test_split(negative_pics, test_size=0.2)
+
+    train_dataset = OcrDataset(train, neg_train, transforms)
+    val_dataset = OcrDataset(val, neg_val, transforms)
 
     train_loader = DataLoader(
         train_dataset,
