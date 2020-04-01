@@ -27,5 +27,5 @@ python3 -m worker.run
 --video_path videos/INPUT_VIDEO_NAME.MOV 
 --save_path videos/OUTPUT_NAME.MOV 
 --model_path cnd/exp/exp2/model-250-0.020266.pth 
---car_number Y726HK163
+--car_number CAR_NUMBER
 ```
