@@ -6,7 +6,7 @@ Build docker container:
 sudo docker build .
 ```
 
-Enter it:
+Enter the container:
 
 ```
 sudo docker run -i -t YOUR_ID /bin/bash
