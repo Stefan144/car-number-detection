@@ -1,7 +1,7 @@
 {
   "ocr_image_size": [32, 96],
-  "data_path": "/home/stefan/Documents/CarNumbers_ocr/NumBase",
+  "data_path": "NumBase",
   "num_input_channels": 1,
   "rnn_size": 64,
-  "negative_path": "/home/stefan/Documents/CarNumbers_ocr/Negative"
+  "negative_path": "Negative"
 }
